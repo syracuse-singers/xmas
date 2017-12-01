@@ -1,5 +1,9 @@
 # CHANGELOG 
 
+## December 1, 2017
+
+- We should use GitHub issues from here on to track changes to songs in the repo.
+
 ## December 5, 2016
 
 ### Shepherds Arise
