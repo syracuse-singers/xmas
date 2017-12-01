@@ -9,6 +9,9 @@ C:John Kirkpatrick, 1995
 %%barsperstaff 0            % number of measures per staff
 %%gchordfont Times-Bold 14  % for chords
 %
+%%transpose 2               % for BSH Singers
+%%scale 0.73
+%
 M:6/4
 L:1/4
 Q:250
