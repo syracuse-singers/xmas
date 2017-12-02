@@ -4,3 +4,4 @@ This repository is for the informal group of carolers in Syracuse New York. Most
 
 Keys and settings represent the preferences of the Syracuse group. 
 
+[https://github.com/syracuse-singers/xmas/archive/master.zip](Download all files)
