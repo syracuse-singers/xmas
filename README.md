@@ -45,3 +45,10 @@ This is the listing of songs we'll be choosing from in 2017.
 
 See the [GitHub repository](https://github.com/syracuse-singers/xmas) for the complete list of song files, including the abc masters or [download all the song files in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip).
 
+<script type="text/javascript">
+  var list = document.querySelector("ul"); 
+  var links = list.getElementsByTagName("a"); 
+  for (var i = 0; i < links.length; i++) { 
+      links[i].setAttribute("target", "_blank"); 
+  }
+</script>
