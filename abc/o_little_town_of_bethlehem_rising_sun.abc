@@ -1,0 +1,45 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:O Little Town of Bethlehem
+C:Lyrics 1868 by Rector Phillips Brooks (1835-1903) of Philadelphia
+C:-set to "House of the Rising Sun", a traditional American folk song
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+M:4/4
+L:1/8
+K:D minor treble
+%
+A, | D3 E F3 A | G3 D D3 d | d3 d c3 A | A6 z d |  
+w: O lit-tle town of Beth-le-hem, how still we see thee lie. A-
+d3 F F3 A | G D-D2 D3 D | D3 D ^C A,2 C | D6 z d |  
+w: bove thy deep and dream-less - sleep, the si-lent stars - go by. Yet
+d3 d c3 F | G D3-D3 d | d3 d c3 A | A6 z d | 
+w: in thy dark streets shi-neth - the ev-er-last-ing light. The
+d3 d c3 F | (GD2) D F3 D | D3 D ^C A,2 C | D6 z 
+w: hopes and fears of all - the years are met in thee - to-night.
+W:
+W:
+W: O lit- tle town of Bethlehem, how still we see thee lie.
+W: Above thy deep and dreamless sleep the silent stars go by.
+W: Yet in thy dark streets shineth the everlasting Light.
+W: The hopes and fears of all the years are met in thee tonight.
+W: 
+W: For Christ is born of Mary and gathered all above.
+W: While mortals sleep, the angels keep their watch of wondering love.
+W: O morning stars together proclaim the holy birth
+W: And praises sing to God the King and Peace to men on earth.
+W: 
+W: How silently, how silently the wondrous gift is given!
+W: So God imparts to human hearts the blessings of His heaven.
+W: No ear may hear His coming, but in this world of sin,
+W: Where meek souls will receive him still, the dear Christ enters in.
+W: 
+W: O holy Child of Bethlehem, descend to us, we pray.
+W: Cast out our sin and enter in, be born to us today.
+W: We hear the Christmas angels, the great glad tidings tell.
+W: O come to us, abide with us, our Lord Emmanuel.

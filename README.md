@@ -33,6 +33,7 @@ This is the listing of songs we'll be choosing from in 2017.
 - [Lo, How A Rose E'er Blooming](pdf/lo_how_a_rose.pdf)
 - [Macaronic Carol](pdf/macaronic_carol.pdf)
 - [O Little One Sweet](pdf/o_little_one_sweet.pdf)
+- [O Little Town Of Bethlehem](o_little_town_of_bethlehem_rising_sun) (Rising Sun)
 - [Orientus Partibus](pdf/orientus_partibus.pdf)
 - [Over The Hill Over The Dale](pdf/over_the_hill_over_the_dale_2014.pdf)
 - [Please To See The King](pdf/please_to_see_the_king.pdf)
