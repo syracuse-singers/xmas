@@ -10,8 +10,6 @@ The format of the files in the archive are songs transcribed in [abc music notat
 
 This is the listing of songs we'll be choosing from in 2017. 
 
-See the [GitHub repository](https://github.com/syracuse-singers/xmas) for the complete list of song files, including the abc masters or [download all the song files in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip).
-
 - [Arise And Hail The Joyful Day](pdf/arise_hail_joyful_day.pdf)
 - [The Boar's Head](pdf/boars_head.pdf)
 - [The Boys Carol](pdf/boys_carol.pdf)
@@ -44,4 +42,6 @@ See the [GitHub repository](https://github.com/syracuse-singers/xmas) for the co
 - [Somerset Wassail](pdf/somerset_wassail.pdf)
 - [Wintertime](pdf/wintertime.pdf)
 - [The Wren Song](pdf/wren_song.pdf)
+
+See the [GitHub repository](https://github.com/syracuse-singers/xmas) for the complete list of song files, including the abc masters or [download all the song files in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip).
 
