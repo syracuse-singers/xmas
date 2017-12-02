@@ -15,7 +15,7 @@ See the [GitHub repository](https://github.com/syracuse-singers/xmas) for the co
 - [Arise And Hail The Joyful Day](pdf/arise_hail_joyful_day.pdf)
 - [The Boar's Head](pdf/boars_head.pdf)
 - [The Boys Carol](pdf/boys_carol.pdf)
-- [Chanukah / Solstice](pdf/chanuka_solstice.pdf)
+- [Chanukah / Solstice](pdf/chanukah_solstice.pdf)
 - [Chariots](pdf/chariots_in-d.pdf)
 - [The Cutty Wren](pdf/cutty_wren.pdf)
 - [Dona Nobis Pacem](pdf/dona_nobis_pacem.pdf)
