@@ -1,6 +1,6 @@
 # Christmas Carols
 
-A group of singers in Syracuse, NY have been singing carols over the holidays for over 20 years. This site is a simple way to share our favorite songs with each other. Keys and settings represent the preferences of the Syracuse group and each year we make additions and corrections so things will change around. Most of these songs are public domain, but there may be a few songs that are still under copyright. 
+A group of singers in Syracuse, NY have been singing carols over the holidays for over 20 years. This site is a simple way to share our favorite songs with each other. Keys and settings represent the preferences of the Syracuse group and each year we make additions and corrections so things will change around. Most of these songs are public domain, but there may be a few songs that are still under copyright. Hi Laura
 
 Most of these are not the carols you'll hear on the radio or in shopping malls. We largely draw on English pub carols with a few modern carols thrown in. You'll quick figure out that not all of these are strictly speaking Christmas carols, but also include winter songs, wassails, wren songs (December 26), and even carols for the Feast Day of the Ass (January 14). 
 
