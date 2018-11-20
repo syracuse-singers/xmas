@@ -1,17 +1,17 @@
 # Christmas Carols
 
-A group of singers in Syracuse, NY have been singing carols over the holidays for over 20 years. This site is a simple way to share our favorite songs with each other. Keys and settings represent the preferences of the Syracuse group and each year we make additions and corrections so things will change around. Most of these songs are public domain, but there may be a few songs that are still under copyright. 
+A group of singers in Syracuse, NY have been singing carols over the holidays for over 20 years. This site is a simple way to share our favorite songs with each other. Keys and settings represent the preferences of the Syracuse group and each year we make additions and corrections so some of the tunes are revised from year to year. Most of these songs are public domain, but there may be a few songs that are still under copyright. If you are the copyright holder, create an [issue in GitHub](https://github.com/syracuse-singers/xmas/issues) and let us know.
 
-Most of these are not the carols you'll hear on the radio or in shopping malls. We largely draw on English pub carols with a few modern carols thrown in. You'll quick figure out that not all of these are strictly speaking Christmas carols, but also include winter songs, wassails, wren songs (December 26), and even carols for the Feast Day of the Ass (January 14). 
+These are not the carols you generally hear on the radio or in shopping malls. We largely draw on English pub carols with a few modern carols thrown in. You'll quick figure out that not all of these are strictly speaking Christmas carols, but also include winter songs, wassails, wren songs (December 26), and even carols for the Feast Day of the Ass (January 14). 
 
 The format of the files in the archive are songs transcribed in [abc music notation](http://abcnotation.com/) and PDF files showing the abc transcription transformed into music staff notation. Some are set for unison singing and others have parts for different voices. 
 
 ## Index
 
-This is the listing of songs we'll be choosing from in 2017. 
+This is the listing of songs we'll be choosing from in 2018. 
 
 - [Arise And Hail The Joyful Day](pdf/arise_hail_joyful_day.pdf)
-- [The Boar's Head](pdf/boars_head.pdf)
+- [The Boar's Head](pdf/boars_head.pdf) - updated 2018-11-20
 - [The Boys Carol](pdf/boys_carol.pdf)
 - [Chanukah / Solstice](pdf/chanukah_solstice.pdf)
 - [Chariots](pdf/chariots_in-d.pdf)
