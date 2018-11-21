@@ -4,7 +4,7 @@ A group of singers in Syracuse, NY have been singing carols over the holidays fo
 
 Most of these songs are public domain, but there may be a few songs that are still under copyright. If you are the copyright holder, create an [issue in GitHub](https://github.com/syracuse-singers/xmas/issues) and let us know.
 
-These are not the carols you generally hear on the radio or in shopping malls. We largely draw on English pub carols with a few modern carols thrown in. You'll quick figure out that not all of these are strictly speaking Christmas carols, but also include winter songs, wassails, wren songs (December 26), and even carols for the Feast Day of the Ass (January 14). 
+These are not the carols you generally hear on the radio or in shopping malls. We largely draw on English pub carols with a few modern carols thrown in. You'll quickly figure out that not all of these are strictly speaking Christmas carols, but also include winter songs, wassails, wren songs (December 26), and even carols for the Feast Day of the Ass (January 14). 
 
 The format of the files in the archive are songs transcribed in [abc music notation](http://abcnotation.com/) and PDF files showing the abc transcription transformed into music staff notation. Some are set for unison singing and others have parts for different voices. 
 
