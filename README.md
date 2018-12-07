@@ -13,7 +13,7 @@ The format of the files in the archive are songs transcribed in [abc music notat
 This is the listing of songs we'll be choosing from in 2018. 
 
 - [Arise And Hail The Joyful Day](pdf/arise_hail_joyful_day.pdf)
-- [The Boar's Head](pdf/boars_head.pdf) - updated 2018-11-20
+- [The Boar's Head](pdf/boars_head.pdf) - [updated](https://github.com/syracuse-singers/xmas/issues/8) 2018-11-20
 - [The Boys Carol](pdf/boys_carol.pdf)
 - [Chanukah / Solstice](pdf/chanukah_solstice.pdf)
 - [Chariots](pdf/chariots_in-d.pdf)
@@ -21,6 +21,7 @@ This is the listing of songs we'll be choosing from in 2018.
 - [Dona Nobis Pacem](pdf/dona_nobis_pacem.pdf)
 - [Down In Yon Forest](pdf/down_in_yon_forest.pdf)
 - [The Friendly Beasts](pdf/friendly_beasts.pdf)
+- [Gaudete](pdf/gaudete.pdf) - [new](https://github.com/syracuse-singers/xmas/issues/9) 2018-12-07
 - [Gloucestershire Wassail](pdf/gloucestershire_wassail.pdf)
 - [Good King Wenceslaus](pdf/good_king_wenceslaus.pdf)
 - [Gower Wassail](pdf/gower_wassail.pdf)
