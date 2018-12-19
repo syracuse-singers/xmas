@@ -17,6 +17,7 @@ This is the listing of songs we'll be choosing from in 2018.
 - [The Boys Carol](pdf/boys_carol.pdf)
 - [Chanukah / Solstice](pdf/chanukah_solstice.pdf)
 - [Chariots](pdf/chariots_in-d.pdf)
+- [Christmas Song](pdf/christmas_song_coppers.pdf) (The Trees Are All Bare)
 - [The Cutty Wren](pdf/cutty_wren.pdf)
 - [Dona Nobis Pacem](pdf/dona_nobis_pacem.pdf)
 - [Down In Yon Forest](pdf/down_in_yon_forest.pdf)
