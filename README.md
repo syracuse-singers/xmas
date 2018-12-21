@@ -30,6 +30,7 @@ This is the listing of songs we'll be choosing from in 2018.
 - [The Homeless Wassail](pdf/homeless_wassail.pdf)
 - [Hunting The Cutty Wren](pdf/hunting_the_cutty_wren.pdf)
 - [Hunting The Wren](pdf/hunting_the_wren.pdf)
+- [I Am Christmas](pdf/i_am_christmas.pdf)
 - [In Praise Of Christmas](pdf/in_praise_of_christmas_harmony_in-amin.pdf)
 - [In The Bleak Midwinter](pdf/in_the_bleak_midwinter.pdf)
 - [Kentucky Wassail](pdf/kentucky_wassail.pdf)
