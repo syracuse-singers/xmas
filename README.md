@@ -1,8 +1,8 @@
 # Christmas Carols
 
-A group of singers in Syracuse, NY have been singing carols over the holidays for over 20 years. This site is a simple way to share our favorite songs with each other. Keys and settings represent the preferences of the Syracuse group. Each year we make additions and corrections so some of the tunes are revised from year to year. You can track changes (beginning in 2017) in the [GitHub issues](https://github.com/syracuse-singers/xmas/issues). 
+A group of singers in Syracuse, NY have been singing carols over the holidays for over 20 years. This site is a simple way to share our favorite songs with each other. Keys and settings represent the preferences of the Syracuse group. Each year we make additions and corrections so some of the tunes are revised from year to year. You can track changes (beginning in 2017) in our [issues](https://github.com/syracuse-singers/xmas/issues) page. 
 
-Most of these songs are public domain, but there may be a few songs that are still under copyright. If you are the copyright holder, create an [issue in GitHub](https://github.com/syracuse-singers/xmas/issues) and let us know.
+Most of these songs are public domain, but there may be a few songs that are still under copyright. If you are the copyright holder, create an [issue](https://github.com/syracuse-singers/xmas/issues) and let us know.
 
 These are not the carols you generally hear on the radio or in shopping malls. We largely draw on English pub carols with a few modern carols thrown in. You'll quickly figure out that not all of these are strictly speaking Christmas carols, but also include winter songs, wassails, wren songs (December 26), and even carols for the Feast Day of the Ass (January 14). 
 
@@ -37,19 +37,19 @@ This is the listing of songs we'll be choosing from in 2018.
 - [Lo, How A Rose E'er Blooming](pdf/lo_how_a_rose.pdf)
 - [Macaronic Carol](pdf/macaronic_carol.pdf)
 - [O Little One Sweet](pdf/o_little_one_sweet.pdf)
-- [O Little Town Of Bethlehem](pdf/o_little_town_of_bethlehem_rising_sun.pdf) (Rising Sun)
+- [O Little Town Of Bethlehem](pdf/o_little_town_of_bethlehem_rising_sun.pdf) (Rising Sun tune)
 - [Orientus Partibus](pdf/orientus_partibus.pdf)
 - [Over The Hill Over The Dale](pdf/over_the_hill_over_the_dale_2014.pdf)
 - [Please To See The King](pdf/please_to_see_the_king.pdf)
 - [Rolling Downward](pdf/rolling_downward.pdf) (unison)
 - [Rolling Downward](pdf/rolling_downward_harmony.pdf) (harmony)
-- [Shepherds Arise](pdf/shepherds_arise_2-part_v2.pdf) [Note: we actually sing a 3 part version, but it is under license by Finest Kind and can not be reproduced here]
+- [Shepherds Arise](pdf/shepherds_arise_2-part_v2.pdf) [Note: we actually sing a 3 part version, but that arrangement is under license by Finest Kind and can not be reproduced here]
 - [Sherburne C.M.](pdf/sherburne.pdf)
 - [Somerset Wassail](pdf/somerset_wassail.pdf)
 - [Wintertime](pdf/wintertime.pdf)
 - [The Wren Song](pdf/wren_song.pdf)
 
-See the [GitHub repository](https://github.com/syracuse-singers/xmas) for the complete list of song files, including the abc masters or [download all the song files in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip).
+See the [master carol repository](https://github.com/syracuse-singers/xmas) for the complete list of song files, including the abc masters or [download all the song files in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip). 
 
 <script type="text/javascript">
   var list = document.querySelector("ul"); 
