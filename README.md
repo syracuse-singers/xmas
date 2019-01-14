@@ -10,8 +10,10 @@ The format of the files in the archive are songs transcribed in [abc music notat
 
 ## Index
 
-This is the listing of songs we'll be choosing from in 2018. 
+Updated for the January 2019 Wassailing event.
 
+- [Apple Tree Wassail](pdf/apple_tree_wassail_devonshire.pdf) (Devonshire) — still a draft!
+- [Apple Tree Wassail](pdf/apple_tree_wassail_somerset.pdf) (Somerset)
 - [Arise And Hail The Joyful Day](pdf/arise_hail_joyful_day.pdf)
 - [The Boar's Head](pdf/boars_head.pdf)
 - [The Boys Carol](pdf/boys_carol.pdf)
