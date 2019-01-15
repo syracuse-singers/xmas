@@ -19,7 +19,7 @@ Updated for the January 2019 Wassailing event.
 - [The Boys Carol](pdf/boys_carol.pdf)
 - [Chanukah / Solstice](pdf/chanukah_solstice.pdf)
 - [Chariots](pdf/chariots_in-d.pdf)
-- [Christmas Song](pdf/christmas_song_coppers.pdf) (The Trees Are All Bare)
+- [Copper's Christmas Song](pdf/coppers_christmas_song.pdf) (The Trees Are All Bare)
 - [The Cutty Wren](pdf/cutty_wren.pdf)
 - [Dona Nobis Pacem](pdf/dona_nobis_pacem.pdf)
 - [Down In Yon Forest](pdf/down_in_yon_forest.pdf)
