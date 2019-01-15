@@ -12,8 +12,7 @@ The format of the files in the archive are songs transcribed in [abc music notat
 
 Updated for the January 2019 Wassailing event.
 
-- [Apple Tree Wassail](pdf/apple_tree_wassail_devonshire.pdf) (Devonshire) — still a draft!
-- [Apple Tree Wassail](pdf/apple_tree_wassail_somerset.pdf) (Somerset)
+- [Apple Tree Wassail](pdf/apple_tree_wassail.pdf)
 - [Arise And Hail The Joyful Day](pdf/arise_hail_joyful_day.pdf)
 - [The Boar's Head](pdf/boars_head.pdf)
 - [The Boys Carol](pdf/boys_carol.pdf)
@@ -40,6 +39,7 @@ Updated for the January 2019 Wassailing event.
 - [Macaronic Carol](pdf/macaronic_carol.pdf)
 - [O Little One Sweet](pdf/o_little_one_sweet.pdf)
 - [O Little Town Of Bethlehem](pdf/o_little_town_of_bethlehem_rising_sun.pdf) (Rising Sun tune)
+- [Old Apple Tree](pdf/old_apple_tree.pdf)
 - [Orientus Partibus](pdf/orientus_partibus.pdf)
 - [Over The Hill Over The Dale](pdf/over_the_hill_over_the_dale_2014.pdf)
 - [Please To See The King](pdf/please_to_see_the_king.pdf)
