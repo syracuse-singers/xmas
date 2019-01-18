@@ -45,7 +45,7 @@ Updated for the January 2019 Wassailing event.
 - [Please To See The King](pdf/please_to_see_the_king.pdf)
 - [Rolling Downward](pdf/rolling_downward.pdf) (unison)
 - [Rolling Downward](pdf/rolling_downward_harmony.pdf) (harmony)
-- [Rumsey Road Wassail](pdf/rumsey_road_wassail.pdf) (harmony)
+- [Rumsey Road Wassail](pdf/rumsey_road_wassail.pdf)
 - [Shepherds Arise](pdf/shepherds_arise_2-part_v2.pdf) [Note: we actually sing a 3 part version, but that arrangement is under license by Finest Kind and can not be reproduced here]
 - [Sherburne C.M.](pdf/sherburne.pdf)
 - [Somerset Wassail](pdf/somerset_wassail.pdf)
