@@ -1,0 +1,71 @@
+%abc
+%%footer	"$T	$P	$D"
+I:abc-charset utf-8
+
+X:1
+T:Rumsey Road Wassail
+%
+T:Old Apple Tree Wassail
+C:trad. English (Somerset)
+U: H = fermata
+%%tempofont Helvetica 12
+Q:"with a swing   " 3/8=96
+M:6/8
+L:1/8
+K:G transpose=-5
+%%transpose -5
+%
+z D | G2 G (FE) D | c2 c (AB) c | 
+w: 1.~Old ap-ple tree,_we was-sail thee,_ And
+w: 2.~The mor-ris dan_cers come each year_to
+w: 3.~The Mam-mal Roast_ brings ma-ny friends_ to
+w: 4.~The King-ston Black_ bleeds bit-ter sharp,_ Brown
+%
+B2 G A2F | G3-G2 D | G2 G (FE) D | 
+w: hope that thou will bear._ The Lord doth know_ where
+w: sing be-neath your boughs._ They drink your ci-_der
+w: eat and drink and play._ They see your swel-_ling
+w: Snout is bit-ter-sweet._ The ap-ples grown_ at
+%
+c2 c A B c | B A G A2 F | G3-G 
+w: we shall be_ when ap_ples come next year._
+w: by the fire_ and hap_pi-ly ca-rouse._
+w: fruit, and toast to the com--ing har-vest day._
+w: Stone Fence Farm make a har--mo-ny com-plete._
+%
+%%vskip 0.5cm
+%
+P:CHORUS
+(Bc) | d2 d (dc) B | c2 c c B A | B2 c d2 B | 
+w: For it's stand well, trunk,_ and bear well, branch,_ so mer-ry let us
+%
+A3-A2 D | G2 G (FE) D | c2 c A B c | 
+w: be;_ Let all of us_ take off our hats and shout
+w: -[last~time] Take off your hat_ and shout Hoo-ray!_ for
+%
+BAG AGF | G3-G ||
+w: out to the old ap-ple tree!_
+w: Pe-_ter's ap--ple trees!_
+%
+%%vskip 1.0cm
+% 
+W: Shouted:
+W: Hatfuls, capfuls, three bushel bagfuls
+W: And a little heap under the stairs
+W: Hip! Hip! Hurray!
+%
+%%vskip 1.0cm
+%%textfont Times-Italic 12
+%%begintext fill
+%%The tune and (with minor differences) first verse and chorus are traditional.
+%%Verses 2-4 and final chorus were written by Susan Galbraith, 2019, in honor of
+%%Peter Hoover and his Stone Fence Farm cider orchard in Trumansburg, NY. 
+%%
+%%From "The Christmas Revels Songbook":
+%%This wassail ritual, performed at night by firelight, ensured new growth in the 
+%%fruit trees. Bits of lambs' wool, dipped in old cider, were affixed to the branches
+%%of the trees. The singing and dancing was punctuated with loud banging noises
+%%and shouts to drive away evil spirits. This variant from Somerset reflects the
+%%early origins of the carol, which involved taking hands and singing while dancing
+%%in a ring or around a bush or May tree.
+%%endtext
