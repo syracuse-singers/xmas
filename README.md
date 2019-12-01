@@ -31,7 +31,7 @@ Updated for the January 2019 Wassailing event.
 - [The Homeless Wassail](pdf/homeless_wassail.pdf)
 - [Hunting The Cutty Wren](pdf/hunting_the_cutty_wren.pdf)
 - [Hunting The Wren](pdf/hunting_the_wren.pdf)
-- [I Am Christmas](pdf/i_am_christmas_SATB.pdf) [Used with permission of authors, John Conolly and Bill Meek. Based on an arrangement by Graham Pratt.]
+- [I Am Christmas](pdf/i_am_christmas_SATB.pdf) [Used with permission of authors]
 - [In Praise Of Christmas](pdf/in_praise_of_christmas_harmony_in-amin.pdf)
 - [In The Bleak Midwinter](pdf/in_the_bleak_midwinter.pdf)
 - [Kentucky Wassail](pdf/kentucky_wassail.pdf)
