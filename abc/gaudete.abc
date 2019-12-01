@@ -1,0 +1,43 @@
+%%footer	"$T	$P	$D"
+
+X:1
+T:Gaudete
+C:14th Century tune (Piae Cantiones, 1582)
+C:arrangement John Bromka, 1996
+%
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=bass
+V:4 clef=bass
+V:5 clef=treble
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 6            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+U: H = fermata
+%
+M:3/4
+L:1/4
+K:Bb
+%
+%%staves 5
+%
+[V:5] G G F | G/A/ B B/A/- | A/G/ F F/z/ | F G A- | A/G/ F G/A/- | A/G/ F G/ z/ ||
+w: Gau- de- te, gau- de- te Chris- tus_ est nau- tus ex Ma-ri_ a vir- gi- ne_ gau- de- te.
+%
+%%staves [(1 2) | (3 4)]
+% 
+[V:1] G G F | G/A/ B B/A/- | A/G/ F F/z/ | F G A- | A/G/ F G/A/- | A/G/ F G/z/ ||
+[V:2] D D D | D/D/ F F/F/- | F/G/ D D/z/ | D D F- | F/D/ D D/F/- | F/C/ D D/z/ ||
+w: Gau- de- te, gau- de- te Chris- tus_ est nau- tus ex Ma-ri_ a vir- gi- ne_ gau- de- te.
+[V:3] G, B, A, | B,/C/ D D/C/- | C/B,/ A, A,/z/ | A, B, C- | C/B,/ A, G,/F,/- | F,/G,/ A, G,/z/ ||
+[V:4] G, G, D, | G,/F,/ B,, B,,/F,/- | F,/G,/ D, D,/z/ | D, G, F,- | F,/G,/ D, E,/F,/- | F,/E,/ D, G,,/z/ ||
+%
+%%staves 5
+% 
+[V:5][M:4/4] F/F/ F/G/ A/B/ A | F/D/ =E/F/ D D/z/ | F/D/ E/F/ G/A/ G/z/ | A/F/ G/A/ F F/z/ || 
+w: 1.~~Tem- pus ad- est gra- ti- ae hoc quod op- ta- ba- mus, Car- mi- na lae- ti- ti- ae de- vo- te red- da- mus.
+w: 2.~~De- us ho- mo fac- tus est na- tur- a mir- an- te, Mun- dus re- no- va- tus est a Chris- to reg- nan- te.
+w: 3.~~E- ze- chee- lis por_ ta clau- sa per tran- si- tur, Un- de lux est or_ ta sa- lus in- ve- ni- ur.
+w: 4.~~Er- go nos- tra con- ti- o psal- lat iam in lus- tro, Be- ne- di- cat Do- mi- no sa- lus re- gi nos- tro.
