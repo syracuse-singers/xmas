@@ -41,7 +41,7 @@ Updated for the annual December 2019 caroling event.
 - [Rolling Downward](pdf/rolling_downward.pdf) (unison)
 - [Rolling Downward](pdf/rolling_downward_harmony.pdf) (harmony)
 - [Rumsey Road Wassail](pdf/rumsey_road_wassail.pdf)
-- [Shepherds Arise](pdf/shepherds_arise_2-part_v2.pdf) [Note: we actually sing a 3 part version, but that arrangement is under license by Finest Kind and can not be reproduced here]
+- Shepherds Arise [1](#note_shepherds_arise)
 - [Sherburne C.M.](pdf/sherburne.pdf)
 - [Somerset Wassail](pdf/somerset_wassail.pdf)
 - [Wintertime](pdf/wintertime.pdf)
@@ -60,6 +60,10 @@ We are using a [Creative Commons CC-BY](https://creativecommons.org/licenses/by/
 ## Downloading Files
 
 The caroling group sometimes drops songs from its repertoire. When this happens, we drop it from the index of titles (above), but we generally don't remove it from the repository. See the [master carol repository](https://github.com/syracuse-singers/xmas) for the complete list of song files. Via the repository, can also download the abc song masters individually or [download the entire repository in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip). 
+
+## Footnotes
+
+- <div id="note_shepherds_arise">1</div> Shepherds Arise - The version of this song that is [in the repository](https://syracuse-singers.github.io/xmas/pdf/shepherds_arise_2-part_v2.pdf) is a two-part arrangement transcribed from Bob Copper's book, "A Song For Every Season". That, however, is not the version we currently sing. Our group has licensed a three-part arrangement from Ian Robb's group, Finest Kind. Licensed sheet music is for purchase on Ian's [website](http://ianrobb.com/sheetmusic/default.htm). 
 
 <script type="text/javascript">
   var list = document.querySelector("ul"); 
