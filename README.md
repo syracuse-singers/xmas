@@ -1,12 +1,8 @@
 # Christmas Carols
 
-A group of singers in Syracuse, NY have been singing carols over the holidays for over 20 years. This site is a simple way to share our favorite songs with each other. Keys and settings represent the preferences of the Syracuse group. Each year we make additions and corrections so some of the tunes are revised from year to year. You can track changes (beginning in 2017) in our [issues](https://github.com/syracuse-singers/xmas/issues) page. 
-
-Most of these songs are public domain, but there may be a few songs that are still under copyright. If you are the copyright holder, create an [issue](https://github.com/syracuse-singers/xmas/issues) and let us know.
+A group of singers in Syracuse, NY have been singing carols over the holidays for over 20 years. This site exists mostly as a way to share our favorite songs with each other. Keys and settings represent the preferences of the Syracuse group. Songs may be set for unison singing or parts depending on our preference and/or the availability of good arrangements. 
 
 These are not the carols you generally hear on the radio or in shopping malls. We largely draw on English pub carols with a few modern carols thrown in. You'll quickly figure out that not all of these are strictly speaking Christmas carols, but also include winter songs, wassails, wren songs (December 26), and even carols for the Feast Day of the Ass (January 14). 
-
-The format of the files in the archive are songs transcribed in [abc music notation](http://abcnotation.com/) and PDF files showing the abc transcription transformed into music staff notation. Some are set for unison singing and others have parts for different voices. 
 
 ## Index
 
@@ -18,7 +14,6 @@ Updated for the January 2019 Wassailing event.
 - [The Boys Carol](pdf/boys_carol.pdf)
 - [Chanukah / Solstice](pdf/chanukah_solstice.pdf)
 - [Chariots](pdf/chariots_in-d.pdf)
-- [Copper's Christmas Song](pdf/coppers_christmas_song.pdf) (The Trees Are All Bare)
 - [The Cutty Wren](pdf/cutty_wren.pdf)
 - [Dona Nobis Pacem](pdf/dona_nobis_pacem.pdf)
 - [Down In Yon Forest](pdf/down_in_yon_forest.pdf)
@@ -31,7 +26,6 @@ Updated for the January 2019 Wassailing event.
 - [The Homeless Wassail](pdf/homeless_wassail.pdf)
 - [Hunting The Cutty Wren](pdf/hunting_the_cutty_wren.pdf)
 - [Hunting The Wren](pdf/hunting_the_wren.pdf)
-- [I Am Christmas](pdf/i_am_christmas_SATB.pdf) [Used with permission of authors]
 - [In Praise Of Christmas](pdf/in_praise_of_christmas_harmony_in-amin.pdf)
 - [In The Bleak Midwinter](pdf/in_the_bleak_midwinter.pdf)
 - [Kentucky Wassail](pdf/kentucky_wassail.pdf)
@@ -53,7 +47,19 @@ Updated for the January 2019 Wassailing event.
 - [Wintertime](pdf/wintertime.pdf)
 - [The Wren Song](pdf/wren_song.pdf)
 
-See the [master carol repository](https://github.com/syracuse-singers/xmas) for the complete list of song files, including the abc masters or [download all the song files in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip). 
+## Information About This Collection
+
+The format of the files in the archive are [abc music notation](http://abcnotation.com/) that have also been set to staff notation as PDF using Jef Moine's [abcm2ps](https://formulae.brew.sh/formula/abcm2ps) music program. Once a given song setting is finalized by the group, it is uploaded to a GitHub repository that also serves as the webpage and index for our carols.
+
+Each year, as we meet to practice, we make additions, corrections, key changes, and other whimsical alterations to a song's setting. We don't plan this or even intend to do this, it just happens in the course of singing, but the result is that some of the carols are inevitably revised from year to year. Each tune should have a date and timestamp in the footer as a way to reference the current canonical version. You can also track changes (beginning in 2017) in our [issues](https://github.com/syracuse-singers/xmas/issues) page or via the repository's [commit history](https://github.com/syracuse-singers/xmas/commits/master). You can track songs we are considering or actively working on via the repository [project board](https://github.com/syracuse-singers/xmas/projects/1).
+
+## Copyright
+
+We are using a [Creative Commons CC-BY](https://creativecommons.org/licenses/by/2.0/) license, which means, in this case, that we allow the songs to be used and remixed as long as there is an attribution back to where you got the arrangement. Most of these songs are public domain, but there may be a few songs that are still under copyright. If you are the copyright holder, create an issue and let us know.
+
+## Downloading Files
+
+The caroling group sometimes drops songs from its repertoire. When this happens, we drop it from the index of titles (above), but we generally don't remove it from the repository. See the [master carol repository](https://github.com/syracuse-singers/xmas) for the complete list of song files. Via the repository, can also download the abc song masters individually or [download the entire repository in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip). 
 
 <script type="text/javascript">
   var list = document.querySelector("ul"); 
