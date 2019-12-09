@@ -68,6 +68,6 @@ The caroling group sometimes drops songs from its repertoire. When this happens,
 <script type="text/javascript">
   var pdfs = document.querySelectorAll("a[href$='.pdf']"); 
   for (var i = 0; i < pdfs.length; i++) { 
-      links[i].setAttribute("target", "_blank"); 
+      pdfs[i].setAttribute("target", "_blank"); 
   }
 </script>
