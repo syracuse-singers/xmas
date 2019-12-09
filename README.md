@@ -41,7 +41,7 @@ Updated for the annual December 2019 caroling event.
 - [Rolling Downward](pdf/rolling_downward.pdf) (unison)
 - [Rolling Downward](pdf/rolling_downward_harmony.pdf) (harmony)
 - [Rumsey Road Wassail](pdf/rumsey_road_wassail.pdf)
-- Shepherds Arise [1](#note_shepherds_arise)
+- Shepherds Arise <sup>[1](#note_shepherds_arise)</sup>
 - [Sherburne C.M.](pdf/sherburne.pdf)
 - [Somerset Wassail](pdf/somerset_wassail.pdf)
 - [Wintertime](pdf/wintertime.pdf)
@@ -63,7 +63,7 @@ The caroling group sometimes drops songs from its repertoire. When this happens,
 
 ## Footnotes
 
-- <div id="note_shepherds_arise">1</div> Shepherds Arise - The version of this song that is [in the repository](https://syracuse-singers.github.io/xmas/pdf/shepherds_arise_2-part_v2.pdf) is a two-part arrangement transcribed from Bob Copper's book, "A Song For Every Season". That, however, is not the version we currently sing. Our group has licensed a three-part arrangement from Ian Robb's group, Finest Kind. Licensed sheet music is for purchase on Ian's [website](http://ianrobb.com/sheetmusic/default.htm). 
+- <span id="note_shepherds_arise">1</span> Shepherds Arise - The version of this song that is [in the repository](https://syracuse-singers.github.io/xmas/pdf/shepherds_arise_2-part_v2.pdf) is a two-part arrangement transcribed from Bob Copper's book, "A Song For Every Season". That, however, is not the version we currently sing. Our group has licensed a three-part arrangement from Ian Robb's group, Finest Kind. Licensed sheet music is for purchase on Ian's [website](http://ianrobb.com/sheetmusic/default.htm). 
 
 <script type="text/javascript">
   var list = document.querySelector("ul"); 
