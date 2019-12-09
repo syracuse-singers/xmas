@@ -66,9 +66,8 @@ The caroling group sometimes drops songs from its repertoire. When this happens,
 1. <span id="note_shepherds_arise">Shepherds Arise</span> - The version of this song that is [in the repository](https://syracuse-singers.github.io/xmas/pdf/shepherds_arise_2-part_v2.pdf) is a two-part arrangement transcribed from Bob Copper's book, "A Song For Every Season". That, however, is not the version we currently sing. Our group has licensed a three-part arrangement from Ian Robb's group, Finest Kind. Licensed sheet music is for purchase on Ian's [website](http://ianrobb.com/sheetmusic/default.htm). 
 
 <script type="text/javascript">
-  var list = document.querySelector("ul"); 
-  var links = list.getElementsByTagName("a"); 
-  for (var i = 0; i < links.length; i++) { 
+  var pdfs = document.querySelectorAll("a[href$='.pdf']"); 
+  for (var i = 0; i < pdfs.length; i++) { 
       links[i].setAttribute("target", "_blank"); 
   }
 </script>
