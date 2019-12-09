@@ -6,7 +6,7 @@ These are not the carols you generally hear on the radio or in shopping malls. W
 
 ## Index
 
-Updated for the January 2019 Wassailing event.
+Updated for the annual December 2019 caroling event.
 
 - [Apple Tree Wassail](pdf/apple_tree_wassail.pdf)
 - [Arise And Hail The Joyful Day](pdf/arise_hail_joyful_day.pdf)
