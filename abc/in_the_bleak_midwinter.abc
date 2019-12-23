@@ -18,6 +18,7 @@ V:4 clef=bass   name="Bass"    sname="B"
 %%staves [(1 2) | (3 4)]
 M:C
 L:1/4
+Q:1/4=105
 K:G dorian
 %
 [V:1] z  | A>B   c A   | G>-G   F z  | G>A    G   D   | G3        z |
