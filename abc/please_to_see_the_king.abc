@@ -6,10 +6,10 @@ T:Our King
 C:Traditional Welsh
 C:arr. John Bromka, 1991
 %
-V:1 clef=treble octave=0 name="Soprano" sname="S" " " 
-V:2 clef=treble octave=0 name="Alto" sname="A" " " 
-V:3 clef=bass name="Tenor" sname="T" " " 
-V:4 clef=bass name="Bass" sname="B" " " 
+V:1 clef=treble octave=0 name="Soprano" sname="S"
+V:2 clef=treble octave=0 name="Alto" sname="A"
+V:3 clef=bass name="Tenor" sname="T"
+V:4 clef=bass name="Bass" sname="B"
 %
 %%measurebox true           % measure numbers in a box
 %%measurenb 0               % measure numbers at first measure
