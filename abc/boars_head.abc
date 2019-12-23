@@ -1,8 +1,8 @@
 %%footer	"$T	$P	$D"
 
-X:2
-T: The Boar's Head
-C: traditional, arr. Edward L. Stauff
+X:1
+T:The Boar's Head
+C:traditional, arr. Edward L. Stauff
 %
 V:1 clef=treble
 V:2 clef=treble
@@ -13,67 +13,66 @@ V:4 clef=bass
 %%measurenb 0               % measure numbers at first measure
 %%barsperstaff 0            % number of measures per staff
 %%gchordfont Times-Bold 14  % for chords
-U: H = fermata
+U:H = fermata
 %
-M:C
+M:4/4
 L:1/4
 Q:1/4=160
-K:F lydian
+K:Eb lydian
 %
-G | c-c c-c/c/ | B c G E/E/ |
-w: 1.~~The boar's_ head_ in hand bear I,_ Be-
-w: 2.~~The boar's_ head, as I un- der- stand, Is the
-w: 3.~~Our stew- ard hath_ pro- vi- ded this,_ In
+F | B-B B-B/2B/2 | A B F D/2D/2 |
+w:1.~~The boar's_ head_ in hand bear I,_ Be-
+w:2.~~The boar's_ head, as I un- der- stand, Is the
+w:3.~~Our stew- ard hath_ pro- vi- ded this,_ In
 %
-F F A>F | G>G Hc G/-G/ | c c/-c/ c c/-c/ |
-w: decked with bays and rose- ma- ry; And I pray you my mas- ters_
-w: rar- est dish in all the land, Which_ thus be-_ decked with a
-w: hon- or of the Queen of bliss, Which_ on this_ day to be
+E E G>E | F>F HB F/2-F/2 | B B/2-B/2 B B/2-B/2 |
+w:decked with bays and rose- ma- ry; And I pray you my mas- ters_
+w:rar- est dish in all the land, Which_ thus be-_ decked with a
+w:hon- or of the Queen of bliss, Which_ on this_ day to be
 %
-B c G> E | F F A>F | G>G Hc2 ||
-w: be mer- ry, Quot es- tis in con- vi- vi- o.
-w: gay gar- land, Let us ser- vi- re can- ti- co.
-w: ser- ved is, In re- gi- nen- si a- tri- o.
+A B F> D | E E G>E | F>F HB2 ||
+w:be mer- ry, Quot es- tis in con- vi- vi- o.
+w:gay gar- land, Let us ser- vi- re can- ti- co.
+w:ser- ved is, In re- gi- nen- si a- tri- o.
 %
 %%vskip 0.8cm
 %
 %%staves [(1 2) | (3 4)]
 %
 P:CHORUS (repeat last time)
-[V:1] c>c B  B  | c      c      G2  | F  F  A>F   | G>G   Hc2  |]
-[V:2] G>G G  G  | G      G      D2  | F  F  F>F   | D  D   E2  |]
-w: Ca- put a- pri de- fe- ro, red- dens lau- des Do- mi- no.
-[V:3] E>E D  D  | E/D/   C      B,2 | C  C  C  C  | B, B,  C2  |]
-[V:4] C>C G, G, | C,/D,/ E,/F,/ G,2 | A, A, F, F, | G, G, HC,2 |]
+[V:1] B>B A A | B B F2 | E E G>E | F>F HB2 |]
+[V:2] F>F F F | F F C2 | E E E>E | C C D2 |]
+w:Ca- put a- pri de- fe- ro, red- dens lau- des Do- mi- no.
+[V:3] D>D C C | D/2C/2 B, A,2 | B, B, B, B, | A, A, B,2 |]
+[V:4] B,>B, F, F, | B,,/2C,/2 D,/2E,/2 F,2 | G, G, E, E, | F, F, HB,,2 |]
 %
 %%vskip 0.8cm
 %
-W: 1. The boar's head in hand bear I, 
-W:    Bedecked with bays and rosemary; 
-W:    And I pray you my masters be merry, 
-W:    Quot estis in convivio. 
-W:    [So many as are in the feast.]
-W:    Caput apri defero, reddens laudes Domino. 
-W:    [The boar's head I bring, 
-W:     giving praises to God.]
+W:1. The boar's head in hand bear I, 
+W:Bedecked with bays and rosemary; 
+W:And I pray you my masters be merry, 
+W:Quot estis in convivio. 
+W:[So many as are in the feast.]
+W:Caput apri defero, reddens laudes Domino. 
+W:[The boar's head I bring, 
+W:giving praises to God.]
 W:
-W: 2. The boar's head, as I understand, 
-W:    Is the rarest dish in all the land, 
-W:    Which thus be decked with a gay garland,
-W:    Let us servire cantico. 
-W:    [Let us serve with a song.]
-W:    Caput apri defero, reddens laudes Domino.
+W:2. The boar's head, as I understand, 
+W:Is the rarest dish in all the land, 
+W:Which thus be decked with a gay garland,
+W:Let us servire cantico. 
+W:[Let us serve with a song.]
+W:Caput apri defero, reddens laudes Domino.
 W:
-W: 3. Our steward hath provided this,
-W:    In honor of the Queen of bliss, 
-W:    Which on this day to be served is, 
-W:    In reginensi atrio. 
-W:    [In the Queen's hall.]
-W:    Caput apri defero, reddens laudes Domino.
-
+W:3. Our steward hath provided this,
+W:In honor of the Queen of bliss, 
+W:Which on this day to be served is, 
+W:In reginensi atrio. 
+W:[In the Queen's hall.]
+W:Caput apri defero, reddens laudes Domino.
+%
 %%vskip 1.0cm
 %%textfont Times-Italic 14
 %%begintext fill
-%%We largely follow the Queen's College, Oxford setting from The Oxford Book of Carols. 
-%%One difference is that we repeat the chorus following the last verse.
+%%We use the Queen's College, Oxford setting from The Oxford Book of Carols. 
 %%endtext
