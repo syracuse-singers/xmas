@@ -1,6 +1,6 @@
 %abc
 I:abc-charset utf-8
-%%footer	"$T	$P	$D"
+%%abc-include _carols.abh
 
 X:1
 T:
