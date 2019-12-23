@@ -17,6 +17,7 @@ U: H = fermata
 %
 M:C
 L:1/4
+Q:1/4=160
 K:F lydian
 %
 G | c-c c-c/c/ | B c G E/E/ |
