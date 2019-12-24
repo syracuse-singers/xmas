@@ -1,4 +1,6 @@
-%%footer	"$T	$P	$D"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:Boys Carol, The
@@ -11,17 +13,12 @@ V:2 clef=treble name="Alto"    sname="A"
 V:3 clef=bass   name="Tenor"   sname="T"
 V:4 clef=bass   name="Bass"    sname="B"
 %
-%%measurebox true           % measure numbers in a box
-%%measurenb 0               % measure numbers at first measure
-%%barsperstaff 5            % number of measures per staff
-%%gchordfont Times-Bold 14  % for chords
-%
 %%staves [(1 2) | (3 4)]
 U: H = fermata
 %
 M:C|
 L:1/4
-K:F %Transposed from G
+K:F
 %
 [V:1] D  D  A2  | G  G  A2  | A  A  d2 |
 [V:2] D  D  A2  | G  C  D2  | D  A  D2 |
@@ -60,7 +57,7 @@ w: on that morn, Pro- cre- a- ted for us.
 [V:3] F, G, A,2 | G, A, G, G, | D,2 A,2 |]
 [V:4] D, E, F,2 | E, F, E, C, | D,2 D,2 |]
 %
-%%vskip 0.8cm
+%%newpage
 %
 W: 1a. Personent hodie,
 W:     Voces puerulae,
@@ -211,7 +208,6 @@ W:    In the highest, glory.
 W: 
 
 %%vskip 0.8cm
-%%textfont Times-Italic 14
 %%begintext fill
 %%Piae Cantiones, a book of Latin carols compiled in Finland in 1582,
 %%gives us The Boys' Carol, with a translation of the original text
