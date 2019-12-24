@@ -1,7 +1,10 @@
-%%footer	"$P0	$T	$P1"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:Ding Dong Bell
+C:round in 3 parts
 M:2/4
 L:1/8
 K:B
