@@ -5,16 +5,24 @@ I:abc-charset utf-8
 X:1
 T:Ding Dong Bell
 C:round in 3 parts
+%
+V:1 clef=treble name="I"
+V:2 clef=treble name="II"
+V:3 clef=treble name="III"
+%
+%%staves [1 | 2 | 3]
+%%sysstaffsep 2cm
+%
 M:2/4
 L:1/8
 K:B
 %
-"1." B2 F2 | G2 D2 | E2 F2 | B,4 |
+[V:1] B2 F2 | G2 D2 | E2 F2 | B,4 ||
 w: Ding dong ding dong ding dong bell.
 %
-"2." BB (BA) | GG (GF) | GG AA | B4 | 
+[V:2] BB (BA) | GG (GF) | GG AA | B4 ||
 w: Ding dong bell,_ ding dong bell,_ ding dong ding dong bell.
 %
-"3." d>d cf | Bc/B/ Ad | GB e/d/c | B4 |]
+[V:3] d>d cf | Bc/B/ Ad | GB e/d/c | B4 ||
 w: Fa la la la la la la la la la la la la la la.
 
