@@ -20,4 +20,5 @@
 %%barsperstaff      6                      % number of measures per staff
 %%pagescale         0.85                   % page size
 %%maxshrink         1.0                    % compact the notes
+%%breaklimit        0.7                    % where automatic line breaks occur
 %%linebreak         <none>                 % automatic line breaks
