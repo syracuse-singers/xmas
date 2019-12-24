@@ -1,6 +1,7 @@
 % PAGE LAYOUT
 %
-%%footer	"$T	$P	$D"
+%%footer            "$T	$P	$D"
+%%oneperpage        true
 %
 % FONTS
 %
