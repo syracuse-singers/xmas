@@ -1,15 +1,12 @@
-%%footer	"$T	$P	$D"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:Cutty Wren, The
 C:Collected from an Adderbury shepherd by A.L. Lloyd
 C:-set to a version of the tune, "Green Bushes"
 N:notes from http://www.mysongbook.de/msb/songs/c/cutywren.html
-%
-%%measurebox true           % measure numbers in a box
-%%measurenb 0               % measure numbers at first measure
-%%barsperstaff 0            % number of measures per staff
-%%gchordfont Times-Bold 14  % for chords
 %
 M:6/8
 L:1/8
@@ -86,9 +83,8 @@ W: We'll give 'em all to the poor, said John the Red Nose.
 W: We'll give 'em all to the poor, said John the Red Nose. 
 
 %%vskip 0.8cm
-%%textfont Times-Italic 14
 %%begintext fill
-%%The well-known Cutty wren or Hunting the wren is often
+%%The well-known Cutty Wren or Hunting the Wren is often
 %%thought of as an amiable nursery piece, yet when it was
 %%recorded from an old shepherd of Adderbury West, near
 %%Banbury, he banged the floor with his stick on the accented
@@ -108,12 +104,4 @@ W: We'll give 'em all to the poor, said John the Red Nose.
 %%begintext fill
 %%Tune is a version of "Green Bushes " from Sharp's book,
 %%"English Folk Songs".
-%%endtext
-%%vskip 0.4cm
-%%begintext fill
-%%There is a Manx legend that during the Irish rebellion, when
-%%English soldiers and Manx Fencibles were in Ireland, the
-%%noise made by the wren on the end of a drum woke a sleeping
-%%sentry and thus saved them from being taken unawares; this
-%%was the reason for hunting the wren on St. Stephen's Day.
 %%endtext
