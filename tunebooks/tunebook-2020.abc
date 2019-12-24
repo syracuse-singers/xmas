@@ -495,7 +495,11 @@ W:Songs full of gladness  and glory and light
 W:So learn your tunes well and play your pipes proudly
 W:For the Prince of Paradise plays here tonight
 
-X:7
+% -----------------------------------------------------
+%   add coppers-christmas-song                        |
+% -----------------------------------------------------
+
+X:8
 T:Cutty Wren, The
 C:Collected from an Adderbury shepherd by A.L. Lloyd
 C:-set to a version of the tune, "Green Bushes"
