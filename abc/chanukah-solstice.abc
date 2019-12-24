@@ -1,18 +1,17 @@
-%%footer	"$T	$P	December 19, 2007"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:Chanukah / Solstice
 C:Linda Hischhorn
 C:A round for four voices
-%
-%%measurebox true           % measure numbers in a box
-%%measurenb 0               % measure numbers at first measure
-%%barsperstaff 0            % number of measures per staff
-%%gchordfont Times-Bold 14  % for chords
-%
 M:4/4
 L:1/4
-K:Db %Transposed from Eb
+K:Db 
+%
+%%maxshrink 0
+%%breaklimit 1
 %
 "I"B, C D E | "II"F G F C | "III"D E A, C | "IV"B,4 |
 w: Tur- ning tur- ing spir- its yearn- ing, reach- ing for the light;
