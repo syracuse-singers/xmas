@@ -1,12 +1,19 @@
-%%footer	"$T	$P	$D"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:Rolling Downward
 T:Angel Song, The
 C:Robert Lowry
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
 %%staves [(1 2) | (3 4)]
-V:3 clef=bass
-V:4 clef=bass
+%
 M:12/8
 L:1/8
 K:Abmaj
@@ -35,8 +42,6 @@ w:ject- ed, Lamb_ of God, that takes our sin_ a- way_
 [V:3] C3 C6 A,2 A, | G,3 A,3 G,2 B, B,2 A, | G,6- G,3 ||
 [V:4] A,,3 A,,6 A,,2 A,, | E,3 E,3 E,2 E, B,,2 B,, | E,6- E,3 ||
 %
-%%newpage
-%
 [V:1] EG B | d3 d6 dc B | c3 c6 cB A |
 [V:2] E2 E | E3 E6 E2 E | E3 E6 ED C |
 w:Glo- ry, glo- ry in the high- est, On_ the
@@ -56,25 +61,25 @@ w:e- cho: Let_ the glad earth shout_ a- gain_
 [V:3] A,3 A,6 A,2 D | C3 E3 E3- E2 D | C6- C3 |]
 [V:4] D,3 D,6 D,2 D, | E,3 E,3 E,3- E,2 E, | A,,6- A,,3 |]
 %
-%%vskip 0.8cm
+%%newpage
 %
-W:1. Rolling downward, through the midnight,
-W:Comes a glorious burst of heav'nly song;
-W:'Tis a chorus full of sweetness,
-W:And the singers are an angel throng.
-W:Glory! glory in the highest!
+W: 1. Rolling downward, through the midnight,
+W:    Comes a glorious burst of heavenly song;
+W:    'Tis a chorus full of sweetness,
+W:    And the singers are an angel throng.
 W:
-W:Chorus:
-W:On the earth goodwill and peace to men!
-W:Down the ages send the echo;
-W:Let the glad earth shout again!
+W: Chorus:
+W: Glory! glory in the highest!
+W: On the earth goodwill and peace to men!
+W: Down the ages sound the echo;
+W: Let the glad earth shout again!
 W:
-W:2. Wond'ring shepherds see the glory,
-W:Hear the word the shining ones declare;
-W:At the manger fall in worship,
-W:While the music fills the quiv'ring air.
+W: 2. Wond'ring shepherds see the glory,
+W:    Hear the word the shining ones declare;
+W:    At the manger fall in worship,
+W:    While the music fills the quivering air.
 W:
-W:3. Christ the Savior, God's Anointed,
-W:Comes to earth our fearful debt to pay.
-W:Man of sorrows, and rejected,
-W:Lamb of God, that takes our sin away.
+W: 3. Christ the Savior, God's Anointed,
+W:    Comes to earth our fearful debt to pay.
+W:    Man of sorrows, and rejected,
+W:    Lamb of God, that takes our sin away.
