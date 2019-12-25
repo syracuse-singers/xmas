@@ -1,16 +1,13 @@
-%%footer	"$T	$P	$D"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:Gower Wassail
 %
-%%measurebox true           % measure numbers in a box
-%%measurenb 0               % measure numbers at first measure
-%%barsperstaff 0            % number of measures per staff
-%%gchordfont Times-Bold 14  % for chords
-%
 M:9/8
 L:1/8
-K:B %Transposed from C
+K:B
 %
 (D2 G) | G3 G3 (A2 G) | F3 F3 (G2 A) | B3 B3 c3 | A6 (B2 A) |
 w: A - was- sail a - was- sail, through - out all this town. Our_
@@ -21,7 +18,7 @@ w: cup it is white__ and our ale it is brown. Our_ was- sail is_
 F6 G2 A | (2(B A) B3 c3 | A6 (B2 A) | G3 G3 A3 |
 w: made of the good - ale and true. Some_ nut- meg and
 %
-(BcB) A3 G2 G | F3 D3 D3 | (D3 C3) || "Chorus" B,2 C | D3 D2 F E2 D |
+(BcB) A3 G2 G | F3 D3 D3 | (D3 C3) || [P:Chorus] B,2 C | D3 D2 F E2 D |
 w: gin -* ger, it's the best we can brew._ Fol the dol, fol the dol- de-
 %
 C3 C2 E D2 C | B,3 B,2 D C2 B, | A,6 G,2 A, |
