@@ -1,4 +1,6 @@
-%%footer	"$T	$P	$D"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:Gloucestershire Wassail
@@ -10,15 +12,10 @@ V:2 clef=treble name="Alto"    sname="A"
 V:3 clef=bass   name="Tenor"   sname="T"
 V:4 clef=bass   name="Bass"    sname="B"
 %
-%%measurebox true           % measure numbers in a box
-%%measurenb 0               % measure numbers at first measure
-%%barsperstaff 0            % number of measures per staff
-%%gchordfont Times-Bold 14  % for chords
-%
 %%staves [(1 2) | (3 4)]
 M:3/4
 L:1/4
-K:E % Transposed from G
+K:E
 %
 [V:1] B,  | E2    E  | E  F  G  | A   G   F   | G B B  | A  F  F  |
 [V:2] B,  | B,2   C  | B, B, E  | E   E   F   | E2  E  | C  C  C  |
@@ -82,7 +79,8 @@ W: Chorus:
 W:    Drink to thee, drink to thee,
 W:    With our wassailing bowl we'll drink to thee.
 W:
-W:    We haven't been doing verses 2-4.
+W:
+W: We don't sing verses 2-4.
 W:
 W: 2. So here is to Cherry and to his right cheek,
 W:    Pray God send our master a good good piece of beef,
