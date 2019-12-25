@@ -1,3 +1,7 @@
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
+
 X:1
 T:Sherburne C. M.
 T:While Shepherds Watched Their Flocks
@@ -9,16 +13,12 @@ V:2 clef=treble
 V:3 clef=treble
 V:4 clef=bass
 %
-%%measurebox true           % measure numbers in a box
-%%measurenb 0               % measure numbers at first measure
-%%barsperstaff 0            % number of measures per staff
-%%gchordfont Times-Bold 14  % for chords
-%
 %%staves [1 | 2 | 3 | 4]
+%
 M:4/4
 L:1/4
-K:C & Transposed from D
-Q:150
+K:C
+Q:1/4=150
 %
 [V:1] G2  G  E  | F/G/ A/B/ c c | c3   c   | B     G  A  G  | G3   ||
 w: 1.~While shep- herds watched - their - flocks by night, All seat- ed on the ground.
