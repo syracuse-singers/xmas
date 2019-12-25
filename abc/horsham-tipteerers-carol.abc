@@ -1,4 +1,6 @@
-%%footer	"$T	$P	$D"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:Horsham Tipteerers Carol
@@ -9,11 +11,6 @@ C:collected by Lucy Broadwood, 1880
 V:1 clef=treble
 V:2 clef=treble
 V:3 clef=bass
-%
-%%measurebox true           % measure numbers in a box
-%%measurenb 0               % measure numbers at first measure
-%%barsperstaff 0            % number of measures per staff
-%%gchordfont Times-Bold 14  % for chords
 %
 %%staves [1 2 | 3]
 U: H = fermata
@@ -42,7 +39,7 @@ w: rides or_ walks, Lord Je-sus be his guide;_ Lord Je__sus be his guide.
 w: day by_ day, And send you more and more;_ And send__ you more and more.
 [V:3] F, C,     F,    F, | F,>F, F, C, |[M:6/4] (F,2 C,3)   F, |[M:4/4] (F, E, D,) B,,   |  C,2 C,2 | F,3 |]
 %
-%%vskip 0.8cm
+%%newpage
 %
 W: 1. When righteous Joseph wedded was
 W:    Unto a virgin maid,
