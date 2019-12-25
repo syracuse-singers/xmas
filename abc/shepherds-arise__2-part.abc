@@ -1,4 +1,6 @@
-%%footer	"$T	$P	December 5, 2016"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:Shepherds Arise
@@ -8,13 +10,7 @@ N:From Bob Copper's book, "A Song For Every Season"
 V:1 clef=treble
 V:2 clef=treble
 %
-%%measurebox true           % measure numbers in a box
-%%measurenb 0               % measure numbers at first measure
-%%barsperstaff 0            % number of measures per staff
-%%gchordfont Times-Bold 14  % for chords
-%
-% staves [1 | 2]            % separate treble staves tied together
-%%staves (1 2)              % combined treble stave
+%%staves [1 | 2]
 U: H = fermata
 %
 M:C
@@ -51,8 +47,7 @@ w: prai- ses sing, To our Re- deem- er and our
 [V:2] A,4 A,4|D,8 |]
 w: heav'n- ly King.
 %
-% vskip 1.8cm
-%%newpage
+%% newpage
 %
 W: 1. Shepherds arise, be not afraid, with hasty steps prepare
 W:    To David's city, sin on earth,
@@ -74,4 +69,13 @@ W:    And to raise us from, and to raise us from the grave
 W:    To raise us from the grave and to raise us from the grave
 W:    Sing, sing, all earth, sing, sing, all earth eternal praises sing
 W:    To our Redeemer, to our Redeemer and our heavenly King.
+%
+%%vskip 0.8cm
+%
+%%begintext fill
+%%Transcribed from Bob Copper's book, "A Song For Every Season." 
+%%This two-part version is different from the version our group
+%%actually performs. However, because of licensing restrictions,
+%%we are unable to distribute it outside our caroling group.
+%%endtext
 
