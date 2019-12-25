@@ -1,13 +1,12 @@
-%%footer	"$T	$P	$D"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T: Dona Nobis Pacem
 C:attributed to Palestrina, 1525-1594
+C:three part round
 %
-%%measurebox true           % measure numbers in a box
-%%measurenb 0               % measure numbers at first measure
-%%barsperstaff 8            % number of measures per staff
-%%gchordfont Times-Bold 14  % for chords
 %%sysstaffsep 2cm
 %
 V:1 clef=treble name="I"
@@ -20,7 +19,6 @@ L:1/4
 Q:90
 K:F
 %
-"Three-Part Round"
 [V:1] (F/C/) A2|(G/C/) B2|(A G F)|F E2|(d c/B/) (A/G/)|(c>B) A|(A/G/ F E)|F3||
 w: Do_ na no_ bis pa_ cem pa- cem. Do__ na_ no_ bis pa___ cem.
 %
