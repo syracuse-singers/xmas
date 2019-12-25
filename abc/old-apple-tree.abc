@@ -1,13 +1,12 @@
 %abc
-%%footer	"$T	$P	$D"
 I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:Old Apple Tree
 T:Apple Tree Wassail
 C:trad. English (Somerset)
 U: H = fermata
-%%tempofont Helvetica 12
 Q:"with a swing   " 3/8=96
 M:6/8
 L:1/8
@@ -34,7 +33,7 @@ w: be;_ Let ev-'ry-one_ drink up his cup:_ Here's
 B G G A F F | G3-G :|
 w: health to the old ap-ple tree!_
 %
-%%vskip 1.2cm
+%%sep 0.8cm 0.8cm
 %
 W: Old apple tree, we'll wassail thee,
 W: And hoping thou wilt bear.
@@ -53,7 +52,7 @@ W: And a little heap under the stairs
 W: Hip! Hip! Hurray!
 %
 %%vskip 1.8cm
-%%textfont Times-Italic 14
+%
 %%begintext fill
 %%From "The Christmas Revels Songbook":
 %%This wassail ritual, performed at night by firelight, ensured new growth in the 
