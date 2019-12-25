@@ -1,4 +1,6 @@
-%%footer	"$T	$P	$D"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:Gaudete
@@ -9,23 +11,19 @@ V:1 clef=treble
 V:2 clef=treble
 V:3 clef=bass
 V:4 clef=bass
-V:5 clef=treble
 %
-%%measurebox true           % measure numbers in a box
-%%measurenb 0               % measure numbers at first measure
-%%barsperstaff 6            % number of measures per staff
-%%gchordfont Times-Bold 14  % for chords
 U: H = fermata
 %
 M:3/4
 L:1/4
 K:Bb
 %
-%%staves 5
+%%staves 1
 %
-[V:5] G G F | G/A/ B B/A/- | A/G/ F F/z/ | F G A- | A/G/ F G/A/- | A/G/ F G/ z/ ||
+G G F | G/A/ B B/A/- | A/G/ F F/z/ | F G A- | A/G/ F G/A/- | A/G/ F G/ z/ ||
 w: Gau- de- te, gau- de- te Chris- tus_ est nau- tus ex Ma-ri_ a vir- gi- ne_ gau- de- te.
 %
+%%vskip 0.4cm
 %%staves [(1 2) | (3 4)]
 %
 [V:1] G G F | G/A/ B B/A/- | A/G/ F F/z/ | F G A- | A/G/ F G/A/- | A/G/ F G/z/ ||
@@ -34,11 +32,10 @@ w: Gau- de- te, gau- de- te Chris- tus_ est nau- tus ex Ma-ri_ a vir- gi- ne_ ga
 [V:3] G, B, A, | B,/C/ D D/C/- | C/B,/ A, A,/z/ | A, B, C- | C/B,/ A, G,/F,/- | F,/G,/ A, G,/z/ ||
 [V:4] G, G, D, | G,/F,/ B,, B,,/F,/- | F,/G,/ D, D,/z/ | D, G, F,- | F,/G,/ D, E,/F,/- | F,/E,/ D, G,,/z/ ||
 %
-%%staves 5
+%%vskip 0.4cm
+%%staves 1
 %
-% old setting: [V:5][M:4/4] G/G/ F/G/ B/A/ G | E/C/ D/E/ C C/z/ | C/C/ E/F/ G/A/ B | B/G/ A/B/ G G/z/ ||
-% dan's setting:
-[V:5][M:4/4] G/G/ F/G/ B/A/ G | G/E/ D/E/ C C/z/ | C/C/ E/C/ E/F/ G | B/G/ A/B/ G G/z/ ||
+[M:4/4] G/G/ F/G/ B/A/ G | G/E/ D/E/ C C/z/ | C/C/ E/C/ E/F/ G | B/G/ A/B/ G G/z/ |]
 w: 1.~~Tem- pus ad- est gra- ti- ae Hoc quod op- ta- ba- mus, Car- mi- na lae- ti- ti- ae De- vo- te red- da- mus.
 w: 2.~~De- us ho- mo fac- tus est Na- tur- a mir- an- te, Mun- dus re- no- va- tus est A Chris- to reg- nan- te.
 w: 3.~~E- ze- chie- lis por_ ta clau- sa per tran- si- tur, Un- de lux est or_ ta Sa- lus in- ve- ni- tur.
@@ -91,9 +88,12 @@ W:    Has been passed through
 W:    From where the light has risen [the East],
 W:    Salvation is found.
 W:
-W: 4. Therefore let our assembly sing praises now
+W: 4. Therefore let us sing praises now
 W:    At this time of purification
 W:    Let it bless the Lord:
 W:    Greetings to our King.
-W:
-W: Translation from the New Oxford Book of Carols, 1992
+%
+%%vskip 0.8cm
+%%begintext fill
+%%Translation from the New Oxford Book of Carols, 1992, provided only for the curious. We only sing the Latin.
+%%endtext
