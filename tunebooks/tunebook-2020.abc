@@ -1511,3 +1511,86 @@ W:    From sin and death He saves us
 W:    And lightens ev'ry load.
 
 X:23
+T:Macaronic Carol
+C:Words and music by Ajemian and Newcomb
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=bass   name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%
+%%staves [(1 2) | (3 4)]
+M:3/4
+L:1/4
+K:C
+%
+[V:1] "SPRITELY" (c B) A | (G E) G | (A c) B | (A2  G)  | "NUMBLY"E E D  | 
+[V:2] (E B)  F | (E C) E | (F A) G | (F2  E)  | C C B, | 
+w: Hear_ us come_ through fields_ of snow._ Pe- des fri-
+w: Mas_ ter mis_ tress, chil_ dren, pets._ * * *
+w: Branch- es and hous- es are hung_ with white._ * * *
+[V:3] G,2 C | (C G,) C | A,2 B, | (A,>B, C) | E, E, G, | 
+[V:4] C,2 C, | (E, C,) G, | (C, F,) D, | (C,2 C,) | A,, A,, B,, |
+%
+[V:1] (E>G)  F | E3- | E3 | "BRIGHTLY"(F A) A | (A G) G  | (E>D)  C  | G3  | 
+[V:2] (C B,) D | C3- | C3 | (C F) F | (F D) E  | (C B,) A, | B,3 | 
+w: gi_ di sunt._ Sing_ ing Christ_ mas cheer_ i- o.
+w: * * *  * *    The more it snows the more joy- ful we get.
+w: * * *  * *    Mit- tens a- glow_ with can_ dle- light. 
+[V:3] A,2 A, | A,3- | A,3 | A,2 F, | (F, G,) C | G,2 G, | G,3 | 
+[V:4] (E, D,) D, | E,3- | E,3 | (F, C,) C, | (C, D,) E, | (C, B,,) C, | (D,2 E,) |
+%
+[V:1] "CON FAME"A2 A | (c A) G  | A3-  | A2  x |  "VIVE VOCE"A2   B | (c G) G | 
+[V:2] E2 C | (E D) B, | E3-  | E2  z | (F E) D |  E2   C | 
+w: Et e- su_ ri- o._ Lis_ ten to our
+w: *  *  * * *   * * Join_ us as we
+w: *  *  * * *   * * Deck_ the halls for
+[V:3] A,2 E, | F,2 G, | C3- | C2 x | (F, A,) G, | G,2 E, | 
+[V:4] E,2 C, | D,2 E, | E,3- | E,2 z | C,2 D, | (E, C,) C, |
+%
+[V:1] (A c) A | G3 | "DOGGEDLY"E  E  E  | ^F2 G |  E3-  |  E3  | "RUDDILY"F A A | 
+[V:2] (F A) F | D3 | B, B, B, |  D2 C |  B,3- |  B,3 | C F F | 
+w: glad_ some song. Pe- des de- fes- si sunt._ We've tra- velled
+w: cel_ a brate.    *   *   *   *    *  * *    We waits, we
+w: la_ we sing.     *   *   *   *    *  * *    Once_ a 
+[V:3] A,2 A, | B,3 | G, G, G, | A,2 G, | ^F,3- | ^F,3 | A, A, F, | 
+[V:4] (F, D,) F, | G,3 | E, E, E, | D,2 C, | B,,3- | B,,3 | C, C, C, |
+%
+[V:1] (A G) G | (E>D)  C  |  G3    | "LONGINGLY"E2 E | D  C  B, | A,3- | A,3 | 
+[V:2] (F D) C | (C B,) A, |  D3    | C2 C | B, A, G, | A,3- | A,3 | 
+w: far_ and sung_ so long.    Do- mum ir- e vo- lo._
+w: cir_ cum- am_ bu- late.    *   *   *   * *   * *
+w: year_ while car_ ol- ling. *   *   *   * *   * *
+[V:3] (F, G,) G, | G,2 G, | B,3 | A,2 E, | F, E, E, | E,3- | E,3 | 
+[V:4] (C, D,) E, | (C, B,,) C, | (D,2 E,) | E,2 A,, | D, E, B,, | A,,3- | A,,3 |
+%
+%%sep 0.8cm 0.8cm
+%
+W: 1. Hear us come through fields of snow.
+W:       Pedes frigidi sunt. [My feet are cold]
+W:    Singing Christmas cheerio.
+W:       Et esurio. [And I'm hungry]
+W:    Listen to our gladsome song.
+W:       Pedes defessi sunt. [My feet are tired]
+W:    We've travelled far and sung so long.
+W:       Domum ire volo. [I want to go home]
+W: 
+W: 2. Master, Mistress, children, pets.
+W:       Pedes frigidi sunt. 
+W:    The more it snows, the more joyful we get.
+W:       Et esurio. 
+W:    Join us as we celebrate.
+W:       Pedes defessi sunt.
+W:    We waits, we circumambulate.
+W:       Domum ire volo. 
+W: 
+W: 3. Branches and houses are hung with white.
+W:       Pedes frigidi sunt. 
+W:    Mittens aglow with candlelight.
+W:       Et esurio. 
+W:    Deck the halls, for la we sing.
+W:       Pedes defessi sunt.
+W:    Once a year while carolling.
+W:       Domum ire volo. 
+
+X:24
