@@ -1,4 +1,6 @@
-%%footer	"$T	$P	$D"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:Somerset Wassail
@@ -8,41 +10,37 @@ V:1 clef=treble
 V:2 clef=treble 
 V:3 clef=bass   
 V:4 clef=bass   
-V:5 clef=treble
-%
-%%measurebox true           % measure numbers in a box
-%%measurenb 0               % measure numbers at first measure
-%%barsperstaff 0            % number of measures per staff
-%%gchordfont Times-Bold 14  % for chords
 %
 U: H = fermata
 M:C
 L:1/4
 K:Eb
 %
-%%staves 5
+%%staves 1
 %
-[V:5] E | (E c) B A | G2 (F E) | (E F) G A |
-w: 1.~Was- sail_ and was- sail all_ o_ ver the
+E | (E c) B A | G2 (F E) | (E F) G A |
+w: 1.~~Was- sail_ and was- sail all_ o_ ver the
 %
-[V:5] B3 E | (E c) B A | G2 F E | (E F) G A |
+B3 E | (E c) B A | G2 F E | (E F) G A |
 w: town. The cup_ it is white and the ale_ it is
 %
-[V:5] B3 G | (c A) _d c | B2 G G | (A G) F G |
+B3 G | (c A) _d c | B2 G G | (A G) F G |
 w: brown; The cup_ it is made of the good_ ash- en
 %
-[V:5] A2 (G A) | (B e) c A | B2 A G | (F E) (G F) |
-w: tree, And_ so_ is the malt of the best_ bar_
+A2 (G A) | (B e) c A | B2 A G | (F E) (G F) | E2 ||
+w: tree, And_ so_ is the malt of the best_ bar_ ley.
+%
+%%vskip 0.4cm
 %
 %%staves [(1 2) | (3 4)]
 %
 P:Chorus
-[V:1] E2 | B, B, | E2  F2   | B,2 B, B, | E2  (F G) | A2 G A |
-[V:2] E2 | B, B, | B,2 C2   | B,2 B, B, | B,2  C- C | C2 E D |
-w: ley. For it's your was- sail and it's our was_ sail, And it's
-w: *    No_ harm, boys, harm; no_ harm, boys,_ harm; And a
-[V:3] z2 | B,  B,  | G,2 (A, F,) | B,2  D,  D,  | E,2 (A, G,) | F,2 B, B, |
-[V:4] z2 | B,, B,, | E,2  A,,2   | B,,2 A,, A,, | G,,2 (A,, C,) | F,2 E, E, |
+[V:1] B, B, | E2  F2   | B,2 B, B, | E2  (F G) | A2 G A |
+[V:2] B, B, | B,2 C2   | B,2 B, B, | B,2  C- C | C2 E D |
+w: For it's your was- sail and it's our was_ sail, And it's
+w: No_ harm, boys, harm; no_ harm, boys,_ harm; And a
+[V:3] B,  B,  | G,2 (A, F,) | B,2  D,  D,  | E,2 (A, G,) | F,2 B, B, |
+[V:4] B,, B,, | E,2  A,,2   | B,,2 A,, A,, | G,,2 (A,, C,) | F,2 E, E, |
 %
 [V:1] (B e) c A | B2    A G | (F E)  G F | E2 z |]
 [V:2] (E G) E E | (F G) E E | (C B,) E D | E2 x |]
