@@ -50,7 +50,11 @@ We are using a [Creative Commons CC-BY](https://creativecommons.org/licenses/by/
 
 ## Downloading Files
 
-The caroling group sometimes drops songs from its repertoire. When this happens, we drop it from the index of titles (above), but we generally don't remove it from the repository. See the [master carol repository](https://github.com/syracuse-singers/xmas) for the complete list of song files. Via the repository, can also download the abc song masters individually or [download the entire repository in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip). 
+For 2020, we're tentatively providing a single large songbook of the carols are in our active repertoire. However, the current version is not final until our group makes a vote as to what should be included. A final version will be marked "Caroling 2020" instead of bearing a timestamp. One caveat is that this songbook can not include any of carols we're using under license.
+
+- [2020 Caroling Songbook](tunebooks/xmas-2020.pdf)
+
+The caroling group sometimes drops songs from its repertoire. When this happens, we drop it from the index of titles and from the songbook, but we generally don't remove it from the repository. See the [master carol repository](https://github.com/syracuse-singers/xmas) for the complete list of song files. Via the repository, can also download the abc song masters individually or [download the entire repository in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip). You can find [past versions of tunes](https://github.com/syracuse-singers/xmas/releases).
 
 ## Footnotes
 
