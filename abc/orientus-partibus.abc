@@ -1,19 +1,15 @@
-%%footer	"$T	$P	$D"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:Orientis Partibus
 C:anon. medieval carol
 C:English words, Susan Cooper
-%
-%%measurebox true           % measure numbers in a box
-%%measurenb 0               % measure numbers at first measure
-%%barsperstaff 0            % number of measures per staff
-%%gchordfont Times-Bold 14  % for chords
-%
 M:2/4
 L:1/4
 Q:120
-K:D %Transposed from F
+K:D
 %
 D/E/ F/D/ | E/=C/ D | A/A/ B/G/ | A/A/ F |
 w: O- ri- en- tis par- ti- bus ad- ven- ta- vit a- si- nus,
@@ -24,7 +20,7 @@ w: pul- cher et for- tis- si- mus, Sar- ci- nis ap- tis- si- mus.
 D/E/ F/E/ | D z |]
 w: Hez, Sir As- nes, hez!
 %
-%%vskip 0.8cm
+%%sep 0.8cm 0.8cm
 %
 W: 1. Orientis partibus,
 W:    Adventavit asinus,
@@ -56,15 +52,18 @@ W:    Mirth inhabit young and old
 W:    On this feast day of the ass.
 W:    Hez, Sir Asnes, Hez!
 W:
-
+%
 %%vskip 0.8cm
-%%textfont Times-Italic 14
+%
 %%begintext fill
 %%The "Song of the Ass," important in the early history of Western
 %%music, was sung during the Middle Ages as a processional at Sens,
 %%when a donky was ridden into the Cathedral. The irrepressible
 %%popular humor of the Feast of Fools and similar mediaeval festivals
 %%is found in the carol's "braying" refrain, which was sung by the clergy.
+%%endtext
+%%vskip 0.4cm
+%%begintext fill
 %%Source: The Christmas Revels Songbook, 2nd edition, 1995.
 %%[The Feast Day of the Ass or Festum Asinorum is January 14.]
 %%endtext
