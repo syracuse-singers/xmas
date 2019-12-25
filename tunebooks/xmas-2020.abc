@@ -499,7 +499,7 @@ W:For the Prince of Paradise plays here tonight
 %   add coppers-christmas-song                        |
 % -----------------------------------------------------
 
-X:8
+X:7
 T:Cutty Wren, The
 C:Collected from an Adderbury shepherd by A.L. Lloyd
 C:-set to a version of the tune, "Green Bushes"
@@ -603,7 +603,7 @@ W: We'll give 'em all to the poor, said John the Red Nose.
 %%"English Folk Songs".
 %%endtext
 
-X: 9
+X: 8
 T: Death or Glory Wassail
 C: Sid Kipper
 M: 6/8
@@ -651,7 +651,7 @@ W:     Now you've seen sense we will make no more row
 W:     Peace be upon you all at your repose 
 W:     And we'll come no more nigh you until the pubs close
 
-X:10
+X:9
 T:Down In Yon Forest
 %
 V:1 clef=treble name="Soprano" sname="S"
@@ -742,7 +742,7 @@ W:    Enough silver birches as torches for all
 W:    To light our way homeward when time it is right
 W:    So let us be merry this long winter's night
 
-X:11
+X:10
 T:Gaudete
 C:14th Century tune (Piae Cantiones, 1582)
 C:harmony arrangement John Bromka, 1996
@@ -838,7 +838,7 @@ W:    Greetings to our King.
 %%Translation from the New Oxford Book of Carols, 1992, provided only for the curious. We only sing the Latin.
 %%endtext
 
-X:12
+X:11
 T:Gloucestershire Wassail
 C:Traditional
 C:arr. Ralph Vaughn-Williams
@@ -939,7 +939,7 @@ W:    With the wassailing bowl, we'll drink to thee.
 W:    Drink to thee, drink to thee,
 W:    With the wassailing bowl we'll drink to thee.
 
-X: 13
+X: 12
 T:Good King Wenceslaus
 C:J.M. Neale, 1818-1866
 M:C
@@ -987,7 +987,7 @@ W:    Heat was in the very sod which the saint had printed.
 W:    Therefore, Christian men be sure, wealth or rank possessing,
 W:    Ye who now will bless the poor, shall yourselves find blessing.
 
-X:14
+X:13
 T:Gower Wassail
 %
 M:9/8
@@ -1040,7 +1040,7 @@ W:    And we know by the sky that we are not too high,
 W:    We know by the stars that we are not too far,
 W:    And we know by the ground that we are within sound.
 
-X:15
+X:14
 T:Holly and the Ivy, The
 C:collected by Maud Karpeles and Pat Shaw
 M:3/4
@@ -1108,7 +1108,7 @@ W:    The holly bears the crown.
 %   add homeless_wassail                              |
 % -----------------------------------------------------
 
-X:17
+X:15
 T:Horsham Tipteerers Carol
 T:Sussex Mummers Carol
 C:Horsham Tipteerers, Sussex
@@ -1190,7 +1190,7 @@ W:    And send you more and more.
 %%
 %%endtext
 
-X:18
+X:16
 T:Hunting the Cutty Wren
 C:Lyrics by Les Barker
 C:set to a version of the tune, "Green Bushes"
@@ -1274,11 +1274,103 @@ W:     Where are you going says Milder again
 W:     Off to the Arundales, said Moulder to Milder
 W:     To open a shop called Kentucky Fried Wren.
 
+X:17
+T:Hunting the Wren
+M:6/8
+L:1/8
+K:G
+%
+d d d d3 | B  G G  G z2 | 
+w: "What- 'll we do?" says Ris- ky Rob.
+%
+e e e e3 | c (3AAA A z2 |
+w: "What- 'll we do?" says Ro- bin to Bob.
+%
+d d d d3 | B (3GGG c z2 |
+w: "What- 'll we do?" says Jack-all-a- lone.
+%
+c c c B3 | G  A A  G z2 |]
+w: "What- 'll we do?" says ev- 'ry- one. 
+%
+%%sep 0.8cm 0.8cm
+%
+W: "What'll we do?" says Risky Rob.
+W: "What'll we do?" says Robin to Bob.
+W: "What'll we do?" says Jack-all-alone.
+W: "What'll we do?" says everyone. 
+W: 
+W: "We'll hunt the wren." says Risky Rob.
+W: "We'll hunt the wren." says Robin to Bob.
+W: "We'll hunt the wren." says Jack-all-alone.
+W: "We'll hunt the wren." says everyone.
+W: 
+W: "How'll we shoot her?" says Risky Rob.
+W: "How'll we shoot her?" says Robin to Bob.
+W: "How'll we shoot her?" says Jack-all-alone.
+W: "How'll we shoot her?" says everyone.
+W: 
+W: "Sticks and stones," says Risky Rob.
+W: "Bows and arrows," says Robin to Bob.
+W: "Big guns and cannons," says Jack-all-alone.
+W: "That's how we'll do it," says everyone. 
+W: 
+W: "How'll we carry her?" says Risky Rob.
+W: "How'll we carry her?" says Robin to Bob.
+W: "How'll we carry her?" says Jack-all-alone.
+W: "How'll we carry her?" says everyone.
+W: 
+W: "Four strong men's shoulders," says Risky Rob.
+W: "Horse and wagon," says Robin to Bob.
+W: "A big eighteen-wheeler," says Jack-all-alone.
+W: "That's how we'll do it," says everyone. 
+W: 
+W: "How'll we cook her?" says Risky Rob.
+W: "How'll we cook her?" says Robin to Bob.
+W: "How'll we cook her?" says Jack-all-alone.
+W: "How'll we cook her?" says everyone.
+W: 
+W: "Pots and pans," says Risky Rob.
+W: "Bloody great cauldrons," says Robin to Bob.
+W: "A microwave oven," says Jack-all-alone.
+W: "That's how we'll do it," says everyone. 
+W: 
+W: "How'll we carve her?" says Risky Rob.
+W: "How'll we carve her?" says Robin to Bob.
+W: "How'll we carve her?" says Jack-all-alone.
+W: "How'll we carve her?" says everyone.
+W: 
+W: "Knives and forks," says Risky Rob.
+W: "Hatchets and cleavers," says Robin to Bob.
+W: "Gas-driven chainsaws," says Jack-all-alone.
+W: "That's how we'll do it," says everyone. 
+W: 
+W: "Who'll come to dinner?" says Risky Rob.
+W: "Who'll come to dinner?" says Robin to Bob.
+W: "Who'll come to dinner?" says Jack-all-alone.
+W: "Who'll come to dinner?" says everyone.
+W: 
+W: "The King and the Queen," says Risky Rob.
+W: "The House and the Senate," says Robin to Bob.
+W: "All of New England," says Jack-all-alone.
+W: "Invite the whole world," says everyone. 
+W: 
+W: "Eyes to the blind," says Risky Rob.
+W: "Legs to the lame" says Robin to Bob.
+W: "Ribs to the poor" says Jack-all-alone. 
+W: "Bones to the dogs" says everyone. 
+%
+%%vskip 0.8cm
+%
+%%begintext fill
+%%"Manx Ballads & Music," (1896) edited by A. W. Moore, has 
+%%verses which may have formed the basis for Barrand and Roberts' version.
+%%endtext
+
 % -----------------------------------------------------
 %   add i_am_christmas                                |
 % -----------------------------------------------------
 
-X:20
+X:18
 T:In Praise of Christmas
 T:To Drive the Cold Winter Away
 C:Words: Tom Durfey (1653-1723)
@@ -1359,7 +1451,7 @@ W:    Some gambols of Christmas play,
 W:    Whereat the young men do the best that they can
 W:    To drive the cold winter away.
 
-X:21
+X:19
 T:In the Bleak Midwinter
 C:Words by Christina Rossetti
 C:Music by Gustav Holst
@@ -1436,7 +1528,7 @@ W:    A breastful of milk, And a mangerful of hay;
 W:    Enough for him, whom angels Fall down before,
 W:    The ox and ass and camel Which adore.
 
-X:22
+X:20
 T:Lo, How a Rose E'er Blooming
 O:Cologne, 1599
 C:Setting by Michael Praetorius, 1609
@@ -1510,7 +1602,7 @@ W:    True Man, yet very God,
 W:    From sin and death He saves us 
 W:    And lightens ev'ry load.
 
-X:23
+X:21
 T:Macaronic Carol
 C:Words and music by Ajemian and Newcomb
 %
@@ -1593,7 +1685,7 @@ W:       Pedes defessi sunt.
 W:    Once a year while carolling.
 W:       Domum ire volo. 
 
-X:24
+X:22
 T:O Little One Sweet
 C:Old German melody
 C:harmonized by J.S. Bach
@@ -1671,7 +1763,7 @@ W:    Lo, all we have belongs to thee!
 W:    Ah, keep us in our fealty!
 W:    O little one sweet, O little one mild.
 
-X:25
+X:23
 T:Orientis Partibus
 C:anon. medieval carol
 C:English words, Susan Cooper
@@ -1737,7 +1829,7 @@ W:
 %%[The Feast Day of the Ass or Festum Asinorum is January 14.]
 %%endtext
 
-X:26
+X:24
 T:Over the Hill and Over the Dale
 C:Piae Cantiones, 1582 
 C:English words by J.M. Neale
@@ -1834,7 +1926,7 @@ W:    Shining ever brighter.
 %%[Tune and notes transcribed from Nowell Sing We Clear.]
 %%endtext
 
-X:27
+X:25
 T:Please to See the King
 T:Our King
 C:Traditional Welsh
@@ -1882,7 +1974,7 @@ W:
 W: 5. Old Christmas is past, Twelfth Night is the Last.
 W:    And we bid you adieu, great joy to the new.
 
-X:28
+X:26
 T:Rolling Downward
 T:Angel Song, The
 C:Robert Lowry
@@ -1939,7 +2031,7 @@ W:    Comes to earth our fearful debt to pay.
 W:    Man of sorrows, and rejected,
 W:    Lamb of God, that takes our sin away.
 
-X:29
+X:27
 T:Sherburne C. M.
 T:While Shepherds Watched Their Flocks
 C:Music by Daniel Read, 1793
@@ -2022,7 +2114,7 @@ w: nev- er cease, Be- gin and nev- er cease_
 w: glo- ry shown a- round_
 w: gin and nev- er cease_
 
-X:30
+X:28
 T:Somerset Wassail
 C:traditional English
 %
@@ -2106,7 +2198,7 @@ W:    God bless all in this house until we do come again.
 W:    For it's your wassail and it's our wassail,
 W:    And it's joy be to you, and a jolly wassail.
 
-X:31
+X:29
 T:Wintertime
 C:Music: George Gershwin
 C:Words: Susan Galbraith and an angel throng
@@ -2139,7 +2231,7 @@ W:    You'll roll back that stone and you'll take to the sky.
 W:    Before that morning you better get some disciples,
 W:    But watch out for Judas, that one's sly.
 
-X:32
+X:30
 T:Wren Song, The
 C:traditional Irish
 M:6/8
