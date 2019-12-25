@@ -1,4 +1,6 @@
-%%footer	"$T	$P	$D"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:In Praise of Christmas
@@ -14,7 +16,7 @@ Z:http://www.hymnsandcarolsofchristmas.com/Hymns_and_Carols/drive_the_cold_winte
 %
 M:6/8
 L:1/8
-K:Am %Transposed from Cm
+K:Am
 %
 A, | C3/ B,/ A, E2 A | G3/ F/ E c2 C | D3/ D/ E F3/ G/ F | E3- E2 A, | 
 w: 1.~All hail to the days that mer- it more praise, Than all of the rest of the year,_ And 
