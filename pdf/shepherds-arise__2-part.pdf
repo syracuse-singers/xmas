@@ -12,7 +12,7 @@ BT
 /GS1 gs
 0 Tc
 0 Tw
-[(Shepherds Arise)-21568(1)-20262.3(Dec 25, 2019 13:48)]TJ
+[(Shepherds Arise)-21568(1)-20262.3(Dec 25, 2019 13:52)]TJ
 /TT4 1 Tf
 15.3 0 0 15.3 252.2079 733.5601 Tm
 (Shepherds Arise)Tj
@@ -3459,7 +3459,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Length 1335
+/Length 1670
 >>
 stream
 BT
@@ -3469,7 +3469,7 @@ BT
 /GS1 gs
 0 Tc
 0 Tw
-[(Shepherds Arise)-21568(2)-20262.3(Dec 25, 2019 13:48)]TJ
+[(Shepherds Arise)-21568(2)-20262.3(Dec 25, 2019 13:52)]TJ
 10.2 0 0 10.2 71.4382 738.405 Tm
 [(1.)-312.5(Shepherds arise, be not afraid, with hasty steps prepare)]TJ
 1.0625 -1.1 TD
@@ -3506,6 +3506,13 @@ T*
 (Sing, sing, all earth, sing, sing, all earth eternal praises sing)Tj
 T*
 (To our Redeemer, to our Redeemer and our heavenly King.)Tj
+/TT6 1 Tf
+8.925 0 0 8.925 50.4008 500.949 Tm
+(Transcribed from Bob Copper’s book, "A Song For Every Season." This two-part version is different from the version our group ac)Tj
+52.6143 0 TD
+(tually)Tj
+-52.6143 -1.1 TD
+(performs. However, because of licensing restrictions, we are unable to distribute it outside our caroling group.)Tj
 ET
 endstream
 endobj
@@ -3514,6 +3521,7 @@ endobj
 /ProcSet [/PDF /Text ]
 /Font <<
 /TT2 4 0 R
+/TT6 6 0 R
 >>
 /ExtGState <<
 /GS1 7 0 R
@@ -3586,7 +3594,7 @@ endobj
 /FirstChar 32
 /LastChar 146
 /Widths [250 0 0 0 0 0 0 0 0 0 0 0 250 0 250 0 
-500 500 500 500 500 500 0 0 500 500 278 0 0 0 0 0 
+500 500 500 500 0 500 0 0 0 500 278 0 0 0 0 0 
 0 722 667 667 722 0 556 722 0 333 0 722 611 0 0 0 
 0 0 667 556 611 0 0 944 0 0 0 0 0 0 0 0 
 0 444 500 444 500 444 333 500 500 278 0 500 278 778 500 500 
@@ -3619,9 +3627,16 @@ endobj
 <<
 /Type /Font
 /Subtype /TrueType
-/FirstChar 48
-/LastChar 55
-/Widths [500 500 500 0 0 500 500 500 ]
+/FirstChar 32
+/LastChar 146
+/Widths [250 0 420 0 0 0 0 0 0 0 0 0 250 333 250 0 
+500 500 500 0 0 500 500 500 0 0 0 0 0 0 0 0 
+0 611 611 667 0 611 611 0 722 0 0 0 0 0 0 0 
+0 0 0 500 556 0 0 0 0 0 0 0 0 0 0 0 
+0 500 500 444 500 444 278 500 500 278 0 444 278 722 500 500 
+500 0 389 389 278 500 444 667 0 444 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 333 ]
 /Encoding /WinAnsiEncoding
 /BaseFont /Times-Italic
 /FontDescriptor 14 0 R
@@ -3663,8 +3678,8 @@ endobj
 endobj
 17 0 obj
 <<
-/CreationDate (D:20191225134812-05'00')
-/ModDate (D:20191225134812-05'00')
+/CreationDate (D:20191225135245-05'00')
+/ModDate (D:20191225135245-05'00')
 /Producer (PSNormalizer.framework)
 >>
 endobj
@@ -3678,31 +3693,31 @@ endobj
 xref
 0 19
 0000000000 65535 f 
-0000079588 00000 n 
+0000080224 00000 n 
 0000000016 00000 n 
 0000076199 00000 n 
-0000078539 00000 n 
-0000079036 00000 n 
-0000079396 00000 n 
-0000077800 00000 n 
-0000079818 00000 n 
-0000079668 00000 n 
+0000078885 00000 n 
+0000079378 00000 n 
+0000079738 00000 n 
+0000078146 00000 n 
+0000080454 00000 n 
+0000080304 00000 n 
 0000076316 00000 n 
-0000077704 00000 n 
-0000077940 00000 n 
-0000078137 00000 n 
-0000078339 00000 n 
-0000079750 00000 n 
-0000079778 00000 n 
-0000079905 00000 n 
-0000080037 00000 n 
+0000078039 00000 n 
+0000078286 00000 n 
+0000078483 00000 n 
+0000078685 00000 n 
+0000080386 00000 n 
+0000080414 00000 n 
+0000080541 00000 n 
+0000080673 00000 n 
 trailer
 <<
 /Size 19
 /Root 18 0 R
 /Info 17 0 R
-/ID [<02fd8c18faa13882e8a025ef7f69b74c><02fd8c18faa13882e8a025ef7f69b74c>]
+/ID [<775817a27743da478332364399d01570><775817a27743da478332364399d01570>]
 >>
 startxref
-80106
+80742
 %%EOF
