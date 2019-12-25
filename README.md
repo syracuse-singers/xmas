@@ -6,7 +6,7 @@ These are not the carols you generally hear on the radio or in shopping malls. W
 
 ## Index
 
-Updated for the annual December 2019 caroling event.
+Updated in preparation for 2020 caroling.
 
 - [Arise And Hail The Joyful Day](pdf/arise-hail-joyful-day.pdf)
 - [The Boar's Head](pdf/boars-head.pdf)
