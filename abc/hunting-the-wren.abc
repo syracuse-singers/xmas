@@ -1,0 +1,95 @@
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
+
+X:1
+T:Hunting the Wren
+M:6/8
+L:1/8
+K:G
+%
+d d d d3 | B  G G  G z2 | 
+w: "What- 'll we do?" says Ris- ky Rob.
+%
+e e e e3 | c (3AAA A z2 |
+w: "What- 'll we do?" says Ro- bin to Bob.
+%
+d d d d3 | B (3GGG c z2 |
+w: "What- 'll we do?" says Jack-all-a- lone.
+%
+c c c B3 | G  A A  G z2 |]
+w: "What- 'll we do?" says ev- 'ry- one. 
+%
+%%sep 0.8cm 0.8cm
+%
+W: "What'll we do?" says Risky Rob.
+W: "What'll we do?" says Robin to Bob.
+W: "What'll we do?" says Jack-all-alone.
+W: "What'll we do?" says everyone. 
+W: 
+W: "We'll hunt the wren." says Risky Rob.
+W: "We'll hunt the wren." says Robin to Bob.
+W: "We'll hunt the wren." says Jack-all-alone.
+W: "We'll hunt the wren." says everyone.
+W: 
+W: "How'll we shoot her?" says Risky Rob.
+W: "How'll we shoot her?" says Robin to Bob.
+W: "How'll we shoot her?" says Jack-all-alone.
+W: "How'll we shoot her?" says everyone.
+W: 
+W: "Sticks and stones," says Risky Rob.
+W: "Bows and arrows," says Robin to Bob.
+W: "Big guns and cannons," says Jack-all-alone.
+W: "That's how we'll do it," says everyone. 
+W: 
+W: "How'll we carry her?" says Risky Rob.
+W: "How'll we carry her?" says Robin to Bob.
+W: "How'll we carry her?" says Jack-all-alone.
+W: "How'll we carry her?" says everyone.
+W: 
+W: "Four strong men's shoulders," says Risky Rob.
+W: "Horse and wagon," says Robin to Bob.
+W: "A big eighteen-wheeler," says Jack-all-alone.
+W: "That's how we'll do it," says everyone. 
+W: 
+W: "How'll we cook her?" says Risky Rob.
+W: "How'll we cook her?" says Robin to Bob.
+W: "How'll we cook her?" says Jack-all-alone.
+W: "How'll we cook her?" says everyone.
+W: 
+W: "Pots and pans," says Risky Rob.
+W: "Bloody great cauldrons," says Robin to Bob.
+W: "A microwave oven," says Jack-all-alone.
+W: "That's how we'll do it," says everyone. 
+W: 
+W: "How'll we carve her?" says Risky Rob.
+W: "How'll we carve her?" says Robin to Bob.
+W: "How'll we carve her?" says Jack-all-alone.
+W: "How'll we carve her?" says everyone.
+W: 
+W: "Knives and forks," says Risky Rob.
+W: "Hatchets and cleavers," says Robin to Bob.
+W: "Gas-driven chainsaws," says Jack-all-alone.
+W: "That's how we'll do it," says everyone. 
+W: 
+W: "Who'll come to dinner?" says Risky Rob.
+W: "Who'll come to dinner?" says Robin to Bob.
+W: "Who'll come to dinner?" says Jack-all-alone.
+W: "Who'll come to dinner?" says everyone.
+W: 
+W: "The King and the Queen," says Risky Rob.
+W: "The House and the Senate," says Robin to Bob.
+W: "All of New England," says Jack-all-alone.
+W: "Invite the whole world," says everyone. 
+W: 
+W: "Eyes to the blind," says Risky Rob.
+W: "Legs to the lame" says Robin to Bob.
+W: "Ribs to the poor" says Jack-all-alone. 
+W: "Bones to the dogs" says everyone. 
+%
+%%vskip 0.8cm
+%
+%%begintext fill
+%%"Manx Ballads & Music," (1896) edited by A. W. Moore, has 
+%%verses which may have formed the basis for Barrand and Roberts' version.
+%%endtext
