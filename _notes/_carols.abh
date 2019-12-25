@@ -2,6 +2,7 @@
 %
 %%footer            "$T	$P	$D"
 %%oneperpage        true
+%%sysstaffsep       36pt
 %
 % FONTS
 %
