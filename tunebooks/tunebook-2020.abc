@@ -742,3 +742,99 @@ W:    Enough silver birches as torches for all
 W:    To light our way homeward when time it is right
 W:    So let us be merry this long winter's night
 
+X:11
+T:Gaudete
+C:14th Century tune (Piae Cantiones, 1582)
+C:harmony arrangement John Bromka, 1996
+%
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=bass
+V:4 clef=bass
+%
+U: H = fermata
+%
+M:3/4
+L:1/4
+K:Bb
+%
+%%staves 1
+%
+G G F | G/A/ B B/A/- | A/G/ F F/z/ | F G A- | A/G/ F G/A/- | A/G/ F G/ z/ ||
+w: Gau- de- te, gau- de- te Chris- tus_ est nau- tus ex Ma-ri_ a vir- gi- ne_ gau- de- te.
+%
+%%vskip 0.4cm
+%%staves [(1 2) | (3 4)]
+%
+[V:1] G G F | G/A/ B B/A/- | A/G/ F F/z/ | F G A- | A/G/ F G/A/- | A/G/ F G/z/ ||
+[V:2] D D D | D/D/ F F/F/- | F/G/ D D/z/ | D D F- | F/D/ D D/F/- | F/C/ D D/z/ ||
+w: Gau- de- te, gau- de- te Chris- tus_ est nau- tus ex Ma-ri_ a vir- gi- ne_ gau- de- te.
+[V:3] G, B, A, | B,/C/ D D/C/- | C/B,/ A, A,/z/ | A, B, C- | C/B,/ A, G,/F,/- | F,/G,/ A, G,/z/ ||
+[V:4] G, G, D, | G,/F,/ B,, B,,/F,/- | F,/G,/ D, D,/z/ | D, G, F,- | F,/G,/ D, E,/F,/- | F,/E,/ D, G,,/z/ ||
+%
+%%vskip 0.4cm
+%%staves 1
+%
+[M:4/4] G/G/ F/G/ B/A/ G | G/E/ D/E/ C C/z/ | C/C/ E/C/ E/F/ G | B/G/ A/B/ G G/z/ |]
+w: 1.~~Tem- pus ad- est gra- ti- ae Hoc quod op- ta- ba- mus, Car- mi- na lae- ti- ti- ae De- vo- te red- da- mus.
+w: 2.~~De- us ho- mo fac- tus est Na- tur- a mir- an- te, Mun- dus re- no- va- tus est A Chris- to reg- nan- te.
+w: 3.~~E- ze- chie- lis por_ ta clau- sa per tran- si- tur, Un- de lux est or_ ta Sa- lus in- ve- ni- tur.
+w: 4.~~Er- go nos- tra con- ti- o psal- lat iam in lus- tro, Be- ne- di- cat Do- mi- no sa- lus re- gi nos- tro.
+%
+%%newpage
+%
+W: Gaudete, gaudete! Christus est natus
+W: Ex Maria virgine, gaudete!
+W: Gaudete, gaudete! Christus est natus
+W: Ex Maria virgine, gaudete!
+W:
+W: 1. Tempus adest gratiae,
+W:    Hoc quod optabamus;
+W:    Carmina laetitiae
+W:    Devote reddamus.
+W:
+W: 2. Deus homo factus est,
+W:    Natura mirante;
+W:    Mundus renovatus est
+W:    A Christo regnante.
+W:
+W: 3. Ezechielis porta
+W:    Clausa pertransitur;
+W:    Unde lux est orta,
+W:    Salus invenitur.
+W:
+W: 4. Ergo nostra contio
+W:    Psallat iam in lustro;
+W:    Benedicat Domino:
+W:    Salus Regi nostro.
+W:
+W: Rejoice! Rejoice! Christ is born
+W: Of the Virgin Mary, rejoice!
+W: Rejoice! Rejoice! Christ is born
+W: Of the Virgin Mary, rejoice!
+W:
+W: 1. The time of grace has come
+W:    For which we have prayed
+W:    Let us devoutly sing
+W:    Songs of joy.
+W:
+W: 2. God is made man,
+W:    While nature wonders
+W:    The world is renewed
+W:    By Christ the King.
+W:
+W: 3. The closed gate of Ezekiel
+W:    Has been passed through
+W:    From where the light has risen [the East],
+W:    Salvation is found.
+W:
+W: 4. Therefore let us sing praises now
+W:    At this time of purification
+W:    Let it bless the Lord:
+W:    Greetings to our King.
+%
+%%vskip 0.8cm
+%%begintext fill
+%%Translation from the New Oxford Book of Carols, 1992, provided only for the curious. We only sing the Latin.
+%%endtext
+
