@@ -1,4 +1,6 @@
-%%footer	"$T	$P	$D"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:Down In Yon Forest
@@ -8,16 +10,11 @@ V:2 clef=treble name="Alto"    sname="A"
 V:3 clef=bass   name="Tenor"   sname="T"
 V:4 clef=bass   name="Bass"    sname="B"
 %
-%%measurebox true           % measure numbers in a box
-%%measurenb 0               % measure numbers at first measure
-%%barsperstaff 0            % number of measures per staff
-%%gchordfont Times-Bold 14  % for chords
-%
 %%staves [(1 2) | (3 4)]
 U: H = fermata
 M:6/8
 L:1/8
-K:G#min %Transposed from Amin
+K:G#min
 %
 [V:1]  G   A   G   F   G  A  | B   A   G   A2  D  |
 [V:2]  B,   C   B,   A,  B,  C  | D   C   B,   C2  D  |
