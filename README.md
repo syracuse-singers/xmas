@@ -8,44 +8,35 @@ These are not the carols you generally hear on the radio or in shopping malls. W
 
 Updated for the annual December 2019 caroling event.
 
-- [Apple Tree Wassail](pdf/apple_tree_wassail.pdf)
-- [Arise And Hail The Joyful Day](pdf/arise_hail_joyful_day.pdf)
-- [The Boar's Head](pdf/boars_head.pdf)
-- [The Boys Carol](pdf/boys_carol.pdf)
-- [Chanukah / Solstice](pdf/chanukah_solstice.pdf)
-- [Chariots](pdf/chariots_in-d.pdf)
-- [The Cutty Wren](pdf/cutty_wren.pdf)
-- [Dona Nobis Pacem](pdf/dona_nobis_pacem.pdf)
-- [Down In Yon Forest](pdf/down_in_yon_forest.pdf)
-- [The Friendly Beasts](pdf/friendly_beasts.pdf)
+- [Arise And Hail The Joyful Day](pdf/arise-hail-joyful-day.pdf)
+- [The Boar's Head](pdf/boars-head.pdf)
+- [The Boys Carol](pdf/boys-carol.pdf)
+- [Chanukah / Solstice](pdf/chanukah-solstice.pdf)
+- [Chariots](pdf/chariots-in-d.pdf)
+- [The Cutty Wren](pdf/cutty-wren.pdf)
+- [Down In Yon Forest](pdf/down-in-yon-forest.pdf)
 - [Gaudete](pdf/gaudete.pdf)
-- [Gloucestershire Wassail](pdf/gloucestershire_wassail.pdf)
-- [Good King Wenceslaus](pdf/good_king_wenceslaus.pdf)
-- [Gower Wassail](pdf/gower_wassail.pdf)
-- [The Holly And The Ivy](pdf/holly_and_ivy_karpeles.pdf) (Karpeles tune)
-- [The Homeless Wassail](pdf/homeless_wassail.pdf)
-- [Hunting The Cutty Wren](pdf/hunting_the_cutty_wren.pdf)
-- [Hunting The Wren](pdf/hunting_the_wren.pdf)
-- [In Praise Of Christmas](pdf/in_praise_of_christmas_harmony_in-amin.pdf)
-- [In The Bleak Midwinter](pdf/in_the_bleak_midwinter.pdf)
-- [Kentucky Wassail](pdf/kentucky_wassail.pdf)
-- [King Herod And The Cock](pdf/king_herod_and_the_cock.pdf)
-- [Lo, How A Rose E'er Blooming](pdf/lo_how_a_rose.pdf)
-- [Macaronic Carol](pdf/macaronic_carol.pdf)
-- [O Little One Sweet](pdf/o_little_one_sweet.pdf)
-- [O Little Town Of Bethlehem](pdf/o_little_town_of_bethlehem_rising_sun.pdf) (Rising Sun tune)
-- [Old Apple Tree](pdf/old_apple_tree.pdf)
-- [Orientus Partibus](pdf/orientus_partibus.pdf)
-- [Over The Hill Over The Dale](pdf/over_the_hill_over_the_dale_2014.pdf)
-- [Please To See The King](pdf/please_to_see_the_king.pdf)
-- [Rolling Downward](pdf/rolling_downward.pdf) (unison)
-- [Rolling Downward](pdf/rolling_downward_harmony.pdf) (harmony)
-- [Rumsey Road Wassail](pdf/rumsey_road_wassail.pdf)
-- Shepherds Arise <sup>[1](#note_shepherds_arise)</sup>
+- [Gloucestershire Wassail](pdf/gloucestershire-wassail.pdf)
+- [Good King Wenceslaus](pdf/good-king-wenceslaus.pdf)
+- [Gower Wassail](pdf/gower-wassail.pdf)
+- [The Holly And The Ivy](pdf/holly-and-ivy-karpeles.pdf) (Karpeles tune)
+- [Hunting The Cutty Wren](pdf/hunting-the-cutty-wren.pdf)
+- [Hunting The Wren](pdf/hunting-the-wren.pdf)
+- [In Praise Of Christmas](pdf/in-praise-of-christmas.pdf)
+- [In The Bleak Midwinter](pdf/in-the-bleak-midwinter.pdf)
+- [Kentucky Wassail](pdf/kentucky-wassail.pdf)
+- [Lo, How A Rose E'er Blooming](pdf/lo-how-a-rose.pdf)
+- [Macaronic Carol](pdf/macaronic-carol.pdf)
+- [O Little One Sweet](pdf/o-little-one-sweet.pdf)
+- [Orientus Partibus](pdf/orientus-partibus.pdf)
+- [Over The Hill Over The Dale](pdf/over-the-hill-over-the-dale-2014.pdf)
+- [Please To See The King](pdf/please-to-see-the-king.pdf)
+- [Rolling Downward](pdf/rolling-downward.pdf) (unison)
+- Shepherds Arise <sup>[1](#note-shepherds-arise)</sup>
 - [Sherburne C.M.](pdf/sherburne.pdf)
-- [Somerset Wassail](pdf/somerset_wassail.pdf)
+- [Somerset Wassail](pdf/somerset-wassail.pdf)
 - [Wintertime](pdf/wintertime.pdf)
-- [The Wren Song](pdf/wren_song.pdf)
+- [The Wren Song](pdf/wren-song.pdf)
 
 ## Information About This Collection
 
@@ -63,7 +54,7 @@ The caroling group sometimes drops songs from its repertoire. When this happens,
 
 ## Footnotes
 
-1. <span id="note_shepherds_arise">Shepherds Arise</span> - The version of the song that is [in the repository](https://syracuse-singers.github.io/xmas/pdf/shepherds_arise_2-part_v2.pdf) is a two-part arrangement transcribed from Bob Copper's book, "A Song For Every Season". That, however, is not the version we currently sing. Our group has licensed a three-part arrangement from Ian Robb's group, Finest Kind. Licensed sheet music is for purchase on Ian's [website](http://ianrobb.com/sheetmusic/default.htm). 
+1. <span id="note_shepherds_arise">Shepherds Arise</span> - The version of the song that is [in the repository](https://syracuse-singers.github.io/xmas/pdf/shepherds-arise__2-part.pdf) is a two-part arrangement transcribed from Bob Copper's book, "A Song For Every Season". That, however, is not the version we currently sing. Our group has licensed a three-part arrangement from Ian Robb's group, Finest Kind. Licensed sheet music is for purchase on Ian's [website](http://ianrobb.com/sheetmusic/default.htm). 
 
 <script type="text/javascript">
   var pdfs = document.querySelectorAll("a[href$='.pdf']"); 
