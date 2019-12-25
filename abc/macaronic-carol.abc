@@ -1,4 +1,6 @@
-%%footer "$T	$P	December 12, 2017"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:Macaronic Carol
@@ -8,11 +10,6 @@ V:1 clef=treble name="Soprano" sname="S"
 V:2 clef=treble name="Alto"    sname="A"
 V:3 clef=bass   name="Tenor"   sname="T"
 V:4 clef=bass   name="Bass"    sname="B"
-%
-%%measurebox true           % measure numbers in a box
-%%measurenb 0               % measure numbers at first measure
-%%barsperstaff 0            % number of measures per staff
-%%gchordfont Times Roman 9        % for chords
 %
 %%staves [(1 2) | (3 4)]
 M:3/4
@@ -59,7 +56,7 @@ w: year_ while car_ ol- ling. *   *   *   * *   * *
 [V:3] (F, G,) G, | G,2 G, | B,3 | A,2 E, | F, E, E, | E,3- | E,3 | 
 [V:4] (C, D,) E, | (C, B,,) C, | (D,2 E,) | E,2 A,, | D, E, B,, | A,,3- | A,,3 |
 %
-%%vskip 0.8cm
+%%sep 0.8cm 0.8cm
 %
 W: 1. Hear us come through fields of snow.
 W:       Pedes frigidi sunt. [My feet are cold]
