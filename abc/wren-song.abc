@@ -1,17 +1,13 @@
-%%footer	"$T	$P	$D"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:Wren Song, The
 C:traditional Irish
-%
-%%measurebox true           % measure numbers in a box
-%%measurenb 0               % measure numbers at first measure
-%%barsperstaff 0            % number of measures per staff
-%%gchordfont Times-Bold 14  % for chords
-%
 M:6/8
 L:1/8
-K:F %Transposed from G
+K:F
 %
 C | F2 F F2 F | F F F F2 F |
 w: The wren, the wren, the king of all birds, Saint
@@ -22,7 +18,8 @@ w: Ste- phen's Day was caught in the furze; Al- though he was lit- tle, his
 A A A G2 G | F2 E D2 E | F F F F2 ||
 w: hon- or was great; Jump up me lads, and give us a treat!
 %
-"Chorus" C | F2 F G2 E | F3 z2 C | F2 F G2 E | F3 z3 |
+P:Chorus
+C | F2 F G2 E | F3 z2 C | F2 F G2 E | F3 z3 |
 w: Hur- rah me boys, hur- rah! Hur- rah me boys, hur- rah!
 %
 C3 F2 E | D3 G2 F | E3 A2 G | F3 z3 |
@@ -37,7 +34,7 @@ w: Sing- ing so well, Sing- ing so well,
 C3 F2 E | D3 G2 F | E3 A2 G | F3 z3 |]
 w: Give us a cop- per for sing- ing so well.
 %
-%%newpage
+%%sep 0.8cm 0.8cm
 %
 W: 1. The wren, the wren, the king of all birds,
 W:    Saint Stephen's Day was caught in the furze,
