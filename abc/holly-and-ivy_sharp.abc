@@ -1,14 +1,10 @@
-%%footer	"$T	$P	$D"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:Holly and the Ivy, The
 C:collected by Cecil Sharp from Mrs. Clayton at Chipping Campden
-%
-%%measurebox true           % measure numbers in a box
-%%measurenb 0               % measure numbers at first measure
-%%barsperstaff 0            % number of measures per staff
-%%gchordfont Times-Bold 14  % for chords
-%
 M:3/4
 L:1/4
 Q:85
@@ -20,12 +16,13 @@ w: The hol- ly and the i- vy, When they are both full grown, Of_
 B/A/ G B/B/ | E/E/ D (G/A/) | B/c/ B A | G2 ||
 w: all the trees that are in the wood, The_ hol- ly bears the crown.
 %
-"Chorus" G | G/G/ G e | (d B) G/G/ | G/G/ G e | d2 (d/c/) |
+[P:Chorus] G | G/G/ G e | (d B) G/G/ | G/G/ G e | d2 (d/c/) |
 w: The ris- in of the sun,_ And the run- ning of the deer, The_
 %
 B/A/ G B | E/E/ D G/A/ | B/c/ B A | G2 |]
 w: play- ing of the mer- ry or- gan, Sweet sing- ing in the choir.
-%%vskip 0.8cm
+%
+%%sep 0.8cm 0.8cm
 %
 %%textfont Times-Italic 14
 %%text This one is dubbed the "mall version" and we generally don't sing it.
