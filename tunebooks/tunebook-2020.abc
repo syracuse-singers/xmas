@@ -1108,3 +1108,85 @@ W:    The holly bears the crown.
 %   add homeless_wassail                              |
 % -----------------------------------------------------
 
+X:17
+T:Horsham Tipteerers Carol
+T:Sussex Mummers Carol
+C:Horsham Tipteerers, Sussex
+C:collected by Lucy Broadwood, 1880
+%
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=bass
+%
+%%staves [1 2 | 3]
+U: H = fermata
+%
+M:C
+L:1/4
+Q:1/4=115
+K:F
+%
+[V:1] (F/c/) | c  B  A (G/A/) |  B        A  G (F/G/) | A>G   A ((3B/c/d/) | c3  c  | d   c  (B/c/)   d  |
+[V:2]  F     | A  G  F  E     |  D        F  E (F/E/) | F>E   F ((3D/E/F/) | G3  A  | B   A  (G/A/)   B  |
+w: 1.~~When right-eous Jo-seph wed-ded was Un_to a vir-gin__ maid, A glor-ious an-gel from
+w: 2.~~As joy-ful shep-herds brought their gifts To_ Christ, the sav-ior__ dear. And so we come_ up
+w: 3.~~God bless the mis-tress of this house With_ gold all round her__ breast; Where e'er her bo_dy
+w: 4.~~God bless the mas-ter of this house With_ hap-pi-ness be__side; Where e'er his bo_dy
+w: 5.~~God bless your house, your child-ren too, Your_ cat-tle and your__ store. The Lord in-crease_ you
+[V:3]  F,    | F, C, D, A,,   | (B,,/C,/) D, C, C,    | D,>C, F,  B,,      | C,3 F, | B,, D, (G,/G,/) G, |
+%
+[V:1] c (B/A/) (G/A/) B  | c>d   c  B  |[M:6/4] (A/c/-c G3) F  |[M:4/4] (c  G  A) (d/B/) | (A2 G>)F | F3  |]
+w: * * * * * * * * * * * * * * * * * * * *  vir_gin maid.
+[V:2] A (G/F/)  C     D  | A>B   A  G  |[M:6/4] (F2  E3)    F  |[M:4/4] (A  C  F)  F     |  F2  E2  | F3  |]
+w: hea-ven_ came Un-to the vir-gin maid;_ Un-to__ that vir-gin maid.
+w: on this_ night With bless-ings and good cheer;_ With bless__ings and good cheer.
+w: sleeps or_ wakes, Lord, send her soul to rest;_ Lord, send__ her soul to rest.
+w: rides or_ walks, Lord Je-sus be his guide;_ Lord Je__sus be his guide.
+w: day by_ day, And send you more and more;_ And send__ you more and more.
+[V:3] F, C,     F,    F, | F,>F, F, C, |[M:6/4] (F,2 C,3)   F, |[M:4/4] (F, E, D,) B,,   |  C,2 C,2 | F,3 |]
+%
+%%newpage
+%
+W: 1. When righteous Joseph wedded was
+W:    Unto a virgin maid,
+W:    A glorious angel from Heaven came
+W:    Unto that virgin maid;
+W:    Unto that virgin maid.
+W:
+W: 2. As joyful shepherds brought their gifts
+W:    To Christ, the savior dear.
+W:    And so we come upon this night
+W:    With blessings and good cheer;
+W:    With blessings and good cheer.
+W:
+W: 3. God bless the mistress of this house
+W:    With gold all round her breast;
+W:    Where e'er her body sleeps or wakes,
+W:    Lord, send her soul to rest;
+W:    Lord, send her soul to rest.
+W:
+W: 4. God bless the master of this house
+W:    With happiness beside;
+W:    Where e'er his body rides or walks,
+W:    Lord Jesus be his guide;
+W:    Lord Jesus be his guide.
+W:
+W: 5. God bless your house, your children too,
+W:    Your cattle and your store.
+W:    The Lord increase you day by day,
+W:    And send you more and more;
+W:    And send you more and more.
+%
+%%vskip 0.5cm
+%%textfont Times-Italic 14
+%%begintext fill
+%%
+%%This carol was collected by Lucy Broadwood near Horsham, Sussex, in 1880,
+%%from the singing of Christmas mummers locally known as tipteers or tipteerers.
+%%Its verses were something of a mix: a stanza from another carol about The Annunciation;
+%%some moralistic lessons; and several blessings common to other house-visiting wassails.
+%%In this version from Finest Kind, the song keeps the opening verse and the house-visting
+%%verses, eliminates the lessons, and adds a new verse written by Shelley Posen.
+%%
+%%endtext
+
