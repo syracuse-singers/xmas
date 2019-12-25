@@ -1,16 +1,13 @@
-%%footer	"$T	$P	$D"
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
 
 X:1
 T:End of Summer
 C:Lyrics by Stanley Kunitz
 C:Music by T.S. Baxter
 %
-%%measurebox true           % measure numbers in a box
-%%measurenb 0               % measure numbers at first measure
-%%barsperstaff 0            % number of measures per staff
-%%gchordfont Times-Bold 14  % for chords
-%
-%%staves [1|2]
+%%staves [1 | 2]
 U: H = fermata
 %
 M:C
@@ -69,21 +66,21 @@ w: pop- ul- a- tions forth, And a cru- el wind blows.
 %%sep 0.8cm 0.8cm
 %
 W: A. An agitation of the air,
-W: A pertubation of the light
-W: Admonished me the unloved year
-W: Would turn on its hinge that night.
+W:    A pertubation of the light
+W:    Admonished me the unloved year
+W:    Would turn on its hinge that night.
 W:
 W: B. I stood in the disenchanted field
-W: Amid the stubble and the stones
-W: Amazed, while a small worm lisped to me
-W: The song of marrow bones.
+W:    Amid the stubble and the stones
+W:    Amazed, while a small worm lisped to me
+W:    The song of marrow bones.
 W:
 W: C. [Spoken] Blue poured into summer blue,
-W: A hawk broke from his cloudless tower,
-W: The roof of the silo blazed, and I knew
-W: That part of my life was over.
+W:    A hawk broke from his cloudless tower,
+W:    The roof of the silo blazed, and I knew
+W:    That part of my life was over.
 W:
 W: D. Already the iron door of the north
-W: Clangs open: birds, leaves, snows
-W: Order their populations forth,
-W: And a cruel wind blows.
+W:    Clangs open: birds, leaves, snows
+W:    Order their populations forth,
+W:    And a cruel wind blows.
