@@ -20,6 +20,7 @@ Updated in preparation for 2020 caroling.
 - [Good King Wenceslaus](pdf/good-king-wenceslaus.pdf)
 - [Gower Wassail](pdf/gower-wassail.pdf)
 - [The Holly And The Ivy](pdf/holly-and-ivy-karpeles.pdf) (Karpeles tune)
+- [Horsham Tipteerers Carol](horsham-tipteerers-carol.pdf) (Sussex Mummers Carol)
 - [Hunting The Cutty Wren](pdf/hunting-the-cutty-wren.pdf)
 - [Hunting The Wren](pdf/hunting-the-wren.pdf)
 - [In Praise Of Christmas](pdf/in-praise-of-christmas.pdf)
@@ -31,7 +32,7 @@ Updated in preparation for 2020 caroling.
 - [Orientus Partibus](pdf/orientus-partibus.pdf)
 - [Over The Hill Over The Dale](pdf/over-the-hill-over-the-dale-2014.pdf)
 - [Please To See The King](pdf/please-to-see-the-king.pdf)
-- [Rolling Downward](pdf/rolling-downward.pdf) (unison)
+- [Rolling Downward](pdf/rolling-downward.pdf)
 - Shepherds Arise <sup>[1](#note-shepherds-arise)</sup>
 - [Sherburne C.M.](pdf/sherburne.pdf)
 - [Somerset Wassail](pdf/somerset-wassail.pdf)
