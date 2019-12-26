@@ -6,14 +6,16 @@ These are not the carols you generally hear on the radio or in shopping malls. W
 
 ## Index
 
-Updated in preparation for 2020 caroling.
+Updated in preparation for the 2020 caroling season. This list is not final.
 
+- [Apple Tree Wassail](pdf/apple-tree-wassail.pdf)
 - [Arise And Hail The Joyful Day](pdf/arise-hail-joyful-day.pdf)
 - [The Boar's Head](pdf/boars-head.pdf)
 - [The Boys Carol](pdf/boys-carol.pdf)
 - [Chanukah / Solstice](pdf/chanukah-solstice.pdf)
 - [Chariots](pdf/chariots-in-d.pdf)
 - [The Cutty Wren](pdf/cutty-wren.pdf)
+- [Death Or Glory Wassail](pdf/death-or-glory-wassail.pdf)
 - [Down In Yon Forest](pdf/down-in-yon-forest.pdf)
 - [Gaudete](pdf/gaudete.pdf)
 - [Gloucestershire Wassail](pdf/gloucestershire-wassail.pdf)
@@ -25,7 +27,6 @@ Updated in preparation for 2020 caroling.
 - [Hunting The Wren](pdf/hunting-the-wren.pdf)
 - [In Praise Of Christmas](pdf/in-praise-of-christmas.pdf)
 - [In The Bleak Midwinter](pdf/in-the-bleak-midwinter.pdf)
-- [Kentucky Wassail](pdf/kentucky-wassail.pdf)
 - [Lo, How A Rose E'er Blooming](pdf/lo-how-a-rose.pdf)
 - [Macaronic Carol](pdf/macaronic-carol.pdf)
 - [O Little One Sweet](pdf/o-little-one-sweet.pdf)
