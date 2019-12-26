@@ -2032,6 +2032,146 @@ W:    Man of sorrows, and rejected,
 W:    Lamb of God, that takes our sin away.
 
 X:27
+T:Shepherds Arise
+C:The Copper family
+C:Rottingdean, Sussex (traditional)
+%
+V:S clef=treble name="Alto"  sname="A"
+V:T clef=bass   name="Tenor" sname="T"
+V:B clef=bass   name="Bass"  sname="B"
+%%score [S T B]
+%
+U: H = fermata
+%
+M:C
+L:1/8
+K:G
+%
+[V:S] G,4 A,2 A,2|D6  D2 |(B,2 D4)     (EG)  |F6   D2  |(B,2 D4)   (CB,)|
+w: 1.~~Shep- herds a- rise. Be   not_  a -  fraid. With has - ty_ 
+w: 2.~~Laid  in    a  man-  ger. View_ the_ child. Hu-  mi -  li - 
+[V:T] G,4 A,2 A,2|B,6 C2 |(D2  B,3 A,) (G,B,)|A,6 (B,C)|(D2  B,3 A,) G,2|
+w: 1.~~Shep- herds a- rise. Be   not__  a -  fraid. With_ has - - ty 
+w: 2.~~Laid  in    a  man-  ger. View__ the_ child. Hu -  mi  - - li- 
+[V:B] G,4 D,2 D,2|G,6 G,2|(G,4 (G,)F,) E,2   |D,6  D,2 |(G,4(G,)F,)  E,2|
+w: 1.~~Shep- herds a- rise. Be   not__  a-  fraid. With has - - ty 
+w: 2.~~Laid  in    a  man-  ger. View__ the child. Hu-  mi  - - li- 
+%
+[V:S] (D2  C4)  (CD)  |D6   z2|(C2  A,2) B,2 C2 |(D3 C B,C)    D2  |
+w: steps_ pre - pare. To_    Dav- id's ci - - - ty
+w: ty_    di  - vine. Sweet_ in-  no-  cence___ sounds
+[V:T] (A,4 G,2) (F,G,)|G,6  z2|(A,2 F,2) G,2 A,2|(B,3 A,G,A,) (B,C)|
+w: steps_ pre - pare. To_    Dav- id's ci - - - ty_  
+w: ty_    di  - vine. Sweet_ in-  no-  cence___ sounds_
+[V:B]  D,6        D,2 |G,,6 z2| D,4      D,2 D,2| G,6          G,2 |
+w: steps pre- pare. To    Dav- id's ci-   ty
+w: ty    di-  vine. Sweet in-  no-  cence sounds
+%
+[V:S] (B,C D3 E)  (FG)|F6  z2 |z6       (G,B,)| D2  C2   B,2   D2 |D6   D2 |
+w: Sin___  on_  earth. With_  our blest in-  fant  there, With 
+w: meek___ and_ mild.  Grace_ in  his   fea- tures shine, Grace
+[V:T] (D2 B,3 A,)  G,2|A,6 z2 |z6       (D,G,)| B,2 A,2 (G,A,) B,2|A,6  A,2|
+w: Sin__  on  earth. With_ our  blest in- -  fant  there, With 
+w: meek__ and mild.  Grace_ in  his   fea- - tures shine, Grace
+[V:B] (G,4 (G,)F,) E,2|D,6 D,2|G,2 G,2 D,2 D,2|(G,8               |D,6) D,2|
+w: Sin__  on  earth. With  our blest in-  fant  there,_ With
+w: meek__ and mild.  Grace in  his   fea- tures shine,_ Grace
+%
+[V:S] D2  D2  D2  D2 | D2    E2  G2     E2   |(F2 G4)          D2 |D6   z2|
+w: our blest in-  fant  there, With  our blest in -  fant  there. 
+w: in  his   fea- tures shine, Grace in  his   fea - tures shine. 
+[V:T] B,2 C2  D2  B,2|(A,B,) C2 (B,A,) (G,B,)|(A,3 B,/A,/ G,2) F,2|G,6  z2|
+w: our blest in-  fant  there,_ With  our_ blest_ in  - - - fant  there. 
+w: in  his   fea- tures shine,_ Grace in_  his_   fea - - - tures shine.
+[V:B] G,2 G,2 G,2 G,2| D,2   D,2 E,2    C,2  | D,6             D,2|G,,6 z2|
+w: our blest in-  fant  there, With  our blest in-  fant  there. 
+w: in  his   fea- tures shine, Grace in  his   fea- tures shine.
+%
+[V:S] D4   D2    D2|D6  D2 |D2  C2  B,2 (B,C)|(B,2 G4     (E2  |
+w: Sing, sing all earth. Sing sing all earth, e - ter - - 
+[V:T] B,4 (A,B,) C2|B,6 C2 |B,2 A,2 G,2 (B,C)|(D3 C B,2    A,B,|
+w: Sing, sing_ all earth. Sing sing all earth, e - ter - - - - 
+[V:B] G,4  D,2  D,2|G,6 G,2|G,2 G,2 G,2  D,2 |(G,2 D,2 E,2 B,,2|
+w: Sing, sing all earth. Sing sing all earth, e- ter - - - 
+%
+[V:S] E)F G2  F2)   D2  |B,4  D4      |F6  z2    |z8              |
+w: - - - - nal prai- ses sing. 
+[V:T] C2  B,2 A,G,) F,2 |G,4 (B,2 A,2)|A,6 (A,B,)|C2 A,2 (B,A,)G,2|
+w: - - - - nal prai- ses_ sing. To_our Re- deem - er, 
+[V:B] G,2 F,E, D,2) B,,2|E,4  G,4     |D,6 z2    |z8              |
+w: - - - - nal prai- ses sing. 
+%
+[V:S] (B,3 C)D2 D2 |F2  F2  B,2 G2 |G4   D4      |D6 !D.C.!  z2||
+w: To_ our Re- deem- er and our heav'n- ly King.
+[V:T] (D3 C)B,2 B,2|A,2 A,2 G,2 C2 |B,4 (A,3 G,) |G,6        z2||
+w: To_ our Re- deem- er and our heav'n- ly_ King.
+[V:B] G,4   G,2 G,2|D,2 D,2 E,2 C,2|D,4  D,4     |G,,6       z2||
+w: To our Re- deem- er and our heav'n- ly King.
+%
+[V:S] G,4  A,2   A,2|G6  G2 | G6               (EG)   |F6   F2  | G6          G2 |
+w: 3.~~For us the Sav- iour came on_ earth. For us his 
+[V:T] G,4  A,2   A,2|B,6 C2 |(D2 B,3 A,)       (G,B,) |A,6 (B,C)|(D2 B,3 A,)  G,2|
+w: 3.~~For us the Sav- iour came__ on_ earth. For_ us__ his 
+[V:B] G,4 (F,E,) D,2|E,6 D,2|(B,,A,, G,,2 E,2) (B,,C,)|D,6  D,2 |(G,2 E,3 D,) C,2|
+w: 3.~~For us_ the Sav- iour came___ on_ earth. For us__ his 
+%
+[V:S] (FE E4)          D2 |E6  z2| F4       F2  F2 | G6           G2  |
+w: life__ he gave. To save us from e-
+[V:T] (A,3 B,/A,/ G,2) F,2|G,6 z2|(A,2 F,2) G,2 A,2|(B,3 A,G,A,) (B,C)|
+w: life___ he gave. To_ save us from___ e -
+[V:B] (D,2 C,4)        D,2|C,6 z2| D,4      D,2 D,2| E,6          E,2 |
+w: life_ he gave. To save us from e-
+%
+[V:S]  D6           D2 |G6     z2|z6         G,B,|D2  C2   B,2   D2 |D6   D2 |
+w: ter- nal death. And to raise us from the grave, To
+[V:T] (D2 B,3 A,)   G,2|A,6    z2|z6         D,G,|B,2 A,2 (G,A,) B,2|A,6  A,2|
+w: ter - - nal death. And to raise us from_ the grave, To
+[V:B] (G,,2 G,3 F,) E,2|D,6 D,>D,|G,2 G,2 D,2 D,2|(G,8              |D,6) D,2|
+w: ter - - nal death. And to raise us from the grave,_ To
+%
+[V:S] G2  G2  G2    E2     | F2    F2   G2     E2   |(F2 G4)          D2 |D6  z2|
+w: raise us from the grave, To raise us from_ the grave.
+[V:T] B,2 C2  D2    B,2    |(A,B,) C2  (B,A,) (G,B,)|(A,3 B,/A,/ G,2) F,2|G,6 z2|
+w: raise us from the grave,_ To raise_ us_ from___ the grave.
+[V:B] E,2 E,2 B,,2 (G,,B,,)| D,2   D,2 (E,D,)  C,2  | D,6             D,2|(C,4 (C,)B,, A,,2)|
+w: raise us from the_ grave, To raise_ us from the grave.___
+%
+[V:S]  D4         D2    D2 |D6  D2 |D2  C2   B,2 (B,C) |(B,2     G4 (E2        |
+w: Sing sing all earth, Sing sing all earth e - ter - - 
+[V:T]  B,4       (A,B,) C2 |B,6 C2 |B,2 A,2  G,2 (B,C) |(D3   C  B,2 {CB,}A,B,|
+w: Sing sing_ all earth, Sing sing all earth e - ter - - - - 
+[V:B] (G,,2 G,2) (F,E,) D,2|G,6 G,2|G,2 G,2  G,2  D,2  |(G,2 D,2 E,2 B,,2      |
+w: Sing_ sing_ all earth, Sing sing all earth e- ter - - - 
+%
+[V:S] E)F G2   F2)   D2  |B,4  D4      |F6    z2   | z8              |
+w: - - - - nal prai- ses sing, 
+[V:T] C2  B,2  A,G,) F,2 |G,4 (B,2 A,2)|A,6  (A,B,)|C2 A,2 (B,A,) G,2|
+w: - - - - nal prai- ses_ sing, To_ our Re- deem - er,
+[V:B] G,2 F,E, D,2)  B,,2|E,4  G,4     |D,6   z2   | z8              |
+w: - - - - nal prai- ses sing, 
+%
+[V:S]  G4    G2  G2 |F2  E2 (EF) G2  |G4   D4     |[M:6/4]  D2   z2    z4      z2    z2 |
+w: To our Re- deem- er and_ our heav'n- ly king. 
+[V:T] (D3 C) B,2 B,2|A,2 A,2 G,2 C2  |B,4 (A,3 G,)|[M:6/4]  G,2 (A,B,) C2 A,2 (B,A,) G,2|
+w: To_ our Re- deem- er and our heav'n- ly_ king. To_ our Re- deem - er,
+[V:B]  C,4   C,2 C,2|D,2 D,2 C,2 A,,2|D,4  D,4    |[M:6/4] (G,,8               G,,4)    |
+w: To our Re- deem- er and our heav'n- ly king._
+%
+[V:S] [M:6/4] G4 G2 G2  F2  F2 |[M:2/4] (EF)  G2  |[M:4/4]  G4      H D4     |B8  |]
+w: To our Re- deem- er and_ our heav'n- ly king.
+[V:T] [M:6/4] D4 D2 D2  D2  D2 |[M:2/4]  G,2  C2  |[M:4/4] (B,2 C2) H(A,3 G,)|G,8 |]
+w: To our Re- deem- er and our hea- v'n- ly_ king.
+[V:B] [M:6/4] D4 C2 B,2 A,2 A,2|[M:2/4]  C,2  A,,2|[M:4/4]  D,4     H D,4    |G,,8|]
+w: To our Re- deem- er and our heav'n- ly king.
+%
+%%sep 0.8cm 0.8cm
+%
+%%begintext fill
+%%A powerful carol from the Copper family of Rottingdean, Sussex.
+%%A two-part setting may be found in Bob Copper's book, "A Song For Every Season." 
+%%endtext
+
+X:28
 T:Sherburne C. M.
 T:While Shepherds Watched Their Flocks
 C:Music by Daniel Read, 1793
@@ -2114,7 +2254,7 @@ w: nev- er cease, Be- gin and nev- er cease_
 w: glo- ry shown a- round_
 w: gin and nev- er cease_
 
-X:28
+X:29
 T:Somerset Wassail
 C:traditional English
 %
@@ -2198,7 +2338,7 @@ W:    God bless all in this house until we do come again.
 W:    For it's your wassail and it's our wassail,
 W:    And it's joy be to you, and a jolly wassail.
 
-X:29
+X:30
 T:Wintertime
 C:Music: George Gershwin
 C:Words: Susan Galbraith and an angel throng
@@ -2231,7 +2371,7 @@ W:    You'll roll back that stone and you'll take to the sky.
 W:    Before that morning you better get some disciples,
 W:    But watch out for Judas, that one's sly.
 
-X:30
+X:31
 T:Wren Song, The
 C:traditional Irish
 M:6/8
