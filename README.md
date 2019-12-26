@@ -20,7 +20,7 @@ Updated in preparation for 2020 caroling.
 - [Good King Wenceslaus](pdf/good-king-wenceslaus.pdf)
 - [Gower Wassail](pdf/gower-wassail.pdf)
 - [The Holly And The Ivy](pdf/holly-and-ivy-karpeles.pdf) (Karpeles tune)
-- [Horsham Tipteerers Carol](horsham-tipteerers-carol.pdf) (Sussex Mummers Carol)
+- [Horsham Tipteerers Carol](pdf/horsham-tipteerers-carol.pdf) (Sussex Mummers Carol)
 - [Hunting The Cutty Wren](pdf/hunting-the-cutty-wren.pdf)
 - [Hunting The Wren](pdf/hunting-the-wren.pdf)
 - [In Praise Of Christmas](pdf/in-praise-of-christmas.pdf)
