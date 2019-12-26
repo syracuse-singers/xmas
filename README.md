@@ -52,7 +52,7 @@ We are using a [Creative Commons CC-BY](https://creativecommons.org/licenses/by/
 
 ## Downloading Files
 
-For 2020, we're tentatively providing a single large songbook of the carols are in our active repertoire. However, the current version is not final until our group makes a vote as to what should be included. A final version will be marked "Caroling 2020" instead of bearing a timestamp. One caveat is that this songbook can not include any of carols we're using under license.
+For 2020, we're tentatively providing a single large songbook of the carols are in our active repertoire. However, the current version is not final until our group makes a vote as to what should be included. A final version will be marked "Caroling 2020" instead of bearing a timestamp.
 
 - [2020 Caroling Songbook](tunebooks/xmas-2020.pdf)
 
