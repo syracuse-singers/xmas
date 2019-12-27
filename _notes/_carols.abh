@@ -9,7 +9,8 @@
 %%titlefont         Times-Bold 24
 %%subtitlefont      Times-Bold 20
 %%composerfont      Times-Roman 16
-%%vocalfont         Times-Roman 15
+%%vocalfont         Times-Roman 15         % for w: lyrics
+%%wordsfont         Times-Roman 15         % for W: lyrics
 %%annotationfont    Times-BoldItalic 14
 %%footerfont        Times-Roman 12
 %%gchordfont        Times-Bold 14          % for chords
