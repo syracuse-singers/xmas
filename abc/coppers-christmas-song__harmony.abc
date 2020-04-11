@@ -1,0 +1,93 @@
+X:1
+T:Copper's Christmas Song
+T:The Trees Are All Bare
+N:Bob Copper sang the Christmas Song in 1971 on the Copper Family's
+N:Leader Records box set, "A Song for Every Season".
+C:The Copper Family
+C:Rottingdean, Sussex (traditional)
+%
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=bass
+V:4 clef=bass
+%
+L:1/4
+M:C
+K:F
+%
+%%staves [(1 2) | 4]
+%
+[V:1] C  | F2  C  C  | F-F  (F/G/) A         | (G F)    (F/G/) A       | (G/A/     B2)  (A/B/)  |
+[V:2] C  | F2  C  C  | F F  (F/G/) A         | (D C)    (D/E/) F       | (G/^F/    G2)  (=F/E/) | 
+w: 1.~~The trees are all bare,_ not_ a leaf_ to_ be seen,__ And the
+w: 2.~~'Twas down in the farm-yard where_ the ox-en feed_ on straw,__ They_
+w: 3.~~'Tis now all the small birds to_ the barn-door fly_ for food,__ And_
+w: 4.~~Now Christ-mas is come_ and_ our song is al_most done,__ For we
+[V:4] C, | F,2 E, F, | D,-D, D,    A,,/-A,,/ | (B,, A,,) D,   (D,/C,/) | (B,,/A,,/ G,,2) C,/-C,/ |  
+%
+[V:1]  c2  (G/A/) B  | (A  B)   G>F    | F2        z (F/G/) | A2  (G/A/) B  | A2 (G/A/) =B  |
+[V:2]  F2  (E/F/) G  | (F  F)   E>C    | A,2       z (F/E/) | F2   E     E  | F2  E     E  | 
+w: mea- dows_ their beau_ ty have lost. Now_ win- ter has come and 'tis
+w: send forth_ their breath_ like the steam. Sweet_ Bet-sy the milk-maid now
+w: gent-ly_ they rest_ on the spray. A_down the plan-ta-tion the
+w: soon shall have the turn_ of the year. So_ fill up your glass-es and 
+[V:4]  A,,2 B,,   F, | (F, A,,) B,,>C, | [F,2F,,2] z  F,    | F,2 _E,    E, | F,2 C,    C, | 
+%
+[V:1] c  c (d/c/) =B | c2  C  C  | [M:6/4] D   E   (F>E   D)   z |
+[V:2] F  F  F     F  | E2  C  C  | [M:6/4] D  ^C   (D>A,  D)   z | 
+w: cold for man and beast. And the streams they are,__
+w: quick-ly she must go, For the flakes of ice she finds, 
+w: hares do search for food, And lift up their foot-steps sure,
+w: let your health go round, For we wish you all,__
+[V:4] F, F, D,    G, | C,2 C, C, | [M:6/4] B,, A,, (D,>C, B,,) z | 
+%
+[V:1] [M:4/4] B  A  B  c  | d-d   c  B  | A  B  G>F    |  F2       z |]
+[V:2] [M:4/4] F ^F  G =F  | F-F   F  G  | F  E  D>C    |  C2       z |]
+w: And the streams they are_ all_ fast bound down with frost.
+w: For the flakes of ice she finds a-float-ing on her cream.
+w: And lift up their foot-steps sure for fear they do be-tray.
+w: For we wish you all_ a_ joy_ful New Year.
+[V:4] [M:4/4] G, D, G, A, | B,-B, D, E, | F, G, B,,>C, | [F,2F,,2] z |]
+%
+%%vskip 0.8cm
+%
+W: The trees all are bare, not a leaf to be seen,
+W: And the meadows their beauty have lost.
+W: Now winter has come and 'tis cold for man and beast,
+W: And the streams they are,
+W: And the streams they are all fast bound down with frost.
+W:
+W: 'Twas down in the farmyard where the oxen feed on straw,
+W: They send forth their breath like the steam.
+W: Sweet Betsy the milkmaid now quickly she must go,
+W: For flakes of ice she finds,
+W: For flakes of ice she finds a-floating on her cream.
+W:
+W: 'Tis now all the small birds to the barn-door fly for food
+W: And gently they rest on the spray.
+W: A-down the plantation the hares do search for food,
+W: And lift up their footsteps sure,
+W: And lift up their footsteps sure for fear they do betray.
+W:
+W: Now Christmas is come and our song is almost done
+W: For we soon shall have the turn of the year.
+W: So fill up your glasses and let your health go round,
+W: For we wish you all,
+W: For we wish you all a joyful New Year.
+%
+%%vskip 0.8cm
+%%textfont Times-Italic 14
+%%begintext fill
+%%Roud Index 1170. Unknown outside of Sussex, although it appears to derive from
+%%'Winter', a poem written by Thomas Brerewood of Horton, Cheshire (d. 1748).
+%%The few known traditional singers it was collected from include
+%%the the Downs shepherd, Michael Blann from Upper Beeding, 
+%%whose MS songbook is in the Sussex Library; 
+%%George Townshend of Lewes, Sussex who was recorded in the 1960s, a version
+%%of which is transcribed in Ken Stubbs book, "The Life of a Man"; 
+%%and lastly by the Copper Family, who recorded it on their 1971 Leader Records 
+%%4-LP box set, "A Song for Every Season". 
+%%This version is from Bob Copper's book of the same name, with the harmony parts
+%%based on Graham Pratt's setting in his book "Winter Songs in Harmony, 
+%%Book Two: Carollers From Hell".
+%%endtext
