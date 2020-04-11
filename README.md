@@ -13,7 +13,7 @@ Updated in preparation for the 2020 caroling season. This list is not final.
 0. [The Boar's Head](pdf/boars-head.pdf)
 0. [The Boys Carol](pdf/boys-carol.pdf)
 0. [Chanukah / Solstice](pdf/chanukah-solstice.pdf)
-0. [Chariots](pdf/chariots_harmony.pdf)
+0. [Chariots](pdf/chariots__harmony.pdf)
 0. [The Cutty Wren](pdf/cutty-wren.pdf)
 0. [Death Or Glory Wassail](pdf/death-or-glory-wassail.pdf)
 0. [Down In Yon Forest](pdf/down-in-yon-forest.pdf)
