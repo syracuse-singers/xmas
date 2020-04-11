@@ -2193,6 +2193,68 @@ W:    Comes to earth our fearful debt to pay.
 W:    Man of sorrows, and rejected,
 W:    Lamb of God, that takes our sin away.
 
+X:1
+T:Rumsey Road Wassail
+%
+T:Old Apple Tree Wassail
+C:trad. English (Somerset)
+U:H = fermata
+Q:"with a swing   "3/8=96
+M:6/8
+L:1/8
+K:D
+%
+z A, | D2 D (CB,) A, | G2 G (EF) G | 
+w: 1.~~Old ap-ple tree,_we was-sail thee,_ And
+w: 2.~~The mor-ris dan_cers come each year_to
+w: 3.~~The Mam-mal Roast_ brings ma-ny friends_ to
+w: 4.~~The King-ston Black_ bleeds bit-ter sharp,_ Brown
+%
+F2 D E2C | D3-D2 A, | D2 D (CB,) A, | 
+w: hope that thou will bear._ The Lord doth know_ where
+w: sing be-neath your boughs._ They drink your ci-_der
+w: eat and drink and play._ They see your swel-_ling
+w: Snout is bit-ter-sweet._ The ap-ples grown_ at
+%
+G2 G E F G | F E D E2 C | D3-D 
+w: we shall be_ when ap_ples come next year._
+w: by the fire_ and hap_pi-ly ca-rouse._
+w: fruit, and toast to the com--ing har-vest day._
+w: Stone Fence Farm make a har--mo-ny com-plete._
+%
+%%vskip 0.5cm
+%
+P:CHORUS
+(FG) | A2 A (AG) F | G2 G G F E | F2 G A2 F | 
+w: For it's stand well, trunk,_ and bear well, branch,_ so mer-ry let us
+%
+E3-E2 A, | D2 D (CB,) A, | G2 G E F G | 
+w: be;_ Let all of us_ take off our hats and shout
+w: -[last~time] Take off your hat_ and shout Hoo-ray!_ for
+%
+FED EDC | D3-D ||
+w: out to the old ap-ple tree!_
+w: Pe-_ter's ap--ple trees!_
+%
+%%vskip 1.0cm
+% 
+W: Shouted:
+W: Hatfuls, capfuls, three bushel bagfuls
+W: And a little heap under the stairs
+W: Hip! Hip! Hurray!
+%
+%%sep 1.0cm 0.8cm
+%
+%%begintext fill
+%%The tune and first verse and chorus, with minor changes, are traditional.
+%%Verses 2-4 and final chorus were written by Susan Galbraith, in honor of
+%%Peter Hoover and his Stone Fence Farm cider orchard in Trumansburg, NY. 
+%%We are gratified to have been able to perform this carol for Peter, and do a 
+%%proper wassail of his orchard, including a mummers play written for him, 
+%%on January 19, 2019. He died peacefully, 80 years young, 
+%%surrounded by his family, on October 11, 2019.
+%%endtext
+
 X:27
 T:Shepherds Arise
 C:The Copper family
