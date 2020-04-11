@@ -4,7 +4,7 @@ I:abc-charset utf-8
 
 X:1
 T:Chariots
-C:John Kirkpatrick ©1995
+C:John Kirkpatrick, 1995
 %
 V:1 clef=treble
 V:2 clef=treble
@@ -21,6 +21,7 @@ U: H = fermata
 %
 M:3/4
 L:1/4
+Q:1/4=250
 K:F
 %
 V:2 F  | F  C  F  | B  A  G  | F  A  c | d  c  B/-B/   | c<f   d  | c-c  F  | 
@@ -153,3 +154,9 @@ W:So sing your songs well and sing your songs sweetly
 W:And swear that your singing it never shall cease
 W:So the clatter of battle and drums of disaster
 W:Be drowned in the sound of the pipes of peace
+
+%%vskip 0.8cm
+%%begintext fill
+%%Harmony setting transcribed from "Nowell Sing We Clear: 
+%%Songs & Carols for Midwinter & Christmastide"
+%%endtext
