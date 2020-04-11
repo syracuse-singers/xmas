@@ -1,3 +1,7 @@
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
+
 X:1
 T:Copper's Christmas Song
 T:The Trees Are All Bare
