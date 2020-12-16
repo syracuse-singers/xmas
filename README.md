@@ -27,6 +27,7 @@ Updated in preparation for the 2020 caroling season. This list is not final.
 0. [Hunting The Wren](pdf/hunting-the-wren.pdf)
 0. [In Praise Of Christmas](pdf/in-praise-of-christmas.pdf)
 0. [In The Bleak Midwinter](pdf/in-the-bleak-midwinter.pdf)
+0. [Liverpool](pdf/liverpool.pdf)
 0. [Lo, How A Rose E'er Blooming](pdf/lo-how-a-rose.pdf)
 0. [Macaronic Carol](pdf/macaronic-carol.pdf)
 0. [O Little One Sweet](pdf/o-little-one-sweet.pdf)
