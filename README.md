@@ -10,7 +10,7 @@ Updated in preparation for the 2020 caroling season. This list is not final.
 
 0. [Apple Tree Wassail](pdf/apple-tree-wassail.pdf)
 0. [Arise And Hail The Joyful Day](pdf/arise-hail-joyful-day.pdf)
-0. [Back Lane](pdf/back-lane.pdf)
+0. [Back Lane](pdf/back-lane.pdf) (Sheffield pub carol)
 0. [The Boar's Head](pdf/boars-head.pdf)
 0. [The Boys Carol](pdf/boys-carol.pdf)
 0. [Chanukah / Solstice](pdf/chanukah-solstice.pdf)
@@ -28,7 +28,7 @@ Updated in preparation for the 2020 caroling season. This list is not final.
 0. [Hunting The Wren](pdf/hunting-the-wren.pdf)
 0. [In Praise Of Christmas](pdf/in-praise-of-christmas.pdf)
 0. [In The Bleak Midwinter](pdf/in-the-bleak-midwinter.pdf)
-0. [Liverpool](pdf/liverpool.pdf)
+0. [Liverpool](pdf/liverpool.pdf) (Sheffield pub carol)
 0. [Lo, How A Rose E'er Blooming](pdf/lo-how-a-rose.pdf)
 0. [Macaronic Carol](pdf/macaronic-carol.pdf)
 0. [O Little One Sweet](pdf/o-little-one-sweet.pdf)
