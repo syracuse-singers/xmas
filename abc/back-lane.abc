@@ -1,0 +1,80 @@
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
+%abc-include _wide.abh
+
+X:1
+T:Back Lane
+C:Lyrics: Isaac Watts, Melody: William Womack
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=treble name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%%staves [1 | 2 | 3 | 4]
+%
+L:1/4
+M:4/4
+K:C
+%
+[V:1] C2  | E  E  G  c  | B2    c2         | F  A  G  F  | E3  G  |  A3        c  | F2  D2   | C4  |
+w: 1.~Be-hold the grace ap-pears. The pro-mise is ful-filled, the pro-mise is ful-filled. 
+w: 2.~"Go hum-ble swains", said he, "To Da-vid's ci-ty fly, to Da-vid's ci-ty fly. 
+w: 3.~With looks and hearts se-rene, Go vi-sit Christ your King, go vi-sit Christ your King.
+[V:2] C2  | E  E  E  E  | D2    C2         | C  C  C  B, | C3  C  |  C3        C  | C2  B,2  | C4  |
+[V:3] C2  | E  E  G  G  | G2   (E  F/G/)   | A  A  G  G  | G3  E  | (A G F)    A  | G2 (G F) | E4  |
+w: 1.~Be-hold the grace ap-pears. The__ pro-mise is ful-filled, the pro__mise is ful_filled. 
+w: 2.~"Go hum-ble swains", said he, "To__ Da-vid's ci-ty fly, to Da__vid's ci-ty_ fly. 
+w: 3.~With looks and hearts se-rene, Go__ vi-sit Christ your King, go vi__sit Christ your_ King.
+[V:4] C,2 | C, C, C, C, | G,,2 (C, D,/E,/) | F, F, E, D, | C,3 C, | (F, E, D,) F, | G,2 G,,2 | C,4 | 
+%
+[V:1] G2 E G    | A c  B  A | G4-       | G4-        | G2   z  G |
+w: Ma-ry the won-drous vir-gin bears__ And
+w: The pro-mised in-fant born to-day,__ Doth
+w: And straight a fla-ming troop was seen,__ The
+[V:2] z4        | z4        | E2  E  D  | E E  E  E  | D2   z2   |
+w: Ma-ry the won-drous vir-gin bears
+w: The pro-mised in-fant born to-day, 
+w: And straight a fla-ming troop was seen, 
+[V:3] z4        | z4        | G2  c  B  | c c  c  c  | B2   z2   | 
+w: Ma-ry the won-drous vir-gin bears
+w: The pro-mised in-fant born to-day, 
+w: And straight a fla-ming troop was seen, 
+[V:4] z4        | z4        | C,2 E, G, | C G, E, C, | B,,2 z C, |
+w: * * * * * * * * And
+%
+[V:1] A>G A B | c2 z G | A>G A B | c2 z G | (A B c) d | c2 B2 | c3 z |]
+w: Je-sus is the child, And Je-sus is the child, And Je__sus is the child.
+w: in a man-ger lie. Doth in a man-ger lie, Doth in__ a man-ger lie.
+w: shep-herds heard them sing. The shep-herds heard them sing, The shep__herds heard them sing.
+[V:2] z2 z D | E>E E G | F2 z D | E>E E E | F F E F | E2 D2 | E3 z |]
+w: And Je-sus is the child, And Je-sus is the child, And Je-sus is the child.
+w: Doth in a man-ger lie. Doth in a man-ger lie, Doth in a man-ger lie.
+w: The shep-herds heard them sing. The shep-herds heard them sing, The shep-herds heard them sing.
+[V:3] z2 z G | G>G G c | A2 z G | G>G G c | A A G A | G2 G2 | G3 z |]
+w: And Je-sus is the child. And Je-sus is the child, And Je-sus is the child.
+w: Doth in a man-ger lie. Doth in a man-ger lie, Doth in a man-ger lie.
+w: The shep-herds heard them sing. The shep-herds heard them sing, The shep-herds heard them sing.
+[V:4] F,>E, F, G, | C,3 C, | F,>E, F, G, | C,2 z C, | (F, E,/D,/ C,) F, | G,2 G,,2 | C,3 z |]
+w: Je-sus is the child, And Je-sus is the child, And Je___sus is the child.
+w: in a man-ger lie. Doth in a man-ger lie, Doth in___ a man-ger lie.
+w: shep-herds heard them sing. The shep-herds heard them sing, The shep___herds heard them sing.
+%
+%%newpage
+%
+P:Coda
+[V:1] |: c/ | c>c c c | B A G>G | A B c d | c B c z :| 
+w: A-wake, a-wake ye saints a-wake and hail this day our Sav-iour's born! 
+[V:2] |: E/ | E>E E E | D C E>E | F F G D | E D E z :| 
+[V:3] |: G/ | G>G G G | G c c>c | c d c A | G G G z :| 
+w: A-wake, a-wake ye saints a-wake and hail this day our Sav-iour's born! 
+[V:4] |: C,/ | C,>C, (C,/D,/)(E,/F,/) | G, F, C,>C, | F, D, E, F, | G, G,, C, z :| 
+%
+%%vskip 0
+%
+[V:1] c>c c c | B>B B B | c>c A d | c2 B>B | c4 |]
+w: Al-le-lu-jah, al-le-lu-jah, al-le-lu-jah, praise ye the Lord!
+[V:2] E>E E E | D>D D D | E>E F F | E2 D>D | G4 |]
+[V:3] G>G G G | G>G G G | G>G c d | G2 G>G | G4 |]
+w: Al-le-lu-jah, al-le-lu-jah, al-le-lu-jah, praise ye the Lord!
+[V:4] C,> C, (C,/D,/)(E,/F,/) | G,>G, (G,/F,/)(E,/D,/) | C,>C, F, D, | G,2 G,,>G,, | C,4 |]
