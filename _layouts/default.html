@@ -23,5 +23,13 @@
     </div>
     <script src="{{ "assets/javascript/anchor-js/anchor.min.js" | relative_url }}"></script>
     <script>anchors.add();</script>
+
+    <script type="text/javascript">
+      var pdfs = document.querySelectorAll("a[href$='.pdf']"); 
+      for (var i = 0; i < pdfs.length; i++) { 
+          pdfs[i].setAttribute("target", "_blank"); 
+      }
+    </script>
+
   </body>
 </html>
