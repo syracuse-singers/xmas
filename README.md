@@ -32,6 +32,7 @@ Updated in preparation for the 2020 caroling season. This list is not final.
 0. [Lo, How A Rose E'er Blooming](pdf/lo-how-a-rose.pdf)
 0. [Macaronic Carol](pdf/macaronic-carol.pdf)
 0. [O Little One Sweet](pdf/o-little-one-sweet.pdf)
+0. [O Little Town of Bethlehem](pdf/o-little-town-of-bethlehem.pdf) (Forest Green tune)
 0. [Orientus Partibus](pdf/orientus-partibus.pdf)
 0. [Over The Hill Over The Dale](pdf/over-the-hill-over-the-dale.pdf)
 0. [Please To See The King](pdf/please-to-see-the-king.pdf)
