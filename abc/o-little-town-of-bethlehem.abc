@@ -1,0 +1,137 @@
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
+
+X:1
+T:O Little Town of Bethlehem
+C:words: Phillips Brooks (1867) 
+C:tune: Forest Green [trad.] arr. Ralph Vaughan Williams (1906) 
+%
+V:S clef=treble name="Soprano" sname="S"
+V:A clef=treble name="Alto"    sname="A"
+V:T clef=bass   name="Tenor"   sname="T"
+V:B clef=bass   name="Bass"    sname="B"
+%%score [S A T B]
+%
+M:4/4
+L:1/4
+K:F
+%
+V:S
+C | F F F G | (A/G/) (A/B/) c A | B (A/F/) G G | F3 C | F F F G |
+w: 1.~O lit-tle town of Beth_le_hem, How still we_ see thee lie! A-bove thy deep and 
+w: 2.~For Christ is born of Ma___ry, And ga-thered_ all a-bove, While mor-tals sleep, the 
+w: 3.~How si-lent-ly, how si_lent_ly, The won-drous_ Gift is giv'n; So God im-parts to 
+w: 5.~O ho-ly Child of Beth_le_hem, De-scend to_ us, we pray; Cast out our sin, and 
+%
+(A/G/) (A/B/) c A | B (A/F/) G G | F3 (F/A/) |  c>d (c/B/) (A/G/) |
+w: dream_less_ sleep, The si-lent_ stars go by. Yet_ in thy dark_ streets_
+w: an_gels_ keep, Their watch of_ won-dering love. O_ morn-ing stars_ to_
+w: hu_man_ hearts, The bles-sings_ of His Heav'n. No_ ear may hear_ His_
+w: en_ter_ in, Be born in_ us to-day. We_ hear the Christ_mas_ 
+%
+(F/G/ A/B/) c C | F A G F | C3 C | F F F G | (A/G/) (A/B/) c A |
+w: shi___neth, The e-ver-last-ing Light; The hopes and fears of all_ the_ years, Are
+w: ge___ther, Pro-claim the ho-ly birth, And prais-es sing to God_ the_ King, And
+w: co___ming, But in this world of sin, Where meek souls will re-ceive_ Him_ still, The
+w: an___gels, The great glad ti-dings tell; O come to us, a-bide_ with_ us, Our
+%
+B (A/F/) G G | F3 |]
+w: met in_ thee to-night.
+w: peace to_ men on earth!
+w: dear Christ_ en-ters in.
+w: Lord E(m)_man-u-el!
+%
+V:A
+C | C D C (D/E/) | (F F) E D | D F F E | F3 C | C D C (D/E/) |
+F F E D | D F F E | F3 (F/A/) | E>D E C |
+(C F) E C | C C B, (A,/B,/) | C3 C | C D C (D/E/) | F F E D |
+D F F E | F3 |]
+%
+V:T
+C, | A, B, C B, | (C F,) G, F, | B, C D (C/B,/) | A,3 C, | A, B, C B, |
+w: 1.~O lit-tle town of Beth-le-hem, How still we see thee_ lie! A-bove thy deep and 
+w: 2.~For Christ is born of Ma_ry, And ga-thered all a_bove, While mor-tals sleep, the 
+w: 3.~How si-lent-ly, how si-lent-ly, The won-drous Gift is_ giv'n; So God im-parts to 
+w: 5.~O ho-ly Child of Beth-le-hem, De-scend to us, we_ pray; Cast out our sin, and 
+%
+C F, G, F, | B, C D (C/B,/) | A,3 A, | A,>F, C (C/B,/) | 
+w: dream-less sleep, The si-lent stars go_ by. Yet in thy dark streets_
+w: an-gels keep, Their watch of won-dering_ love. O morn-ing stars to_
+w: hu-man hearts, The bles-sings of His_ Heav'n. No ear may hear His_
+w: en-ter in, Be born in us to_day. We hear the Christ-mas_ 
+%
+(A, F,) G, E, | F, F, (D,/E,/) F, | E,3 (F,/G,/) | A, B, C B, | C F, G, F, | 
+w: shi_neth, The e-ver-last_ing Light; The_ hopes and fears of all the years, Are
+w: ge_ther, Pro-claim the ho_ly birth, And_ prais-es sing to God the King, And
+w: co_ming, But in this world_ of sin, Where_ meek souls will re-ceive Him still, The
+w: an_gels, The great glad ti_dings tell; O_ come to us, a-bide with us, Our
+%
+B, (C/A,/) C (B,/A,/) | A,3 |]
+w: met in_ thee to_night.
+w: peace to_ men on_ earth!
+w: dear Christ_ en-ters_ in.
+w: Lord E(m)_man-u_el!
+%
+V:B
+C, | F, B, A, G, | (F, D,) C, D, | G,, A,, B,, C, | F,3 C, | F, B, A, G, | 
+F, D, C, D, | G,, A,, B,, C, | F,3 D, | A,,>B,, C, (D,/E,/) | 
+(F, D,) C, (C,/B,,/) | A,, F,, B,, D, | C,3 (D,/E,/) | F, B, A, G, | F, D, C, D, | 
+G,, (A,,/D,/) C, C, | F,3 |]
+%
+%%vskip 0.8cm
+%
+%%textfont Times-Italic 14
+%%begintext fill
+The text was written by Phillips Brooks (1835-1893), then rector of the Episcopal Church of the Holy Trinity, Philadelphia and later of Trinity Church, Boston. He visited the village of Bethlehem in the Sanjak of Jerusalem in 1865 and, a few years later, wrote the poem for his church. His organist Lewis Redner (1831-1908) wrote the music, a tune titled "St. Louis", which is used most often in the United States.
+
+In the United Kingdom and the Commonwealth, the English hymn tune "Forest Green" is used instead. "Forest Green" was adapted by Ralph Vaughan Williams from an English folk ballad called "The Ploughboy's Dream" which he had collected from a Mr. Garman of Forest Green, Surrey in 1903. 
+%%endtext
+%
+%%newpage
+%
+W: 1. O little town of Bethlehem,
+W:    How still we see thee lie!
+W:    Above thy deep and dreamless sleep
+W:    The silent stars go by.
+W:    Yet in thy dark streets shineth
+W:    The everlasting Light;
+W:    The hopes and fears of all the years
+W:    Are met in thee tonight.
+W:    
+W: 2. For Christ is born of Mary,
+W:    And gathered all above,
+W:    While mortals sleep, the angels keep
+W:    Their watch of wondering love.
+W:    O morning stars together,
+W:    Proclaim the holy birth,
+W:    And praises sing to God the King,
+W:    And peace to men on earth!
+W:    
+W: 3. How silently, how silently,
+W:    The wondrous Gift is giv’n;
+W:    So God imparts to human hearts
+W:    The blessings of His Heav’n.
+W:    No ear may hear His coming,
+W:    But in this world of sin,
+W:    Where meek souls will receive Him still,
+W:    The dear Christ enters in.
+W:    
+W: 4. Where children pure and happy
+W:    Pray to the blessèd Child,
+W:    Where misery cries out to Thee,
+W:    Son of the mother mild;
+W:    Where charity stands watching
+W:    And faith holds wide the door,
+W:    The dark night wakes, the glory breaks,
+W:    And Christmas comes once more.
+W:    
+W: 5. O holy Child of Bethlehem,
+W:    Descend to us, we pray;
+W:    Cast out our sin, and enter in,
+W:    Be born in us today.
+W:    We hear the Christmas angels
+W:    The great glad tidings tell;
+W:    O come to us, abide with us,
+W:    Our Lord Emmanuel!
+

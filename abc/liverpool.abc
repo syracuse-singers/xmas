@@ -1,0 +1,74 @@
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
+%abc-include _wide.abh
+
+X:1
+T:Liverpool
+C:lyrics: Nahum Tate, music attributed to John Hall of Sheffield Park c. 1790s
+%
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=treble name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%%staves [1 | 2 | 3 | 4]
+%
+L:1/4
+M:4/4
+K:G
+%
+[V:1] G2 B G | E E F F | G3 G | A2 B2 | (A G) (F E) | D3 D |
+w: 1.~~While shep-herds watched their flocks by night, all sea-ted on_ the_ ground. The
+w: 2.~~"Fear not," said he, for might-y dread, had seized their trou_bled_ mind. "Glad
+w: 3.~~To you in Da-vid's town this day, is born of Da_vid's_ line. A
+w: 4.~~All Glo-ry be to God on high, and to the earth_ be_ peace. Good
+[V:2] B,2 D B, | C C D D | D3 D | D2 D2 | (D E) (D ^C) | D3 B, |
+%
+[V:3] G2 G G | G G A c | B3 B | F2 G2 | A2 (A G) | F3 z | 
+w: 1.~~While shep-herds watched their flocks by night, all sea-ted on the_ ground.
+w: 2.~~"Fear not," said he, for might-y dread, had seized their trou-bled_ mind.
+w: 3.~~To you in Da-vid's town this day, is born of Da-vid's_ line.
+w: 4.~~All Glo-ry be to God on high, and to the earth be_ peace.
+[V:4] G,,2 G,, G,, | C, C, D, D, | G,,3 G,, | D,2 G,,2 | A,,2 A,,2 | D,3 z | 
+%
+[V:1] (G D) (E =F) | E z z E | (A E) (F G) | F z z A |
+w: an_gel_ of the Lord_ came_ down, and
+w: ti_dings_ of great joy_ I_ bring, to
+w: sav_iour_ who is Christ_ the_ Lord, and
+w: will_ hence_forth from Hea-ven to_ men, be 
+[V:2] B,2 B,2 | C z z C | ^C2 C2 | D z z F |
+%
+[V:3] z2 z G | G2 G2 | E z z A | A2 A2 | 
+w: The an-gel of the Lord came
+w: "Glad ti-dings of great joy I
+w: A sav-iour who is Christ the
+w: Good will hence-forth from Heav'n to
+[V:4] z2 z G,, | (C, G,,) (C, B,,) | A,, z z A,, | D, A,, D, C, | 
+%
+[V:1] B (A/B/) c A | B z z A | B (A/B/) c A | B z z D |
+w: glo-ry_ shone a-round, and glo-ry_ shone a-round, and
+w: you and_ all man-kind, to you and_ all man-kind, to
+w: this shall_ be a sign, and this shall_ be a sign, and
+w: gin and_ nev-er cease, be-gin and_ nev-er sign, be
+[V:2] G (F/G/) A F | G z z F | G (F/G/) A F | G z z D |
+%
+[V:3] G z z d | B (A/B/) c A | B z z d | B (A/B/) c A | 
+w: down, and glo-ry_ shone a-round, and glo-ry_ shone a
+w: bring, to you and_ all man-kind, to you and_ all man
+w: Lord, and this shall_ be a sign, and this shall_ be a
+w: men, be-gin and_ nev-er cease, be-gin and_ nev-er
+[V:4] B,, z z D, | G, (F,/G,/) A, D, | G, z z D, | G, (F,/G,/) A, D, | 
+%
+[V:1] G3 G | A2 B2 | A2 z A | B2 c2 | A3 A | G4 |]
+w: glo-ry shone a-round, and glo-ry shone a-round.
+w: you and all man-kind, to you and all man-kind."
+w: this shall be a sign, and this shall be a sign.
+w: gin and nev-er cease, be-gin and nev-er cease.
+[V:2] B,3 B, | D2 D2 | D2 z D | D2 E2 | D3 C | B,4 |]
+%
+[V:3] B G G G | F2 G2 | F2 z F | G2 G2 | F3 F | G4 |]
+w: round, and glo-ry shone a-round, and glo-ry shone a-round.
+w: kind, to you and all man-kind, to you and all man-kind."
+w: sign, and this shall be a sign, and this shall be a sign.
+w: cease, be-gin and nev-er cease, be-gin and nev-er cease.
+[V:4] G, G,, G,, G,, | D,2 G,2 | D,2 z D, | G,2 C,2 | D,3 D, | G,,4 |]

@@ -412,33 +412,101 @@ X:6
 T:Chariots
 C:John Kirkpatrick, 1995
 %
-M:6/4
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=bass
+V:4 clef=bass
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+%%staves [2 | 4]
+U: H = fermata
+%
+M:3/4
 L:1/4
-Q:1/4=250
-K:Dmaj
+% Q:1/4=250
+K:F
 %
-D | D A, D G F E | D F A B A>G | A<d F<A A |
-w:O Shep- herd O shep- herd come leave off your pi- ping, Come lis- ten come learn come
+V:2 F  | F  C  F  | B  A  G  | F  A  c | d  c  B/-B/   | c<f   d  | c-c  F  | 
+w: 1.~~O shep-herd, O shep-herd, come leave off your pip-ing, Come_ lis-ten come learn,_ come
+w: 2. See on yon sta-ble the star-light is shimmer-ing, And_ glimmer-ing and glisten-ing and
+w: 3. Bring your sheep bleat-ing to this hap-py meet-ing, To_ hear how the lamb with the 
+w: 4.~~The war-mon-ger's char-ger will thun-der for free-dom, The_ gun-ma-ker's fur-nace will 
+w: 5.~~As~a can-dle can con-quer the de-mons of dark-ness, As a flame can keep frost from the 
+V:4 F, | F, C, C, | B, A, G, | F, A, C | B, A, G,/-G,/ | F,<F, G, | F,-F, F, |
 %
-G>F G E2 A | D A, D G F E | D F A B A>A | A d F A A D |
-w:hear what I say. For now is the time that has long been fore- spo- ken, For now is the time there'll be
+V:2 B>A   B  | G2  F/-F/   | F  C  F  | (B  A ) G  | F  A  c  | d  c>B   | 
+w: hear what I say. For_ now is the time that has long been fore-spo-ken, For
+w: glow-ing with glee. In_ Beth-le-hem blest_ this ba-by of bliss will be
+w: li-on shall lie. It's_ moo-ing and bray-ing you'll hear the song say-ing, The
+w: dwin-dle and die. And_ mus-kets and sa-bers and swords shall be sun-dered, Sur
+w: deep-est of cold. So a song can give hope in the depths of all dan-ger, And 
+V:4 D,>C, D, | C,2 C,/-C,/ | F, C, C, | (B, A,) G, | F, F, F, | B, A,>F, | 
 %
-F F>E D2 A | B G B d2 B | A d F F E D | B G B d c B |
-w:new tunes to play. For soon there comes one who brings a new mu- sic Of sweet- ness and clar- i- ty
+V:2 c  f  d/-d/   | c  A  F  | A  A>  G  | F2  F/-F/   | d   B   d  | f-f   d  | 
+w: now is the_ time there'll be new tunes to play. For_ soon there comes one_ who
+w: Born here be_fore you as bold as can be. And_ you'll be the first_ to 
+w: hum-ble and_ low-ly will be the most high. Let the horn of the herds-man be 
+w: ren-dered to the sound  that is sweep-ing the sky. And the shoes of the migh-ty shall
+w: a line of pure mel-o-dy soar in your soul. So_ sing your songs well_ and 
+V:4 F, F, G,/-G,/ | F, C, D, | C, C,> C, | F,2 F,/-F,/ | B,, B,, D, | F,-F, G, | 
 %
-A G F E2 D | D A, D F2 F | A F A B A G | A d F A A D |
-w:none can com- pare. So o- pen your heart for hea- ven- ly har- mo- ny Here on this hill will be
+V:2 c>  f  A  | A  G  F/-F/   | d  B  d  | f e d  | c  B  A  | G2  F/-F/   | F  C  F  | 
+w: brings a new mu-sic, Of_ sweet-ness and clar-i-ty none can com-pare. So_ o-pen your
+w: hear the new sym-pho-ny._ Songs full of glad-ness and glo-ry and light. So_ learn your tunes 
+w: heard up in hea-ven, For the gates are flung o-pen for all who come near. And the sim-plest of 
+w: dance to new mea-sures, And the jack-boots of gen'-rals shall jan-gle no more. As_ sis-ter and 
+w: sing your songs sweet-ly, And_ swear that your sing-ing it ne-ver shall cease, So the clat-ter of 
+V:4 A,> A, A, | A, G, F,/-F,/ | B, F, B, | D C B, | A, F, D, | C,2 C,/-C,/ | F, C, C, | 
 %
-F F>E D2 || [P:Chorus] A | A F D A F A | B3 A2 A | A F D A F D |
-w:fill- ing the air! With char- iots of cher- u- bim chant- ing And ser- a- phim sing- ing ho
+V:2 A  G  F  | c  A  c  | d  c  B/-B/   | (c  f)  d  | c  A  F  | (A<A)   G  | F2  ||
+w: heart, * for hea-ven-ly har-mo-ny,_ Here on this hill will be fill-ing the air.
+w: well * and play your pipes proud-ly, For the Prince_ of Par-a-dise plays here to-night.
+w: souls * shall sing to in-fin-i-ty,_ Lift up and list-en and you_ shall hear.
+w: broth-er and fath-er and moth-er, A_gree with each oth-er the end to all war.
+w: bat-tle and drums of dis-a-ster, Be_ drowned in the sound of the pipes_ of peace.
+V:4 F, C, C, | A, F, A, | B, A, G,/-G,/ | (F, F,) G, | F, C, D, | (C,<C,) C, | F,2 ||
 %
-G3 F2 A/2A/2 | A F D A A A | [GB] [Gc] [Gd] [F3A3] | [G2B2] [FA] [E2G2] [DF] | [G2B2] [FA] [FA] A A |
-w:san- na And a choir of arch- an- gels a-ca- rol- ing come: Hal- le- lu- jah Hal- le- lu. All the
+%%vskip 0
+%%staves [(1 2) | (3 4)]
+%%staffsep 4cm
+P: CHORUS
 %
-A F D D F A | B2 c d2 B | A d D F2 E | D4 |]
-w:an- gels a-trum- pet- ing glo_ ry In praise of the Prince of Peace
+V:1 c | c A  F  | c A  F  | d3 | c2 c  | c  A  F  | c  A  F  |
+w: With char-iots of cher-u-bim chant-ing, And ser-a-phim sing-ing ho-
+V:2 x | x x  x  | x x  x  | x3 | z2 c  | c  A  F  | c  A  F  |
+w:                                  And ser-a-phim sing-ing ho-
+V:3 C | C A, F, | C A, F, | D3 | C3-   | C3-      | C3-      |
+w: With char-iots of cher-u-bim chant-ing,__
+V:4 x | x x  x  | x x  x  | x3 | z2 A, | A, F, C, | A, F, C, |
+w:                                  And ser-a-phim sing-ing ho-
+%
+V:1  B3      | A2  c/c/   | c A    F  | c  c  c  | d   e  f  | c3        |
+w:   san-      na, And a choir of arch-an-gels a-car-ol-ing come:
+V:2  B3      | A3-        | A3-       | A3       | z3        | F   G  A  |
+w: san-na,__                                                car-ol-ing
+V:3  C3-     | C2  C/C/   | C  A,  F, | C  C  C  | D   E  F  | F3        |
+w:   __            And a choir of arch-an-gels a-car-ol-ing come:
+V:4 (C,2 E,) | F,2 F,/F,/ | F, A,, C, | F, F, F, | B,, C, D, | A,, C, F, |
+w:   san_      na, And a choir of arch-an-gels a-car-ol-ing car-ol-ing
+%
+V:1 B2  A  | G2  F  | B2  A  | G c  c  | c A F | F A <c  |
+V:2 F2  F  | D2  C  | F2  F  | E E  c  | F  C  F  | F   F   <_E  | 
+w: Hal-le-lu-jah! Hal-le-lu. All the an-gels a-trum-pet-ing
+V:3 D2  C  | B,2 A, | D2  C  | C  C B, | A, A, C  | A,  A,  <F,  | 
+V:4 B,2 A, | G,2 F, | B,2 A, | G, C B, | A, F, C, | F,, F,, <F,, | 
+%
+V:1 (d2   e)  | f2  d  | c  f  F   | A2  G |  F3-   | F2   |]
+V:2 (D2   C)  | D2  B, | C  F  C   | C2  C |  C3-   | C2   |]
+w: glo_ry, In praise of the Prince of Peace._
+V:3  B,3      | A,2 B, | C  F  A,  | C2  B, | A,3-  | A,2  |]
+V:4 (B,,2 C,) | D,2 E, | F, F, A,, | C,2 C, | F,,3- | F,,2 |]
 %
 %%newpage
+%vskip 0.8cm
 %
 W:1. O Shepherd O shepherd come leave off your piping
 W:Come listen come learn come hear what I say
@@ -456,6 +524,15 @@ W:And a choir of archangels a-caroling come
 W:Hallelujah Hallelu
 W:All the angels a-trumpeting glory
 W:In praise of the Prince of Peace
+W:
+W:2. See on yon stable the starlight is shimmering
+W:And glimmering and glistening and glowing with glee
+W:In Bethlehem blest this baby of bliss will be
+W:Born here before you as bold as can be
+W:And you'll be the first to hear the new symphony
+W:Songs full of gladness  and glory and light
+W:So learn your tunes well and play your pipes proudly
+W:For the Prince of Paradise plays here tonight
 W:
 W:3. Bring your sheep bleating to this happy meeting
 W:To hear how the lamb with the lion shall lie
@@ -483,21 +560,106 @@ W:So sing your songs well and sing your songs sweetly
 W:And swear that your singing it never shall cease
 W:So the clatter of battle and drums of disaster
 W:Be drowned in the sound of the pipes of peace
-W:
-W:We do verses 1, 3, 4, and 5.
-W:
-W:2. See on yon stable the starlight is shimmering
-W:And glimmering and glistening and glowing with glee
-W:In Bethlehem blest this baby of bliss will be
-W:Born here before you as bold as can be
-W:And you'll be the first to hear the new symphony
-W:Songs full of gladness  and glory and light
-W:So learn your tunes well and play your pipes proudly
-W:For the Prince of Paradise plays here tonight
 
-% -----------------------------------------------------
-%   add coppers-christmas-song                        |
-% -----------------------------------------------------
+%%vskip 0.8cm
+%%begintext fill
+%%Harmony setting transcribed from "Nowell Sing We Clear: 
+%%Songs & Carols for Midwinter & Christmastide"
+%%endtext
+
+X:1
+T:Copper's Christmas Song
+T:The Trees Are All Bare
+N:Bob Copper sang the Christmas Song in 1971 on the Copper Family's
+N:Leader Records box set, "A Song for Every Season".
+C:The Copper Family
+C:Rottingdean, Sussex (traditional)
+%
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=bass
+V:4 clef=bass
+%
+L:1/4
+M:C
+K:F
+%
+%%staves [(1 2) | 4]
+%
+[V:1] C  | F2  C  C  | F-F  (F/G/) A         | (G F)    (F/G/) A       | (G/A/     B2)  (A/B/)  |
+[V:2] C  | F2  C  C  | F F  (F/G/) A         | (D C)    (D/E/) F       | (G/^F/    G2)  (=F/E/) | 
+w: 1.~~The trees are all bare,_ not_ a leaf_ to_ be seen,__ And the
+w: 2.~~'Twas down in the farm-yard where_ the ox-en feed_ on straw,__ They_
+w: 3.~~'Tis now all the small birds to_ the barn-door fly_ for food,__ And_
+w: 4.~~Now Christ-mas is come_ and_ our song is al_most done,__ For we
+[V:4] C, | F,2 E, F, | D,-D, D,    A,,/-A,,/ | (B,, A,,) D,   (D,/C,/) | (B,,/A,,/ G,,2) C,/-C,/ |  
+%
+[V:1]  c2  (G/A/) B  | (A  B)   G>F    | F2        z (F/G/) | A2  (G/A/) B  | A2 (G/A/) =B  |
+[V:2]  F2  (E/F/) G  | (F  F)   E>C    | A,2       z (F/E/) | F2   E     E  | F2  E     E  | 
+w: mea- dows_ their beau_ ty have lost. Now_ win- ter has come and 'tis
+w: send forth_ their breath_ like the steam. Sweet_ Bet-sy the milk-maid now
+w: gent-ly_ they rest_ on the spray. A_down the plan-ta-tion the
+w: soon shall have the turn_ of the year. So_ fill up your glass-es and 
+[V:4]  A,,2 B,,   F, | (F, A,,) B,,>C, | [F,2F,,2] z  F,    | F,2 _E,    E, | F,2 C,    C, | 
+%
+[V:1] c  c (d/c/) =B | c2  C  C  | [M:6/4] D   E   (F>E   D)   z |
+[V:2] F  F  F     F  | E2  C  C  | [M:6/4] D  ^C   (D>A,  D)   z | 
+w: cold for man and beast. And the streams they are,__
+w: quick-ly she must go, For the flakes of ice she finds, 
+w: hares do search for food, And lift up their foot-steps sure,
+w: let your health go round, For we wish you all,__
+[V:4] F, F, D,    G, | C,2 C, C, | [M:6/4] B,, A,, (D,>C, B,,) z | 
+%
+[V:1] [M:4/4] B  A  B  c  | d-d   c  B  | A  B  G>F    |  F2       z |]
+[V:2] [M:4/4] F ^F  G =F  | F-F   F  G  | F  E  D>C    |  C2       z |]
+w: And the streams they are_ all_ fast bound down with frost.
+w: For the flakes of ice she finds a-float-ing on her cream.
+w: And lift up their foot-steps sure for fear they do be-tray.
+w: For we wish you all_ a_ joy_ful New Year.
+[V:4] [M:4/4] G, D, G, A, | B,-B, D, E, | F, G, B,,>C, | [F,2F,,2] z |]
+%
+%%vskip 0.8cm
+%
+W: The trees all are bare, not a leaf to be seen,
+W: And the meadows their beauty have lost.
+W: Now winter has come and 'tis cold for man and beast,
+W: And the streams they are,
+W: And the streams they are all fast bound down with frost.
+W:
+W: 'Twas down in the farmyard where the oxen feed on straw,
+W: They send forth their breath like the steam.
+W: Sweet Betsy the milkmaid now quickly she must go,
+W: For flakes of ice she finds,
+W: For flakes of ice she finds a-floating on her cream.
+W:
+W: 'Tis now all the small birds to the barn-door fly for food
+W: And gently they rest on the spray.
+W: A-down the plantation the hares do search for food,
+W: And lift up their footsteps sure,
+W: And lift up their footsteps sure for fear they do betray.
+W:
+W: Now Christmas is come and our song is almost done
+W: For we soon shall have the turn of the year.
+W: So fill up your glasses and let your health go round,
+W: For we wish you all,
+W: For we wish you all a joyful New Year.
+%
+%%vskip 0.8cm
+%%textfont Times-Italic 14
+%%begintext fill
+%%Roud Index 1170. Unknown outside of Sussex, although it appears to derive from
+%%'Winter', a poem written by Thomas Brerewood of Horton, Cheshire (d. 1748).
+%%The few known traditional singers it was collected from include
+%%the the Downs shepherd, Michael Blann from Upper Beeding, 
+%%whose MS songbook is in the Sussex Library; 
+%%George Townshend of Lewes, Sussex who was recorded in the 1960s, a version
+%%of which is transcribed in Ken Stubbs book, "The Life of a Man"; 
+%%and lastly by the Copper Family, who recorded it on their 1971 Leader Records 
+%%4-LP box set, "A Song for Every Season". 
+%%This version is from Bob Copper's book of the same name, with the harmony parts
+%%based on Graham Pratt's setting in his book "Winter Songs in Harmony, 
+%%Book Two: Carollers From Hell".
+%%endtext
 
 X:7
 T:Cutty Wren, The
@@ -2030,6 +2192,68 @@ W: 3. Christ the Savior, God's Anointed,
 W:    Comes to earth our fearful debt to pay.
 W:    Man of sorrows, and rejected,
 W:    Lamb of God, that takes our sin away.
+
+X:1
+T:Rumsey Road Wassail
+%
+T:Old Apple Tree Wassail
+C:trad. English (Somerset)
+U:H = fermata
+Q:"with a swing   "3/8=96
+M:6/8
+L:1/8
+K:D
+%
+z A, | D2 D (CB,) A, | G2 G (EF) G | 
+w: 1.~~Old ap-ple tree,_we was-sail thee,_ And
+w: 2.~~The mor-ris dan_cers come each year_to
+w: 3.~~The Mam-mal Roast_ brings ma-ny friends_ to
+w: 4.~~The King-ston Black_ bleeds bit-ter sharp,_ Brown
+%
+F2 D E2C | D3-D2 A, | D2 D (CB,) A, | 
+w: hope that thou will bear._ The Lord doth know_ where
+w: sing be-neath your boughs._ They drink your ci-_der
+w: eat and drink and play._ They see your swel-_ling
+w: Snout is bit-ter-sweet._ The ap-ples grown_ at
+%
+G2 G E F G | F E D E2 C | D3-D 
+w: we shall be_ when ap_ples come next year._
+w: by the fire_ and hap_pi-ly ca-rouse._
+w: fruit, and toast to the com--ing har-vest day._
+w: Stone Fence Farm make a har--mo-ny com-plete._
+%
+%%vskip 0.5cm
+%
+P:CHORUS
+(FG) | A2 A (AG) F | G2 G G F E | F2 G A2 F | 
+w: For it's stand well, trunk,_ and bear well, branch,_ so mer-ry let us
+%
+E3-E2 A, | D2 D (CB,) A, | G2 G E F G | 
+w: be;_ Let all of us_ take off our hats and shout
+w: -[last~time] Take off your hat_ and shout Hoo-ray!_ for
+%
+FED EDC | D3-D ||
+w: out to the old ap-ple tree!_
+w: Pe-_ter's ap--ple trees!_
+%
+%%vskip 1.0cm
+% 
+W: Shouted:
+W: Hatfuls, capfuls, three bushel bagfuls
+W: And a little heap under the stairs
+W: Hip! Hip! Hurray!
+%
+%%sep 1.0cm 0.8cm
+%
+%%begintext fill
+%%The tune and first verse and chorus, with minor changes, are traditional.
+%%Verses 2-4 and final chorus were written by Susan Galbraith, in honor of
+%%Peter Hoover and his Stone Fence Farm cider orchard in Trumansburg, NY. 
+%%We are gratified to have been able to perform this carol for Peter, and do a 
+%%proper wassail of his orchard, including a mummers play written for him, 
+%%on January 19, 2019. He died peacefully, 80 years young, 
+%%surrounded by his family, on October 11, 2019.
+%%endtext
 
 X:27
 T:Shepherds Arise

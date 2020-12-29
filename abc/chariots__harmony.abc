@@ -1,0 +1,162 @@
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
+
+X:1
+T:Chariots
+C:John Kirkpatrick, 1995
+%
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=bass
+V:4 clef=bass
+%
+%%measurebox true           % measure numbers in a box
+%%measurenb 0               % measure numbers at first measure
+%%barsperstaff 0            % number of measures per staff
+%%gchordfont Times-Bold 14  % for chords
+%
+%%staves [2 | 4]
+U: H = fermata
+%
+M:3/4
+L:1/4
+% Q:1/4=250
+K:F
+%
+V:2 F  | F  C  F  | B  A  G  | F  A  c | d  c  B/-B/   | c<f   d  | c-c  F  | 
+w: 1.~~O shep-herd, O shep-herd, come leave off your pip-ing, Come_ lis-ten come learn,_ come
+w: 2. See on yon sta-ble the star-light is shimmer-ing, And_ glimmer-ing and glisten-ing and
+w: 3. Bring your sheep bleat-ing to this hap-py meet-ing, To_ hear how the lamb with the 
+w: 4.~~The war-mon-ger's char-ger will thun-der for free-dom, The_ gun-ma-ker's fur-nace will 
+w: 5.~~As~a can-dle can con-quer the de-mons of dark-ness, As a flame can keep frost from the 
+V:4 F, | F, C, C, | B, A, G, | F, A, C | B, A, G,/-G,/ | F,<F, G, | F,-F, F, |
+%
+V:2 B>A   B  | G2  F/-F/   | F  C  F  | (B  A ) G  | F  A  c  | d  c>B   | 
+w: hear what I say. For_ now is the time that has long been fore-spo-ken, For
+w: glow-ing with glee. In_ Beth-le-hem blest_ this ba-by of bliss will be
+w: li-on shall lie. It's_ moo-ing and bray-ing you'll hear the song say-ing, The
+w: dwin-dle and die. And_ mus-kets and sa-bers and swords shall be sun-dered, Sur
+w: deep-est of cold. So a song can give hope in the depths of all dan-ger, And 
+V:4 D,>C, D, | C,2 C,/-C,/ | F, C, C, | (B, A,) G, | F, F, F, | B, A,>F, | 
+%
+V:2 c  f  d/-d/   | c  A  F  | A  A>  G  | F2  F/-F/   | d   B   d  | f-f   d  | 
+w: now is the_ time there'll be new tunes to play. For_ soon there comes one_ who
+w: Born here be_fore you as bold as can be. And_ you'll be the first_ to 
+w: hum-ble and_ low-ly will be the most high. Let the horn of the herds-man be 
+w: ren-dered to the sound  that is sweep-ing the sky. And the shoes of the migh-ty shall
+w: a line of pure mel-o-dy soar in your soul. So_ sing your songs well_ and 
+V:4 F, F, G,/-G,/ | F, C, D, | C, C,> C, | F,2 F,/-F,/ | B,, B,, D, | F,-F, G, | 
+%
+V:2 c>  f  A  | A  G  F/-F/   | d  B  d  | f e d  | c  B  A  | G2  F/-F/   | F  C  F  | 
+w: brings a new mu-sic, Of_ sweet-ness and clar-i-ty none can com-pare. So_ o-pen your
+w: hear the new sym-pho-ny._ Songs full of glad-ness and glo-ry and light. So_ learn your tunes 
+w: heard up in hea-ven, For the gates are flung o-pen for all who come near. And the sim-plest of 
+w: dance to new mea-sures, And the jack-boots of gen'-rals shall jan-gle no more. As_ sis-ter and 
+w: sing your songs sweet-ly, And_ swear that your sing-ing it ne-ver shall cease, So the clat-ter of 
+V:4 A,> A, A, | A, G, F,/-F,/ | B, F, B, | D C B, | A, F, D, | C,2 C,/-C,/ | F, C, C, | 
+%
+V:2 A  G  F  | c  A  c  | d  c  B/-B/   | (c  f)  d  | c  A  F  | (A<A)   G  | F2  ||
+w: heart, * for hea-ven-ly har-mo-ny,_ Here on this hill will be fill-ing the air.
+w: well * and play your pipes proud-ly, For the Prince_ of Par-a-dise plays here to-night.
+w: souls * shall sing to in-fin-i-ty,_ Lift up and list-en and you_ shall hear.
+w: broth-er and fath-er and moth-er, A_gree with each oth-er the end to all war.
+w: bat-tle and drums of dis-a-ster, Be_ drowned in the sound of the pipes_ of peace.
+V:4 F, C, C, | A, F, A, | B, A, G,/-G,/ | (F, F,) G, | F, C, D, | (C,<C,) C, | F,2 ||
+%
+%%vskip 0
+%%staves [(1 2) | (3 4)]
+%%staffsep 4cm
+P: CHORUS
+%
+V:1 c | c A  F  | c A  F  | d3 | c2 c  | c  A  F  | c  A  F  |
+w: With char-iots of cher-u-bim chant-ing, And ser-a-phim sing-ing ho-
+V:2 x | x x  x  | x x  x  | x3 | z2 c  | c  A  F  | c  A  F  |
+w:                                  And ser-a-phim sing-ing ho-
+V:3 C | C A, F, | C A, F, | D3 | C3-   | C3-      | C3-      |
+w: With char-iots of cher-u-bim chant-ing,__
+V:4 x | x x  x  | x x  x  | x3 | z2 A, | A, F, C, | A, F, C, |
+w:                                  And ser-a-phim sing-ing ho-
+%
+V:1  B3      | A2  c/c/   | c A    F  | c  c  c  | d   e  f  | c3        |
+w:   san-      na, And a choir of arch-an-gels a-car-ol-ing come:
+V:2  B3      | A3-        | A3-       | A3       | z3        | F   G  A  |
+w: san-na,__                                                car-ol-ing
+V:3  C3-     | C2  C/C/   | C  A,  F, | C  C  C  | D   E  F  | F3        |
+w:   __            And a choir of arch-an-gels a-car-ol-ing come:
+V:4 (C,2 E,) | F,2 F,/F,/ | F, A,, C, | F, F, F, | B,, C, D, | A,, C, F, |
+w:   san_      na, And a choir of arch-an-gels a-car-ol-ing car-ol-ing
+%
+V:1 B2  A  | G2  F  | B2  A  | G c  c  | c A F | F A <c  |
+V:2 F2  F  | D2  C  | F2  F  | E E  c  | F  C  F  | F   F   <_E  | 
+w: Hal-le-lu-jah! Hal-le-lu. All the an-gels a-trum-pet-ing
+V:3 D2  C  | B,2 A, | D2  C  | C  C B, | A, A, C  | A,  A,  <F,  | 
+V:4 B,2 A, | G,2 F, | B,2 A, | G, C B, | A, F, C, | F,, F,, <F,, | 
+%
+V:1 (d2   e)  | f2  d  | c  f  F   | A2  G |  F3-   | F2   |]
+V:2 (D2   C)  | D2  B, | C  F  C   | C2  C |  C3-   | C2   |]
+w: glo_ry, In praise of the Prince of Peace._
+V:3  B,3      | A,2 B, | C  F  A,  | C2  B, | A,3-  | A,2  |]
+V:4 (B,,2 C,) | D,2 E, | F, F, A,, | C,2 C, | F,,3- | F,,2 |]
+%
+%%newpage
+%vskip 0.8cm
+%
+W:1. O Shepherd O shepherd come leave off your piping
+W:Come listen come learn come hear what I say
+W:For now is the time that has long been forespoken
+W:For now is the time there'll be new tunes to play
+W:For soon there comes one who brings a new music
+W:Of sweetness and clarity none can compare
+W:So open your heart for heavenly harmony
+W:Here on this hill will be filling the air
+W:
+W:CHORUS
+W:With chariots of cherubim chanting
+W:And seraphim singing hosanna
+W:And a choir of archangels a-caroling come
+W:Hallelujah Hallelu
+W:All the angels a-trumpeting glory
+W:In praise of the Prince of Peace
+W:
+W:2. See on yon stable the starlight is shimmering
+W:And glimmering and glistening and glowing with glee
+W:In Bethlehem blest this baby of bliss will be
+W:Born here before you as bold as can be
+W:And you'll be the first to hear the new symphony
+W:Songs full of gladness  and glory and light
+W:So learn your tunes well and play your pipes proudly
+W:For the Prince of Paradise plays here tonight
+W:
+W:3. Bring your sheep bleating to this happy meeting
+W:To hear how the lamb with the lion shall lie
+W:It's mooing and braying you'll hear the song saying
+W:The humble and lowly will be the most high
+W:Let the horn of the herdsman be heard up in heaven
+W:For the gates are flung open for all who come near
+W:And the simplest of souls shall sing to infinity
+W:Lift up and listen and you shall hear
+W:
+W:4. The warmonger's charger will thunder for freedom
+W:The gun-maker's furnace will dwindle and die
+W:And muskets and sabers and swords shall be sundered
+W:Surrendered to the sound that is sweeping the sky
+W:And the shoes of the mighty shall dance to new measures
+W:And the jackboots of generals shall jangle no more
+W:As sister and brother and father and mother
+W:Agree with each other the end to all war
+W:
+W:5. As a candle can conquer the demons of darkness
+W:As a flame can keep frost from the deepest of cold
+W:So a song can give hope in the depths of all danger
+W:And a line of pure melody soar in your soul
+W:So sing your songs well and sing your songs sweetly
+W:And swear that your singing it never shall cease
+W:So the clatter of battle and drums of disaster
+W:Be drowned in the sound of the pipes of peace
+
+%%vskip 0.8cm
+%%begintext fill
+%%Harmony setting transcribed from "Nowell Sing We Clear: 
+%%Songs & Carols for Midwinter & Christmastide"
+%%endtext
