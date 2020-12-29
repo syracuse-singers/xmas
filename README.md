@@ -32,7 +32,7 @@ Updated in preparation for the 2021 caroling season. This list is not final.
 1. [Lo, How A Rose E'er Blooming](pdf/lo-how-a-rose.pdf)
 1. [Macaronic Carol](pdf/macaronic-carol.pdf)
 1. [O Little One Sweet](pdf/o-little-one-sweet.pdf)
-1. [O Little Town of Bethlehem](pdf/o-little-town-of-bethlehem.pdf) (Forest Green tune)
+1. [O Little Town of Bethlehem](pdf/o-little-town-of-bethlehem.pdf) (Forest Green tune) <img src="img/new.svg" style="width:24px" alt="New">
 1. [Orientus Partibus](pdf/orientus-partibus.pdf)
 1. [Over The Hill Over The Dale](pdf/over-the-hill-over-the-dale.pdf)
 1. [Please To See The King](pdf/please-to-see-the-king.pdf)
