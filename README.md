@@ -57,7 +57,7 @@ We are using a [Creative Commons CC-BY](https://creativecommons.org/licenses/by/
 
 ## Downloading Files
 
-For 2020, our intention had been to provide a single large songbook of the carols are in our active repertoire. A final version would have been labelled "Caroling 2020" instead of bearing a timestamp. The hope had been to print out new pages for the entire group to, literally, get us all on the same page. All of those plans got blown out of the water because of the COVID-19 pandemic. So, we've been continuing to add new tunes to the website, but vetting them will have to wait until 2021.
+For 2020, our intention had been to provide a single large songbook of the carols in our active repertoire. A final version would have been labelled "Caroling 2020" instead of bearing a timestamp. The hope had been to print out new pages for the entire group to, literally, get us all on the same page. All of those plans got blown out of the water because of the COVID-19 pandemic. So, we've been continuing to add new tunes to the website, but vetting them will have to wait until 2021.
 
 - [2020 Caroling Songbook](tunebooks/xmas-2020.pdf) [Apr 11, 2020 16:47]
 
