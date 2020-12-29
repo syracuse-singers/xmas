@@ -10,25 +10,25 @@ Updated in preparation for the 2021 caroling season. This list is not final.
 
 1. [Apple Tree Wassail](pdf/apple-tree-wassail.pdf)
 1. [Arise And Hail The Joyful Day](pdf/arise-hail-joyful-day.pdf)
-1. [Back Lane](pdf/back-lane.pdf) <img src="new.svg" alt="New">
+1. [Back Lane](pdf/back-lane.pdf) <img src="img/new.svg" alt="New">
 1. [The Boar's Head](pdf/boars-head.pdf)
 1. [The Boys Carol](pdf/boys-carol.pdf)
 1. [Chanukah / Solstice](pdf/chanukah-solstice.pdf)
-1. [Chariots](pdf/chariots__harmony.pdf) <img src="new.svg" alt="New">
+1. [Chariots](pdf/chariots__harmony.pdf) <img src="img/new.svg" alt="New">
 1. [The Cutty Wren](pdf/cutty-wren.pdf)
-1. [Death Or Glory Wassail](pdf/death-or-glory-wassail.pdf) <img src="new.svg" alt="New">
+1. [Death Or Glory Wassail](pdf/death-or-glory-wassail.pdf) <img src="img/new.svg" alt="New">
 1. [Down In Yon Forest](pdf/down-in-yon-forest.pdf)
-1. [Gaudete](pdf/gaudete.pdf) <img src="new.svg" alt="New">
+1. [Gaudete](pdf/gaudete.pdf) <img src="img/new.svg" alt="New">
 1. [Gloucestershire Wassail](pdf/gloucestershire-wassail.pdf)
 1. [Good King Wenceslaus](pdf/good-king-wenceslaus.pdf)
 1. [Gower Wassail](pdf/gower-wassail.pdf)
 1. [The Holly And The Ivy](pdf/holly-and-ivy-karpeles.pdf) (Karpeles tune)
-1. [Horsham Tipteerers Carol](pdf/horsham-tipteerers-carol.pdf) (Sussex Mummers Carol) <img src="new.svg" alt="New">
+1. [Horsham Tipteerers Carol](pdf/horsham-tipteerers-carol.pdf) (Sussex Mummers Carol) <img src="img/new.svg" alt="New">
 1. [Hunting The Cutty Wren](pdf/hunting-the-cutty-wren.pdf)
 1. [Hunting The Wren](pdf/hunting-the-wren.pdf)
 1. [In Praise Of Christmas](pdf/in-praise-of-christmas.pdf)
 1. [In The Bleak Midwinter](pdf/in-the-bleak-midwinter.pdf)
-1. [Liverpool](pdf/liverpool.pdf) <img src="new.svg" alt="New">
+1. [Liverpool](pdf/liverpool.pdf) <img src="img/new.svg" alt="New">
 1. [Lo, How A Rose E'er Blooming](pdf/lo-how-a-rose.pdf)
 1. [Macaronic Carol](pdf/macaronic-carol.pdf)
 1. [O Little One Sweet](pdf/o-little-one-sweet.pdf)
