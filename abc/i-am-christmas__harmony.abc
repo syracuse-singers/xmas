@@ -1,0 +1,118 @@
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
+
+X:1
+T:I Am Christmas
+C:Copyright 2007 Bill Meek & John Conolly
+C:Used with permission of the authors
+%
+% V:1 clef=treble
+V:2 clef=treble
+% V:3 clef=bass
+V:4 clef=bass
+%%score [2 4]
+%
+U: H = fermata
+%
+M:4/4
+L:1/4
+K:C
+%
+[V:2] E  F  G>c   | B  A  G>C   | F>A   G  E  | F<E     D2   | 
+w: 1.~I will sew a braid of gold, On gray De-cem-ber's rag-ged sleeve.
+w: 2.~I bring sto-ries by the hearth, De-light in half-for-got-ten names,
+w: 3.~I can take the wea-ry miles, And weave a car-pet to your door,
+w: 4.~I bring chur-ches all a-glow, And ca-rols on the mid-night air,
+[V:4] C, D, F,>C, | F, D, E,>C, | F,>F, E, C, | A,,<A,, G,,2 | 
+%
+[V:2] E  F<G   c  | B  A  G>C    | [M:6/4] F  A<G   E  D>C     | [M:4/4] C3  z/c/  | 
+w: Teach the crabb'd and ja-ded soul, * How to give, how to re-ceive. For
+w: Ap-ple logs on fra-grant fires, * With flick'ring fa-ces in the flames. *  
+w: Guide the dus-ty wand'-rers home, * Safe-ly to your side once more. *
+w: Col-ored win-dows streaked with snow, That gild the con-gre-ga-tions there; For 
+[V:4] C, D,<E, C, | F, D, E,>C,, | [M:6/4] F, F,<E, C, G,,>G,, | [M:4/4] C,3 z/G,/ | 
+%
+[V:2] B  c  d>B   | c/  A  G>z  G/  | A  B  c  E  | E  D   z>D   | 
+w: rooms are thick with ma-gic now, the tree its soft light throw-ing. The
+w: As the year draws in its days, And tir-ed leaves are fal-ling, * 
+w: I can cheer the bit-ter days, With tunes to set you sing-ing. My 
+w: young and old shall join and sing, To mark the long-est tur-ning. From 
+[V:4] G, G, G,>E, | F,/ D, E,>z C,/ | F, F, E, C, | C, G,, z>B,, | 
+%
+[V:2] E/  F  G>z  c/  | B  A  G  z/ C/  | F   A  G  E  | D2   C2    ||
+w: mis-tle-toe, the hol-ly bough, My age old spell be-stow-ing.
+w: I will brigh-ten dark-ened ways, Where dusk is ear-ly cal-ling.
+w: stan-dard in your heart I'll raise, * Joy and com-fort bring-ing.
+w: one glad can-dle that I bring, Ten thou-sand more are bur-ning.
+[V:4] C,/ D, E,>z E,/ | D, C, E, z/ C,/ | F,  D, E, C, | G,,2 C,2   ||
+%
+%%newpage
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=bass
+V:4 clef=bass
+%%score [1 2 3 4]
+%
+%
+P: CHORUS
+[V:1] e  e       d>B   | c  A  G>G   |  A        B  c<E   |  D3      z/D/   | E  F  G  c  | 
+w: I am warmth and I am light, and I am kith and kin, A can-dle in your
+[V:2] G (G/2A/2) B>G   | A  F  E>E   | (E/2A/2) ^G  A<C   | (C2 B,)  z/B,/  | C  D  E  G  |
+%
+[V:3] A, A,      G,>E, | F, D, E,>C, |  F,       F, E,<C, |  G,,3    z/G,,/ | C, D, E, F, | 
+w: I am warmth and I am light, and I am kith and kin, A can-dle in your
+[V:4] C, C,      G,>G, | F, F, C>C   |  A,       E, A,<G, | (F,2 G,) z/G,/  | E, D, C, E, |
+%
+[V:1] B  A  G  z | A  B  c <E  |  D>      G       E2       | [M:6/4] A  B  c  E   D3/        C/   | [M:4/4] C4  |]
+w: long-est night; I am Christ-mas, let me in. I am Christ-mas, let me in.
+[V:2] G  F  E  z | F  F  G <C  |  B,>     D       C2       | [M:6/4] F  F  G  C  (C B,/)     C/   | [M:4/4] C4  |]
+%
+[V:3] F, D, E, z | F, F, E,<C, |  G,,>    G,,     A,,2     | [M:6/4] F, F, E, C,  G,,3/      G,,/ | [M:4/4] C,4 |]
+w: long-est night; I am Christ-mas, let me in. I am Christ-mas, let me in.
+[V:4] F, F, C, z | F, D, C,<C, | [G,G,,]>[G,G,,] [A,2A,,2] | [M:6/4] F, D, E, C, [G,3/G,,/3] C,/  | [M:4/4] C,4 |]
+%
+%%vskip 0.8cm
+%
+W: 1. I will sew a braid of gold
+W:    On gray December's ragged sleeve,
+W:    Teach the crabbed and jaded soul
+W:    How to give, how to receive;
+W:    For rooms are thick with magic now,
+W:    The tree its soft light throwing;
+W:    The mistletoe, the holly bough
+W:    My age-old spell bestowing.
+W:    
+W: CHORUS
+W:    I am warmth and I am light
+W:    And I am kith and kin,
+W:    A candle in your longest night.
+W:    I am Christmas. Let me in.
+W:    I am Christmas. Let me in.
+W:    
+W: 2. I bring stories by the hearth,
+W:    Delight in half-forgotten names,
+W:    Apple logs on fragrant fires
+W:    With flick'ring faces in the flames.
+W:    As the year draws in its days
+W:    And tired leaves are falling,
+W:    I will brighten darkened ways
+W:    Where dusk is early calling.
+W:    
+W: 3. I can take the weary miles
+W:    And weave a carpet to your door,
+W:    Guide the dusty wand'rers home
+W:    Safely to your side once more.
+W:    I can cheer the bitter days
+W:    With tunes to set you singing.
+W:    My standard in your heart I'll raise,
+W:    Joy and comfort bringing.
+W:    
+W: 4. I bring churches all aglow
+W:    And carols on the midnight air,
+W:    Colored windows streaked with snow
+W:    That gild the congregations there;
+W:    For young and old shall join and sing
+W:    To mark the longest turning.
+W:    From one glad candle that I bring,
+W:    Ten thousand more are burning.
