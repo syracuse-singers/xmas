@@ -27,7 +27,7 @@ Updated in preparation for the 2021 caroling season. This list is not final.
 1. [Horsham Tipteerers Carol](pdf/horsham-tipteerers-carol.pdf) (Sussex Mummers Carol) <img src="img/new.svg" alt="New">
 1. [Hunting The Cutty Wren](pdf/hunting-the-cutty-wren.pdf)
 1. [Hunting The Wren](pdf/hunting-the-wren.pdf)
-1. [I Am Christmas](pdf/i-am-christmas__harmony.pdf)
+1. [I Am Christmas](pdf/i-am-christmas__harmony.pdf) <img src="img/new.svg" alt="New">
 1. [In Praise Of Christmas](pdf/in-praise-of-christmas.pdf)
 1. [In The Bleak Midwinter](pdf/in-the-bleak-midwinter.pdf)
 1. [Liverpool](pdf/liverpool.pdf) <img src="img/new.svg" alt="New">
