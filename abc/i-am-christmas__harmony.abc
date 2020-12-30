@@ -7,11 +7,9 @@ T:I Am Christmas
 C:Copyright 2007 Bill Meek & John Conolly
 C:Used with permission of the authors
 %
-% V:1 clef=treble
-V:2 clef=treble
-% V:3 clef=bass
-V:4 clef=bass
-%%score [2 4]
+V:1 clef=treble
+V:3 clef=bass
+%%score [1 3]
 %
 U: H = fermata
 %
@@ -19,33 +17,33 @@ M:4/4
 L:1/4
 K:C
 %
-[V:2] E  F  G>c   | B  A  G>C   | F>A   G  E  | F<E     D2   | 
+[V:1] E  F  G>c   | B  A  G>C   | F>A   G  E  | F<E     D2   | 
 w: 1.~I will sew a braid of gold, On gray De-cem-ber's rag-ged sleeve.
 w: 2.~I bring sto-ries by the hearth, De-light in half-for-got-ten names,
 w: 3.~I can take the wea-ry miles, And weave a car-pet to your door,
 w: 4.~I bring chur-ches all a-glow, And ca-rols on the mid-night air,
-[V:4] C, D, F,>C, | F, D, E,>C, | F,>F, E, C, | A,,<A,, G,,2 | 
+[V:3] C, D, F,>C, | F, D, E,>C, | F,>F, E, C, | A,,<A,, G,,2 | 
 %
-[V:2] E  F<G   c  | B  A  G>C    | [M:6/4] F  A<G   E  D>C     | [M:4/4] C3  z/c/  | 
+[V:1] E  F<G   c  | B  A  G>C    | [M:6/4] F  A<G   E  D>C     | [M:4/4] C3  z/c/  | 
 w: Teach the crabb'd and ja-ded soul, * How to give, how to re-ceive. For
 w: Ap-ple logs on fra-grant fires, * With flick'ring fa-ces in the flames. *  
 w: Guide the dus-ty wand'-rers home, * Safe-ly to your side once more. *
 w: Col-ored win-dows streaked with snow, That gild the con-gre-ga-tions there; For 
-[V:4] C, D,<E, C, | F, D, E,>C,, | [M:6/4] F, F,<E, C, G,,>G,, | [M:4/4] C,3 z/G,/ | 
+[V:3] C, D,<E, C, | F, D, E,>C,, | [M:6/4] F, F,<E, C, G,,>G,, | [M:4/4] C,3 z/G,/ | 
 %
-[V:2] B  c  d>B   | c/  A  G>z  G/  | A  B  c  E  | E  D   z>D   | 
+[V:1] B  c  d>B   | c/  A  G>z  G/  | A  B  c  E  | E  D   z>D   | 
 w: rooms are thick with ma-gic now, the tree its soft light throw-ing. The
 w: As the year draws in its days, And tir-ed leaves are fal-ling, * 
 w: I can cheer the bit-ter days, With tunes to set you sing-ing. My 
 w: young and old shall join and sing, To mark the long-est tur-ning. From 
-[V:4] G, G, G,>E, | F,/ D, E,>z C,/ | F, F, E, C, | C, G,, z>B,, | 
+[V:3] G, G, G,>E, | F,/ D, E,>z C,/ | F, F, E, C, | C, G,, z>B,, | 
 %
-[V:2] E/  F  G>z  c/  | B  A  G  z/ C/  | F   A  G  E  | D2   C2    ||
+[V:1] E/  F  G>z  c/  | B  A  G  z/ C/  | F   A  G  E  | D2   C2    ||
 w: mis-tle-toe, the hol-ly bough, My age old spell be-stow-ing.
 w: I will brigh-ten dark-ened ways, Where dusk is ear-ly cal-ling.
 w: stan-dard in your heart I'll raise, * Joy and com-fort bring-ing.
 w: one glad can-dle that I bring, Ten thou-sand more are bur-ning.
-[V:4] C,/ D, E,>z E,/ | D, C, E, z/ C,/ | F,  D, E, C, | G,,2 C,2   ||
+[V:3] C,/ D, E,>z E,/ | D, C, E, z/ C,/ | F,  D, E, C, | G,,2 C,2   ||
 %
 %%newpage
 V:1 clef=treble
