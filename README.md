@@ -15,6 +15,7 @@ Updated in preparation for the 2021 caroling season. This list is not final.
 1. [The Boys Carol](pdf/boys-carol.pdf)
 1. [Chanukah / Solstice](pdf/chanukah-solstice.pdf)
 1. [Chariots](pdf/chariots__harmony.pdf) <img src="img/new.svg" alt="New">
+1. [Come, See the Boys Go Round](pdf/come-see-the-boys-go-round.pdf) <img src="img/new.svg" alt="New">
 1. [Copper's Christmas Song](pdf/coppers-christmas-song__harmony.pdf) <img src="img/new.svg" alt="New">
 1. [The Cutty Wren](pdf/cutty-wren.pdf)
 1. [Death Or Glory Wassail](pdf/death-or-glory-wassail.pdf) <img src="img/new.svg" alt="New">

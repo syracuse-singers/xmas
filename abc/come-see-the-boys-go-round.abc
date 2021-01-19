@@ -1,0 +1,127 @@
+%abc-2.1
+I:abc-charset utf-8
+%%abc-include _carols.abh
+
+X:1
+T:Come, See the Boys Go Round
+C:Paul Davenport
+Q:1/4=90
+M:4/4
+L:1/8
+K:D
+%
+A | FA DA FA DA | GG GA E3 (A/G/) |
+w: 1.~~When Christ-mas-tide is gone and past, When fields lie stark and bare, Then_
+w: 2.~~Now first of all comes Be-som Bess A-sweep-ing with her broom, To_
+w: 3.~~Let Lord and La-dy start the game, Let Tom Fool sing the song, That_
+w: 4.~~Now en-ter in those he-roes bold, Those he-roes of great fame, Their_
+%
+FA DA FA DA | GG E>D D3 A |
+w: let us brave the win-ter's blast With-out a fear or care. With-
+w: drive out win-ter's cold dis-tress, To clear and make the room. To
+w: wakes those he-roes of great fame, Who roll the year a-long. Who
+w: fore-fa-thers in days of old, Each bore a glor-ious name. Each
+%
+Ad dA FA DA | GG GA E3 A |
+w: out a fear or care, my boys, Let each with one ac-cord, Come
+w: clear and make the room, my boys, That we may sport and play, With
+w: roll the year a-long, my boys, For on-ly they know how. The
+w: bore a glor-ious name, my boys, Like-wise a shin-ing blade. They
+%
+Ad dA FA DA | GG E>D D3 ||
+w: dance the round on fro-zen ground With rib-bon, drum, and sword.
+w: swords that clash and bright-ly flash, Up-on this hol-i-day.
+w: plough be-comes the shin-ing sword, The sword be-comes the plough.
+w: leap and spin, the swords go in, And thus the Rose is made!
+%
+%%vskip 0
+P:Chorus
+A | Ad dc d3 A | A>G GA E3 A |
+w: Come, see the boys go round, How sweet the mu-sic flows. Bring
+Ad dA FA DA | GG E>D D3 |]
+w: forth the plough to break the ground, Raise up the shi-ning rose.
+%
+%%vskip 0.8cm
+%
+%%textfont Times-Italic 14
+%%begintext fill
+Written in 2012 by Yorkshire songwriter, Paul Davenport, to describe the
+longsword dance performance of the Goathland Plough Stots. The Plough
+Stots are one of the remaining traditional longsword teams in England.
+The Stots were originally more of a mumming group who went around with a
+plough on Plough Monday soliciting money for Epiphany candles for the
+church and for seeds for crops. According to an article (reproduced
+on their website), written in the 1920s by Frank Dowson to describe the
+team's revival in 1922:
+
+They shouted and sang as they went on their rounds, and gradually a sort
+of rude pageant or play came into being. In time a "Lord" and "Lady" or
+"Gentleman" and "Lady" appeared at the head of the company, with
+collectors (known locally as "Toms"), and an old couple, "Isaac" and
+"Betty" ("T'awd man", and "T'awd woman") brought up the rear. It is not
+known when teams of Sword Dancers joined the Plough Stot companies, but
+such would almost naturally follow in the course of time. The Sword
+Dancers had quite distinct origin however, and such ritual dances have
+been in existence from time immemorial. ... Most villages or districts
+in North Yorkshire formerly had Sword Dance teams accompanying the Stots
+or the Mummers. These teams have all died out in course of time with the
+exception of those of Goathland and Sleights, and the last named company
+has not gone out in recent years.
+
+The dances are described in Ivor Allsop's "Longsword Dances from Traditional
+and Manuscript Sources". Goathland, or at least its train station, is also
+famous as a set in the movie version of "Harry Potter and the Philosopher's
+Stone".
+%%endtext
+%
+%%newpage
+%
+W: 1. When Christmastide is gone and past
+W:    When fields lie stark and bare
+W:    Then let us brave the winter's blast
+W:    Without a fear or care
+W:    Without a fear or care my boys
+W:    Let each with one accord
+W:    Now dance the round on frozen ground
+W:    With ribbons, drum and sword
+W:
+W: 2. Now first of all comes Besom Bess
+W:    A-sweeping with her broom
+W:    To drive out winter's cold distress
+W:    To clear and make the room
+W:    To clear and make the room my boys
+W:    That we may sport and play
+W:    With swords that clash and brightly flash
+W:    Upon this holiday
+W:
+W: 3. Let Lord and Lady start the game
+W:    Let Tom Fool sing the song
+W:    That wakes those heroes of great fame
+W:    Who roll the year along
+W:    Who roll the year along my boys
+W:    For only they know how
+W:    The plough becomes the shining sword
+W:    The sword becomes the plough
+W:
+W: 4. Now enter in those heroes bold,
+W:    Those heroes of great fame
+W:    Their forefathers in days of old
+W:    Each bore a glorious name
+W:    Each bore a glorious name my boys
+W:    Likewise a shining blade
+W:    They leap and spin, the swords go in
+W:    And thus the Rose is made!
+W:
+W: Chorus
+W:    Come, see the boys go round
+W:    How sweet the music flows
+W:    Bring forth the plough to break the ground
+W:    Raise up the shining Rose
+%
+%%vskip 1.8cm
+%
+%%textfont Times-Italic 14
+%%begintext fill
+The song begins and ends with the chorus, repeated twice. Otherwise, the chorus is
+sung once between each verse.
+%%endtext
