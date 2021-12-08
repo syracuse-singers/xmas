@@ -22,82 +22,82 @@ U: H = fermata
 M:3/4
 L:1/4
 % Q:1/4=250
-K:F
+K:Dmaj
 %
-V:2 F  | F  C  F  | B  A  G  | F  A  c | d  c  B/-B/   | c<f   d  | c-c  F  | 
+V:2 D  | D  A,  D   | G  F  E  | D  F  A  | B  A  G/-G/   | A<d   B  | A-A  D  | 
 w: 1.~~O shep-herd, O shep-herd, come leave off your pip-ing, Come_ lis-ten come learn,_ come
 w: 2. See on yon sta-ble the star-light is shimmer-ing, And_ glimmer-ing and glisten-ing and
 w: 3. Bring your sheep bleat-ing to this hap-py meet-ing, To_ hear how the lamb with the 
 w: 4.~~The war-mon-ger's char-ger will thun-der for free-dom, The_ gun-ma-ker's fur-nace will 
 w: 5.~~As~a can-dle can con-quer the de-mons of dark-ness, As a flame can keep frost from the 
-V:4 F, | F, C, C, | B, A, G, | F, A, C | B, A, G,/-G,/ | F,<F, G, | F,-F, F, |
+V:4 D, | D, A,, A,, | G, F, E, | D, F, A, | G, F, E,/-E,/ | D,<D, E, | D,-D, D, |
 %
-V:2 B>A   B  | G2  F/-F/   | F  C  F  | (B  A ) G  | F  A  c  | d  c>B   | 
+V:2 G>F     G   | E2   D/-D/     | D  A,  D   | (G  F ) E  | D  F  A  | B  A>G   | 
 w: hear what I say. For_ now is the time that has long been fore-spo-ken, For
 w: glow-ing with glee. In_ Beth-le-hem blest_ this ba-by of bliss will be
 w: li-on shall lie. It's_ moo-ing and bray-ing you'll hear the song say-ing, The
 w: dwin-dle and die. And_ mus-kets and sa-bers and swords shall be sun-dered, Sur
 w: deep-est of cold. So a song can give hope in the depths of all dan-ger, And 
-V:4 D,>C, D, | C,2 C,/-C,/ | F, C, C, | (B, A,) G, | F, F, F, | B, A,>F, | 
+V:4 B,,>A,, B,, | A,,2 A,,/-A,,/ | D, A,, A,, | (G, F,) E, | D, D, D, | G, F,>D, |
 %
-V:2 c  f  d/-d/   | c  A  F  | A  A>  G  | F2  F/-F/   | d   B   d  | f-f   d  | 
+V:2 A  d  B/-B/   | A  F   D   | F   F>   E   | D2  D/-D/   | B   G   B   | d-d   B  | 
 w: now is the_ time there'll be new tunes to play. For_ soon there comes one_ who
 w: Born here be_fore you as bold as can be. And_ you'll be the first_ to 
 w: hum-ble and_ low-ly will be the most high. Let the horn of the herds-man be 
 w: ren-dered to the sound  that is sweep-ing the sky. And the shoes of the migh-ty shall
 w: a line of pure mel-o-dy soar in your soul. So_ sing your songs well_ and 
-V:4 F, F, G,/-G,/ | F, C, D, | C, C,> C, | F,2 F,/-F,/ | B,, B,, D, | F,-F, G, | 
+V:4 D, D, E,/-E,/ | D, A,, B,, | A,, A,,> A,, | D,2 D,/-D,/ | G,, G,, B,, | D,-D, E, |
 %
-V:2 c>  f  A  | A  G  F/-F/   | d  B  d  | f e d  | c  B  A  | G2  F/-F/   | F  C  F  | 
+V:2 A>  d  F  | F  E  D/-D/   | B  G  B  | d  c  B  | A  G  F   | E2   D/-D/     | D   A,  D  | 
 w: brings a new mu-sic, Of_ sweet-ness and clar-i-ty none can com-pare. So_ o-pen your
 w: hear the new sym-pho-ny._ Songs full of glad-ness and glo-ry and light. So_ learn your tunes 
 w: heard up in hea-ven, For the gates are flung o-pen for all who come near. And the sim-plest of 
 w: dance to new mea-sures, And the jack-boots of gen'-rals shall jan-gle no more. As_ sis-ter and 
 w: sing your songs sweet-ly, And_ swear that your sing-ing it ne-ver shall cease, So the clat-ter of 
-V:4 A,> A, A, | A, G, F,/-F,/ | B, F, B, | D C B, | A, F, D, | C,2 C,/-C,/ | F, C, C, | 
+V:4 F,> F, F, | F, E, D,/-D,/ | G, D, G, | B, A, G, | F, D, B,, | A,,2 A,,/-A,,/ | D, A,, A,, | 
 %
-V:2 A  G  F  | c  A  c  | d  c  B/-B/   | (c  f)  d  | c  A  F  | (A<A)   G  | F2  ||
+V:2 F  E   D   | A  F  A  | B  A  G/-G/   | (A  d)  B  | A  F   D   | (F<F)     E   | D2  ||
 w: heart, * for hea-ven-ly har-mo-ny,_ Here on this hill will be fill-ing the air.
 w: well * and play your pipes proud-ly, For the Prince_ of Par-a-dise plays here to-night.
 w: souls * shall sing to in-fin-i-ty,_ Lift up and list-en and you_ shall hear.
 w: broth-er and fath-er and moth-er, A_gree with each oth-er the end to all war.
 w: bat-tle and drums of dis-a-ster, Be_ drowned in the sound of the pipes_ of peace.
-V:4 F, C, C, | A, F, A, | B, A, G,/-G,/ | (F, F,) G, | F, C, D, | (C,<C,) C, | F,2 ||
+V:4 D, A,, A,, | F, D, F, | G, F, E,/-E,/ | (D, D,) E, | D, A,, B,, | (A,,<A,,) A,, | D,2 ||
 %
 %%vskip 0
 %%staves [(1 2) | (3 4)]
 %%staffsep 4cm
 P: CHORUS
 %
-V:1 c | c A  F  | c A  F  | d3 | c2 c  | c  A  F  | c  A  F  |
+V:1 A  | A  F  D  | A  F  D  | B3  | A2 A  | A  F  D   | A  F  D   |
 w: With char-iots of cher-u-bim chant-ing, And ser-a-phim sing-ing ho-
-V:2 x | x x  x  | x x  x  | x3 | z2 c  | c  A  F  | c  A  F  |
+V:2 x  | x  x  x  | x  x  x  | x3  | z2 A  | A  F  D   | A  F  D   |
 w:                                  And ser-a-phim sing-ing ho-
-V:3 C | C A, F, | C A, F, | D3 | C3-   | C3-      | C3-      |
+V:3 A, | A, F, D, | A, F, D, | B,3 | A,3-  | A,3-      | A,3-      |
 w: With char-iots of cher-u-bim chant-ing,__
-V:4 x | x x  x  | x x  x  | x3 | z2 A, | A, F, C, | A, F, C, |
+V:4 x  | x  x  x  | x  x  x  | x3  | z2 F, | F, D, A,, | F, D, A,, |
 w:                                  And ser-a-phim sing-ing ho-
 %
-V:1  B3      | A2  c/c/   | c A    F  | c  c  c  | d   e  f  | c3        |
+V:1  G3       | F2  A/A/   | A F    D   | A  A  A  | B   c   d   | A3         |
 w:   san-      na, And a choir of arch-an-gels a-car-ol-ing come:
-V:2  B3      | A3-        | A3-       | A3       | z3        | F   G  A  |
+V:2  G3       | F3-        | F3-        | F3       | z3          | D   E  F   |
 w: san-na,__                                                car-ol-ing
-V:3  C3-     | C2  C/C/   | C  A,  F, | C  C  C  | D   E  F  | F3        |
+V:3  A,3-     | A,2 A,/A,/ | A, F,  D,  | A, A, A, | B,  C   D   | D3         |
 w:   __            And a choir of arch-an-gels a-car-ol-ing come:
-V:4 (C,2 E,) | F,2 F,/F,/ | F, A,, C, | F, F, F, | B,, C, D, | A,, C, F, |
+V:4 (A,,2 C,) | D,2 D,/D,/ | D, F,, A,, | D, D, D, | G,, A,, B,, | F,, A,, D, |
 w:   san_      na, And a choir of arch-an-gels a-car-ol-ing car-ol-ing
 %
-V:1 B2  A  | G2  F  | B2  A  | G c  c  | c A F | F A <c  |
-V:2 F2  F  | D2  C  | F2  F  | E E  c  | F  C  F  | F   F   <_E  | 
+V:1 G2  F  | E2  D  | G2  F  | E A   A  | A  F  D   | D   F   <A   |
+V:2 D2  D  | B,2 A, | D2  D  | C C   A  | D  A, D   | D   D   <=C  | 
 w: Hal-le-lu-jah! Hal-le-lu. All the an-gels a-trum-pet-ing
-V:3 D2  C  | B,2 A, | D2  C  | C  C B, | A, A, C  | A,  A,  <F,  | 
-V:4 B,2 A, | G,2 F, | B,2 A, | G, C B, | A, F, C, | F,, F,, <F,, | 
+V:3 B,2 A, | G,2 F, | B,2 A, | A, A, G, | F, F, A,  | F,  F,  <D,  |
+V:4 G,2 F, | E,2 D, | G,2 F, | E, A, G, | F, D, A,, | D,, D,, <D,, |
 %
-V:1 (d2   e)  | f2  d  | c  f  F   | A2  G |  F3-   | F2   |]
-V:2 (D2   C)  | D2  B, | C  F  C   | C2  C |  C3-   | C2   |]
+V:1 (B2   c)   | d2  B   | A  d  D   | F2   E   | D3-   | D2   |]
+V:2 (B,2  A,)  | B,2 G,  | A, D  A,  | A,2  A,  | A,3-  | A,2  |]
 w: glo_ry, In praise of the Prince of Peace._
-V:3  B,3      | A,2 B, | C  F  A,  | C2  B, | A,3-  | A,2  |]
-V:4 (B,,2 C,) | D,2 E, | F, F, A,, | C,2 C, | F,,3- | F,,2 |]
+V:3  G,3       | F,2 G,  | A, D  F,  | A,2  G,  | F,3-  | F,2  |]
+V:4 (G,,2 A,,) | B,,2 C, | D, D, F,, | A,,2 A,, | D,,3- | D,,2 |]
 %
 %%newpage
 %vskip 0.8cm
