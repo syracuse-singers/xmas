@@ -51,9 +51,9 @@ Updated in preparation for the 2021 caroling season. This list is not final.
 
 The songs in this archive are written in [abc music notation](http://abcnotation.com/) and then converted to staff notation, first as a PostScript file using Jef Moine's [abcm2ps](https://formulae.brew.sh/formula/abcm2ps) music program and finally to a PDF by using the MacOS Preview program.
 
-Each year, as we meet to practice, we make additions, corrections, key changes, and occasionally whimsical alterations to a song's setting. In addition, new carols &ndash; marked by the <img src="img/new.svg" alt="New"> icon &ndash; may be uploaded to the website before a final setting is approved by the group. The result is that some of the carols end up in a state of flux as we work on them. We actually find this situation to be slightly maddening, especially when we find ourselves working from different versions of the same carol because not everybody keeps their tunebook up to date. To further confuse things, the caroling group also may drop songs from its repertoire. When this happens, we remove it from the index of titles on the website and from the songbook, but we generally don't remove it from the repository.
+Each year, as we meet to practice, we make additions, corrections, key changes, and occasionally whimsical alterations to a song's setting. In addition, new carols &ndash; marked by the <img src="img/new.svg" alt="New"> icon &ndash; may be uploaded to the website before a final setting is approved by the group. The result is that some of the carols end up in a state of flux as we work on them. We actually find this situation to be slightly maddening, especially when we find ourselves working from different versions of the same carol because not everybody keeps their songbook up to date. 
 
-To help mitigate this, individual tunes have a date and timestamp in the footer as a way to reference the current canonical version. You can track changes (beginning in 2017) in the repository's [issues](https://github.com/syracuse-singers/xmas/issues) page or via the repository's [commit history](https://github.com/syracuse-singers/xmas/commits/master). We also maintain a kanban style [project board](https://github.com/syracuse-singers/xmas/projects/1) where you can follow the progress on songs we're working on or considering.
+To help mitigate this, individual tunes have a date and timestamp in the footer as a way to reference the most recent version. You can track changes (beginning in 2017) in the repository's [issues](https://github.com/syracuse-singers/xmas/issues) page or via the repository's [commit history](https://github.com/syracuse-singers/xmas/commits/master). We also maintain a kanban style [project board](https://github.com/syracuse-singers/xmas/projects/1) where you can follow the progress on songs we're working on or considering.
 
 ## Copyright
 
@@ -61,9 +61,10 @@ We are using a [Creative Commons CC-BY](https://creativecommons.org/licenses/by/
 
 ## Downloading Files
 
-For 2021, our intention is to print out new pages for the entire group to, literally, get us all on the same page. We'll use this timestamped version for now, mainly because the tunes marked "NEW" have not been vetted or corrected.
+For 2021, our intention is for the group to print out a new songbook using the file below to, literally, get us all on the same page. We'll use this timestamped version for now, mainly because the tunes marked "NEW" have not been vetted or corrected.
 
 - [2021 Caroling Songbook](tunebooks/xmas-2021.pdf) [Dec 8, 2021 11:48]
 
-See the [master carol repository](https://github.com/syracuse-singers/xmas) for the complete list of song files. Via the repository, can download the abc song masters individually or [download the entire repository in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip). You can find [past versions of tunes](https://github.com/syracuse-singers/xmas/releases).
+See the [master carol repository](https://github.com/syracuse-singers/xmas) for the complete list of song files. Via the repository, can download the abc song masters individually or [download the entire repository in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip). You can find [past versions of tunes](https://github.com/syracuse-singers/xmas/releases). 
 
+In the past, we have dropped songs from our repertoire. When this happens, we remove it from the index of titles on the website and from the songbook, but we generally don't remove it from the repository.
