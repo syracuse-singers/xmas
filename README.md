@@ -60,9 +60,9 @@ We are using a [Creative Commons CC-BY](https://creativecommons.org/licenses/by/
 
 ## Downloading Files
 
-For 2020, our intention had been to provide a single large songbook of the carols in our active repertoire. A final version would have been labelled "Caroling 2020" instead of bearing a timestamp. The hope had been to print out new pages for the entire group to, literally, get us all on the same page. All of those plans got blown out of the water because of the COVID-19 pandemic. So, we've been continuing to add new tunes to the website, but vetting them will have to wait until 2021.
+For 2021, our intention is to print out new pages for the entire group to, literally, get us all on the same page. We'll use this timestamped version for now, mainly because the tunes marked "NEW" have not been vetted or corrected.
 
-- [2020 Caroling Songbook](tunebooks/xmas-2020.pdf) [Apr 11, 2020 16:47]
+- [2021 Caroling Songbook](tunebooks/xmas-2021.pdf) [Dec 8, 2021 11:48]
 
 See the [master carol repository](https://github.com/syracuse-singers/xmas) for the complete list of song files. Via the repository, can download the abc song masters individually or [download the entire repository in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip). You can find [past versions of tunes](https://github.com/syracuse-singers/xmas/releases).
 
