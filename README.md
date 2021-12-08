@@ -49,7 +49,7 @@ Updated in preparation for the 2021 caroling season. This list is not final.
 
 ## Information About This Collection
 
-The songs in this archive are written in [abc music notation](http://abcnotation.com/) and then converted to staff notation as a PDF file using Jef Moine's [abcm2ps](https://formulae.brew.sh/formula/abcm2ps) music program. 
+The songs in this archive are written in [abc music notation](http://abcnotation.com/) and then converted to staff notation, first as a PostScript file using Jef Moine's [abcm2ps](https://formulae.brew.sh/formula/abcm2ps) music program and finally to a PDF by using the MacOS Preview program.
 
 Each year, as we meet to practice, we make additions, corrections, key changes, and occasionally whimsical alterations to a song's setting. In addition, new carols &ndash; marked by the <img src="img/new.svg" alt="New"> icon &ndash; may be uploaded to the website before a final setting is approved by the group. The result is that some of the carols end up in a state of flux as we work on them. We actually find this situation to be slightly maddening, especially when we find ourselves working from different versions of the same carol because not everybody keeps their tunebook up to date. To further confuse things, the caroling group also may drop songs from its repertoire. When this happens, we remove it from the index of titles on the website and from the songbook, but we generally don't remove it from the repository.
 
