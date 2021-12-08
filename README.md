@@ -40,6 +40,7 @@ Updated in preparation for the 2021 caroling season. This list is not final.
 1. [Over The Hill Over The Dale](pdf/over-the-hill-over-the-dale.pdf)
 1. [Please To See The King](pdf/please-to-see-the-king.pdf)
 1. [Rolling Downward](pdf/rolling-downward.pdf)
+1. [Rumsey Road Wassail](pdf/rumsey-road-wassail.pdf)
 1. [Shepherds Arise](pdf/shepherds-arise.pdf)
 1. [Sherburne C.M.](pdf/sherburne.pdf)
 1. [Somerset Wassail](pdf/somerset-wassail.pdf)
