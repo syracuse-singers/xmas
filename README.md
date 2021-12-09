@@ -47,24 +47,25 @@ Updated in preparation for the 2021 caroling season. This list is not final.
 1. [Wintertime](pdf/wintertime.pdf)
 1. [The Wren Song](pdf/wren-song.pdf)
 
+## Downloading Files
+
+For 2021, we ask members of the group to print out a new songbook using the file below to, literally, get us all on the same page. We'll use this timestamped version for now, mainly because several of the tunes marked "NEW" have not been vetted or corrected yet. 
+
+We're offering two versions of the songbook at the moment. The print version includes a [table of contents](https://docs.google.com/document/d/1S-5Jqz2rdc5soY4zLDcV7AOISRcnfWTUR-uOklLoB7U/edit?usp=sharing) and the occasional extra blank page to allow multi-page songs to layout nicely when you print double-sided. The tablet version includes bookmarks in the PDF, arranged in song title order, to help with navigation.
+
+- [2021 Caroling Songbook](tunebooks/xmas-2021-12-08_print.pdf) [print version] [Dec 8, 2021 11:48]
+- [2021 Caroling Songbook](tunebooks/xmas-2021-12-08_tablet.pdf) [tablet version] [Dec 8, 2021 11:48]
+
+See the [master carol repository](https://github.com/syracuse-singers/xmas) for the complete list of song files. Via the repository, can download the abc song masters individually or [download the entire repository in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip). You can find [past versions of tunes](https://github.com/syracuse-singers/xmas/releases). The repository included songs we have dropped songs from our repertoire. These are no longer indexed on the webpage.
+
 ## Information About This Collection
 
-The songs in this archive are written in [abc music notation](http://abcnotation.com/) and then converted to staff notation, first as a PostScript file using Jef Moine's [abcm2ps](https://formulae.brew.sh/formula/abcm2ps) music program and finally to a PDF by using the MacOS Preview program.
+The songs in this archive are written in [abc music notation](http://abcnotation.com/) and then converted to staff notation, first as a PostScript file using Jef Moine's [abcm2ps](https://formulae.brew.sh/formula/abcm2ps) music program and then, using the MacOS Preview program, to PDF format.
 
-Each year, as we meet to practice, we make additions, corrections, key changes, and occasionally whimsical alterations to a song's setting. In addition, new carols &ndash; marked by the <img src="img/new.svg" alt="New"> icon &ndash; may be uploaded to the website before a final setting is approved by the group. The result is that some of the carols end up in a state of flux as we work on them. We actually find this situation to be slightly maddening, especially when we find ourselves working from different versions of the same carol because not everybody keeps their songbook up to date. 
+Each year, as we meet to practice, we make additions, corrections, key changes, and other alterations to a song's setting. In addition, new carols &ndash; marked by the <img src="img/new.svg" alt="New"> icon &ndash; may be uploaded to the website before a final setting is approved by the group. The result is that some of the carols end up in a state of flux as we work on them. We actually find this situation to be slightly maddening, especially when we find ourselves working from different versions of the same carol because not everybody keeps their songbook up to date. 
 
 To help mitigate this, individual tunes have a date and timestamp in the footer as a way to reference the most recent version. You can track changes (beginning in 2017) in the repository's [issues](https://github.com/syracuse-singers/xmas/issues) page or via the repository's [commit history](https://github.com/syracuse-singers/xmas/commits/master). We also maintain a kanban style [project board](https://github.com/syracuse-singers/xmas/projects/1) where you can follow the progress on songs we're working on or considering.
 
 ## Copyright
 
 We are using a [Creative Commons CC-BY](https://creativecommons.org/licenses/by/2.0/) license, which means, in this case, that we allow the songs to be used and remixed as long as there is an attribution back to where you got the arrangement. Most of these songs are public domain, but there may be a few songs that are still under copyright. If you are the copyright holder, create an issue and let us know.
-
-## Downloading Files
-
-For 2021, our intention is for the group to print out a new songbook using the file below to, literally, get us all on the same page. We'll use this timestamped version for now, mainly because the tunes marked "NEW" have not been vetted or corrected.
-
-- [2021 Caroling Songbook](tunebooks/xmas-2021.pdf) [Dec 8, 2021 11:48]
-
-See the [master carol repository](https://github.com/syracuse-singers/xmas) for the complete list of song files. Via the repository, can download the abc song masters individually or [download the entire repository in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip). You can find [past versions of tunes](https://github.com/syracuse-singers/xmas/releases). 
-
-In the past, we have dropped songs from our repertoire. When this happens, we remove it from the index of titles on the website and from the songbook, but we generally don't remove it from the repository.
