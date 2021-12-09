@@ -56,7 +56,7 @@ We're offering two versions of the songbook at the moment. The print version inc
 - [2021 Caroling Songbook](tunebooks/xmas-2021-12-08_print.pdf) [print version] [Dec 8, 2021 11:48]
 - [2021 Caroling Songbook](tunebooks/xmas-2021-12-08_tablet.pdf) [tablet version] [Dec 8, 2021 11:48]
 
-See the [master carol repository](https://github.com/syracuse-singers/xmas) for the complete list of song files. Via the repository, can download the abc song masters individually or [download the entire repository in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip). You can find [past versions of tunes](https://github.com/syracuse-singers/xmas/releases). The repository included songs we have dropped songs from our repertoire. These are no longer indexed on the webpage.
+See the [master carol repository](https://github.com/syracuse-singers/xmas) for the complete list of song files. Via the repository, can download the abc song masters individually or [download the entire repository in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip). You can find [past versions of tunes](https://github.com/syracuse-singers/xmas/releases). The repository includes songs we have dropped songs from our repertoire. These are no longer indexed on the webpage.
 
 ## Information About This Collection
 
