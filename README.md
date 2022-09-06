@@ -2,7 +2,7 @@
 
 A group of singers in Syracuse, NY have been singing carols over the holidays for over 20 years. This site exists mostly as a way to share our favorite songs with each other. Keys and settings represent the preferences of the Syracuse group. Songs may be set for unison singing or parts depending on our preference and/or the availability of good arrangements. 
 
-These are not the carols you generally hear on the radio or in shopping malls. We largely draw on English pub carols but also include a few newer carols that have a traditional feel. You'll quickly figure out that not all of these are strictly speaking Christmas carols, but also include winter songs, wassails, wren songs (December 26), and even carols for the Feast Day of the Ass (January 14). 
+These are not the carols you generally hear on the radio or in shopping malls. We largely draw on [English pub carols](https://www.theguardian.com/lifeandstyle/2014/dec/14/god-rest-ye-merry-gentlemen-thriving-tradition-pub-christmas-carols) but also include a few newer carols that have a traditional feel. You'll quickly figure out that not all of these are strictly speaking Christmas carols, but also include Christmas-adjacent winter songs, such as Wassails (New Years Eve or Epiphany), Molly or Longsword songs (Plough Monday), Wren songs (December 26), and even carols for the Feast Day of the Ass (January 14).
 
 ## Index
 
