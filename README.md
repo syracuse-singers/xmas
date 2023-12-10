@@ -6,14 +6,14 @@ These are not the carols you generally hear on the radio or in shopping malls. W
 
 ## Complete Songbook Files
 
-We ask members of the local caroling group to print out a new songbook using the file below to, literally, get us all on the same page.
+We ask members of the local caroling group to print out a complete new songbook using one of the files below to, literally, get us all on the same page. The pages are timestamped "Dec 8, 2021" in the footer – the last time these files were updated – so you can easily tell what version you are using.
 
-There are two versions of the songbook – the only difference being how they are paginated. The "print version" includes a [table of contents](https://docs.google.com/document/d/1S-5Jqz2rdc5soY4zLDcV7AOISRcnfWTUR-uOklLoB7U/edit?usp=sharing) and the occasional extra blank page to facilitate multi-page songs so the songs all lay out nicely when you print double-sided. The "tablet version" includes bookmarks in the PDF, arranged in song title order, to help with navigation.
+There are two versions of the songbook PDFs – the only difference being how they are paginated. The "print version" includes a [table of contents](https://docs.google.com/document/d/1S-5Jqz2rdc5soY4zLDcV7AOISRcnfWTUR-uOklLoB7U/edit?usp=sharing) and the occasional extra blank page so multi-page songs lay out nicely when you print double-sided. The "tablet version" includes bookmarks in the PDF, arranged in song title order, to help with navigation.
 
 - [2021 Caroling Songbook](tunebooks/xmas-2021-12-08_print.pdf) [print version] [Dec 8, 2021 11:48]
 - [2021 Caroling Songbook](tunebooks/xmas-2021-12-08_tablet.pdf) [tablet version] [Dec 8, 2021 11:48]
 
-We all should be using one of these two versions for now: timestamped Dec 8, 2021. If you have a page with an older date, you might be out of sync with everybody else. There will be a few copies of the songbook printed out and available at our caroling practices – just ask!
+We all should be using one of these two versions for now. If you have a page with an older date, you might be out of sync with everybody else. There will be a few copies of the songbook printed out and available at our caroling practices – just ask!
 
 ## Index
 
