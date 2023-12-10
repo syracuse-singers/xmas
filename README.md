@@ -17,7 +17,7 @@ We all should be using one of these two versions for now: timestamped Dec 8, 202
 
 ## Index
 
-This list of songs was prepared for the 2021 caroling season. All of the songs listed here are also found in the complete songbook linked above, so there's no need to print them a second time if you have the songbook. Carols marked by the <img src="img/new.svg" alt="New"> icon are provisional. Some are carols we have never sung as a group and a few are updated settings. As such, they haven't all been vetted by the group and are likely not be in their final form.
+This list of songs was prepared for the 2021 caroling season. All of the songs listed here are also found in the complete songbook linked above, so there's no need to print them a second time if you have the songbook. Carols marked by the <img src="img/new.svg" alt="New"> icon are provisional. Some are carols we have never sung as a group and a few are updated settings. As such, they haven't all been vetted by the group and are likely not to be in their final form.
 
 1. [Apple Tree Wassail](pdf/apple-tree-wassail.pdf)
 1. [Arise And Hail The Joyful Day](pdf/arise-hail-joyful-day.pdf)
