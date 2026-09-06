@@ -16,6 +16,9 @@ V:4 clef=bass   name="Bass"    sname="B"
 M:3/4
 L:1/4
 K:E
+Q:175
+%%text Drumming: 5 beat lead in; drumming throughout %%endtext
+%%vskip 1cm
 %
 [V:1] B,  | E2    E  | E  F  G  | A   G   F   | G B B  | A  F  F  |
 [V:2] B,  | B,2   C  | B, B, E  | E   E   F   | E2  E  | C  C  C  |
@@ -55,27 +58,34 @@ W: 1. Wassail, wassail, all over the town!
 W:    Our toast it is white and our ale it is brown,
 W:    Our bowl it is made of the white maple tree;
 W:    With the wassailing bowl, we'll drink to thee.
+W:    Drink to thee, drink to thee,
+W:    With our wassailing bowl we'll drink to thee.
 W:
 W: 6. And here is to Colly and to her long tail,
 W:    Pray God send our master he never may fail,
 W:    A bowl of strong beer; I pray you draw near,
 W:    And our jolly wassail it's then you shall hear.
+W:    Then you shall hear, then you shall hear,
+W:    With our jolly wassail it's then you shall hear.
 W:
 W: 7. Come butler, come fill us a bowl of the best,
 W:    Then we hope that your soul in heaven may rest;
 W:    But if you do draw us a bowl of the small,
+W:    Then down shall go butler, bowl and all.
+W:    Bowl and all, bowl and all,
 W:    Then down shall go butler, bowl and all.
 W:
 W: 8. Then here's to the maid in the lily-white smock,
 W:    Who tripped to the door and slipped back the lock!
 W:    Who tripped to the door and pulled back the pin,
 W:    For to let these jolly wassailers in.
+W:    Wassailers in, wassailers in,
+W:    For to let these jolly wassailers in.
 W:
 W: 5. And here is to Fillpail and to her left ear,
 W:    Pray God send our master a happy New Year,
 W:    And a happy New Year as e'er he did see;
 W:    With our wassailing bowl, we'll drink to thee.
-W: Chorus:
 W:    Drink to thee, drink to thee,
 W:    With our wassailing bowl we'll drink to thee.
 W:
