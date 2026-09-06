@@ -8,6 +8,9 @@ C:traditional Irish
 M:6/8
 L:1/8
 K:F
+Q:110
+%%text Drumming: 3 beat lead in; drumming throughout %%endtext
+%%vskip 1cm
 %
 C | F2 F F2 F | F F F F2 F |
 w: The wren, the wren, the king of all birds, Saint
