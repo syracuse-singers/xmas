@@ -8,6 +8,9 @@ T:Gower Wassail
 M:9/8
 L:1/8
 K:B
+Q:150
+%%text Drumming: 4 beat lead in; drumming throughout %%endtext
+%%vskip 1cm
 %
 (D2 G) | G3 G3 (A2 G) | F3 F3 (G2 A) | B3 B3 c3 | A6 (B2 A) |
 w: A - was- sail a - was- sail, through - out all this town. Our_
