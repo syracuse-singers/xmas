@@ -16,8 +16,10 @@ V:4 clef=bass   name="Bass"    sname="B"
 %%staves [(1 2) | (3 4)]
 M:3/4
 L:1/4
-Q:1/4=84
+Q:1/4=120
 K:Ab maj
+%%text Drumming: 5 beat lead in; drumming throughout %%endtext
+%%vskip 1cm
 %
 [V:1] (A/2F/2) | E A B | A2 A/2 F/2 | E (A/2B/2) (c/2A/2) | B2 A/2 B/2 |
 [V:2] (C/2B,/2) | C (C/2D/2) E | E2 E/2 D/2 | C E F | B,2 C/2 D/2 |
