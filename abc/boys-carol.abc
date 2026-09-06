@@ -19,6 +19,9 @@ U: H = fermata
 M:C|
 L:1/4
 K:F
+Q:90
+%%text Drumming: 4 beat lead in; drumming throughout %%endtext
+%%vskip 1cm
 %
 [V:1] D  D  A2  | G  G  A2  | A  A  d2 |
 [V:2] D  D  A2  | G  C  D2  | D  A  D2 |
