@@ -8,8 +8,10 @@ C:anon. medieval carol
 C:English words, Susan Cooper
 M:2/4
 L:1/4
-Q:120
+Q:90
 K:D
+%%text Drumming: 4 beat lead in; drumming throughout %%endtext
+%%vskip 1cm
 %
 D/E/ F/D/ | E/=C/ D | A/A/ B/G/ | A/A/ F |
 w: O- ri- en- tis par- ti- bus ad- ven- ta- vit a- si- nus,
