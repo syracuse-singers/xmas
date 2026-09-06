@@ -9,6 +9,8 @@ Q:1/4=90
 M:4/4
 L:1/8
 K:D
+%%text Drumming: 4 beat lead in; drumming throughout %%endtext
+%%vskip 1cm
 %
 A | FA DA FA DA | GG GA E3 (A/G/) |
 w: 1.~~When Christ-mas-tide is gone and past, When fields lie stark and bare, Then_
@@ -23,10 +25,10 @@ w: wakes those he-roes of great fame, Who roll the year a-long. Who
 w: fore-fa-thers in days of old, Each bore a glor-ious name. Each
 %
 Ad dA FA DA | GG GA E3 A |
-w: out a fear or care, my boys, Let each with one ac-cord, Come
-w: clear and make the room, my boys, That we may sport and play, With
-w: roll the year a-long, my boys, For on-ly they know how. The
-w: bore a glor-ious name, my boys, Like-wise a shin-ing blade. They
+w: out a fear or care, me boys. Let each with one ac-cord, Come
+w: clear and make the room, me boys. That we may sport and play, With
+w: roll the year a-long, me boys. For on-ly they know how. The
+w: bore a glor-ious name, me boys. Like-wise a shin-ing blade. They
 %
 Ad dA FA DA | GG E>D D3 ||
 w: dance the round on fro-zen ground With rib-bon, drum, and sword.
@@ -80,16 +82,16 @@ W: 1. When Christmastide is gone and past
 W:    When fields lie stark and bare
 W:    Then let us brave the winter's blast
 W:    Without a fear or care
-W:    Without a fear or care my boys
+W:    Without a fear or care, me boys
 W:    Let each with one accord
 W:    Now dance the round on frozen ground
-W:    With ribbons, drum and sword
+W:    With ribbon, drum and sword
 W:
 W: 2. Now first of all comes Besom Bess
 W:    A-sweeping with her broom
 W:    To drive out winter's cold distress
 W:    To clear and make the room
-W:    To clear and make the room my boys
+W:    To clear and make the room, me boys
 W:    That we may sport and play
 W:    With swords that clash and brightly flash
 W:    Upon this holiday
@@ -98,7 +100,7 @@ W: 3. Let Lord and Lady start the game
 W:    Let Tom Fool sing the song
 W:    That wakes those heroes of great fame
 W:    Who roll the year along
-W:    Who roll the year along my boys
+W:    Who roll the year along, me boys
 W:    For only they know how
 W:    The plough becomes the shining sword
 W:    The sword becomes the plough
@@ -107,7 +109,7 @@ W: 4. Now enter in those heroes bold,
 W:    Those heroes of great fame
 W:    Their forefathers in days of old
 W:    Each bore a glorious name
-W:    Each bore a glorious name my boys
+W:    Each bore a glorious name, me boys
 W:    Likewise a shining blade
 W:    They leap and spin, the swords go in
 W:    And thus the Rose is made!
@@ -122,6 +124,5 @@ W:    Raise up the shining Rose
 %
 %%textfont Times-Italic 14
 %%begintext fill
-The song begins and ends with the chorus, repeated twice. Otherwise, the chorus is
-sung once between each verse.
+The chorus is repeated twice after the last verse.
 %%endtext
