@@ -8,10 +8,12 @@ T:Rumsey Road Wassail
 T:Old Apple Tree Wassail
 C:trad. English (Somerset)
 U:H = fermata
-Q:"with a swing   "3/8=96
 M:6/8
 L:1/8
 K:D
+Q:3/8=110
+%%text Drumming: 4 beat lead in; drumming throughout %%endtext
+%%vskip 1cm
 %
 z A, | D2 D (CB,) A, | G2 G (EF) G | 
 w: 1.~~Old ap-ple tree,_we was-sail thee,_ And
