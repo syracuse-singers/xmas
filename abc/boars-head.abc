@@ -17,6 +17,8 @@ M:4/4
 L:1/4
 Q:1/4=160
 K:Eb lydian
+%%text Drumming: 7 beat lead in; drumming throughout %%endtext
+%%vskip 1cm
 %
 F | B-B B-B/2B/2 | A B F D/2D/2 |
 w:1.~~The boar's_ head_ in hand bear I,_ Be-
@@ -67,6 +69,7 @@ W:In honor of the Queen of bliss,
 W:Which on this day to be served is, 
 W:In reginensi atrio. 
 W:[In the Queen's hall.]
+W:Caput apri defero, reddens laudes Domino.
 W:Caput apri defero, reddens laudes Domino.
 %
 %%vskip 1.0cm
