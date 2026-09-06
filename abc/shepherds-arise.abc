@@ -17,6 +17,9 @@ U: H = fermata
 M:C
 L:1/8
 K:G
+Q:130
+%%text Drumming: 4 beat lead in; quiet drumming throughout %%endtext
+%%vskip 1cm
 %
 [V:S] G,4 A,2 A,2|D6  D2 |(B,2 D4)     (EG)  |F6   D2  |(B,2 D4)   (CB,)|
 w: 1.~~Shep- herds a- rise. Be   not_  a -  fraid. With has - ty_ 
