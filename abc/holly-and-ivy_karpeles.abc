@@ -5,10 +5,12 @@ I:abc-charset utf-8
 X:1
 T:Holly and the Ivy, The
 C:collected by Maud Karpeles and Pat Shaw
-M:3/4
+M:6/8
 L:1/4
-Q:130
+Q:3/8 = 120
 K:F
+%%text Drumming: 4 beat lead in; drumming throughout %%endtext
+%%vskip 1cm
 %
 F/ | (A/G/) F/ (C/F/) G/ | F/ F2 c/ | (c/A/) F/ G  A/ | G3/2-G c/ |
 w: The  hol -  ly and_   the  i- vy,  When they_ are both full grown,_  Of
