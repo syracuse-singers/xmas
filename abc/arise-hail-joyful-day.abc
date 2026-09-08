@@ -17,8 +17,12 @@ M:C|
 L:1/4
 K:G
 Q:90
-%%text Drumming: 4 beat lead in; quiet drumming throughout %%endtext
-%%vskip 1cm
+%
+%%textfont Times-Italic 14
+%%begintext fill
+Drumming: 4 beat lead in; quiet drumming throughout
+%%endtext
+%%vskip 1.0cm
 %
 [V:1] G2 F G | A2 B2 | A3 A | B3 d | d2 c2 | (c>B) (A>G) |
 w: 1.~~A-  rise  and hail the  joy-   ful day.   Of your Re-  deem_ er's_
