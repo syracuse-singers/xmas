@@ -10,7 +10,7 @@ V:2 clef=treble name="Alto"    sname="A"
 V:3 clef=treble name="Tenor"   sname="T"
 V:4 clef=bass   name="Bass"    sname="B"
 %
-%%staves [1 | 2 | 3 | 4]
+%%score [1 2 3 4]
 U: H = fermata
 %
 M:C|
