@@ -2,15 +2,19 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:Holly and the Ivy, The
-C:collected by Maud Karpeles and Pat Shaw
-M:6/8
-L:1/4
-Q:3/8 = 120
-K:F
-%%text Drumming: 4 beat lead in; drumming throughout %%endtext
-%%vskip 1cm
+X: 1
+T: Holly and the Ivy, The
+C: collected by Maud Karpeles and Pat Shaw
+M: 6/8
+L: 1/4
+Q: 3/8 = 120
+K: F
+%
+%%textfont Times-Italic 14
+%%begintext fill
+Drumming: 4 beat lead in; drumming throughout
+%%endtext
+%%vskip 1.0cm
 %
 F/ | (A/G/) F/ (C/F/) G/ | F/ F2 c/ | (c/A/) F/ G  A/ | G3/2-G c/ |
 w: The  hol -  ly and_   the  i- vy,  When they_ are both full grown,_  Of
@@ -27,15 +31,16 @@ w: run - ning of the deer,_ The play- ing of_ the
 B/ A/ B/ (G/A/) B/ | A/ G/ F/ (G/F/) E/ | F3/2-F |]
 w: mer- ry or- gan,_ Sweet sing- ing all in_ the choir._
 %
-%%sep 0.8cm 0.8cm
+%%vskip 1.0cm
+%%sep 0.2cm 0.2cm 7cm
+%%vskip 0.8cm
 %
 W: 1. The holly and the ivy,
 W:    When they are both full grown.
 W:    Of all the trees that are in the wood
 W:    The holly bears the crown.
 W:
-W:    CHORUS
-W:    Oh, the rising of the sun,
+W; CHORUS. Oh, the rising of the sun,
 W:    And the running of the deer,
 W:    The playing of the merry organ,
 W:    Sweet singing all in the choir.
@@ -59,7 +64,6 @@ W: 5. The holly bears a bark,
 W:    As bitter as any gall,
 W:    And Mary bore sweet Jesus Christ,
 W:    For to redeem us all.
-W:
 W:
 W: We don't sing the last verse
 W:
