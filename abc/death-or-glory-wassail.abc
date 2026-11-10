@@ -7,11 +7,15 @@ T: Death or Glory Wassail
 C: Sid Kipper
 M: 6/8
 L: 1/8
-N: transcribed by Dan Clark
-K: C
 Q: 190
-%%text Drumming: 5 beat lead in; drumming throughout %%endtext
-%%vskip 1cm
+Z: transcribed by Dan Clark
+K: C
+%
+%%textfont Times-Italic 14
+%%begintext fill
+Drumming: 5 beat lead in; drumming throughout
+%%endtext
+%%vskip 1.0cm
 %
 ||:G | E2 G C2 C | FGA D2 G/F/ | EFG AFD | B,CD C2 z |
 w: Was-sail Was-sail, all o-ver the town, We - are all Was-sail-ers of fame and re-nown.
@@ -19,6 +23,8 @@ w: Was-sail Was-sail, all o-ver the town, We - are all Was-sail-ers of fame and 
 EFG C2 C | FGA DGF | EFG AFD | B,CD C2 :|]
 w: O-pen your door  and fill up our cup or we'll sing through your letter-box un-til you cough up.
 %
+%%vskip 1.0cm
+%%sep 0.2cm 0.2cm 7cm
 %%vskip 0.8cm
 %
 W:
