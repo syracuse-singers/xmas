@@ -4,16 +4,14 @@ I:abc-charset utf-8
 
 X:1
 T:Down In Yon Forest
-%
+M:6/8
+L:1/8
 V:1 clef=treble name="Soprano" sname="S"
 V:2 clef=treble name="Alto"    sname="A"
 V:3 clef=bass   name="Tenor"   sname="T"
 V:4 clef=bass   name="Bass"    sname="B"
-%
-%%staves [(1 2) | (3 4)]
+%%score [(1 2) (3 4)]
 U: H = fermata
-M:6/8
-L:1/8
 K:G#min
 %
 [V:1]  G   A   G   F   G  A  | B   A   G   A2  D  |
