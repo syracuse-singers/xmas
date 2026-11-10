@@ -5,7 +5,9 @@ I:abc-charset utf-8
 X:1
 T:Chariots
 C:John Kirkpatrick, 1995
-%
+M:3/4
+L:1/4
+Q:205
 V:1 clef=treble
 V:2 clef=treble
 V:3 clef=bass
@@ -16,21 +18,21 @@ V:4 clef=bass
 %%barsperstaff 0            % number of measures per staff
 %%gchordfont Times-Bold 14  % for chords
 %
-%%staves [2 | 4]
 U: H = fermata
-%
-M:3/4
-L:1/4
-% Q:1/4=250
 K:Dmaj
-Q:205
-%%text Drumming: 5 beat lead in; drumming throughout %%endtext
-%%vskip 1cm
+%
+%%textfont Times-Italic 14
+%%begintext fill
+Drumming: 5 beat lead in; drumming throughout
+%%endtext
+%%vskip 1.0cm
+%
+%%score [2 4]
 %
 V:2 D  | D  A,  D   | G  F  E  | D  F  A  | B  A  G/-G/   | A<d   B  | A-A  D  | 
 w: 1.~~O shep-herd, O shep-herd, come leave off your pip-ing, Come_ lis-ten come learn,_ come
 w: 2. See on yon sta-ble the star-light is shimmer-ing, And_ glimmer-ing and glisten-ing and
-w: 3. Bring your sheep bleat-ing to this hap-py meet-ing, To_ hear how the lamb with the 
+w: 3. Bring your sheep bleat-ing to this hap-py meet-ing, To_ learn how the lamb with the 
 w: 4.~~The war-mon-ger's char-ger will thun-der for free-dom, The_ gun-ma-ker's fur-nace will 
 w: 5.~~As~a can-dle can con-quer the de-mons of dark-ness, As a flame can keep frost from the 
 V:4 D, | D, A,, A,, | G, F, E, | D, F, A, | G, F, E,/-E,/ | D,<D, E, | D,-D, D, |
@@ -68,8 +70,9 @@ w: bat-tle and drums of dis-a-ster, Be_ drowned in the sound of the pipes_ of pe
 V:4 D, A,, A,, | F, D, F, | G, F, E,/-E,/ | (D, D,) E, | D, A,, B,, | (A,,<A,,) A,, | D,2 ||
 %
 %%vskip 0
-%%staves [(1 2) | (3 4)]
+%%score [(1 2) (3 4)]
 %%staffsep 4cm
+%
 P: CHORUS
 %
 V:1 A  | A  F  D  | A  F  D  | B3  | A2 A  | A  F  D   | A  F  D   |
@@ -132,7 +135,7 @@ W:So learn your tunes well and play your pipes proudly
 W:For the Prince of Paradise plays here tonight
 W:
 W:3. Bring your sheep bleating to this happy meeting
-W:To hear how the lamb with the lion shall lie
+W:To learn [hear] how the lamb with the lion shall lie
 W:It's mooing and braying you'll hear the song saying
 W:The humble and lowly will be the most high
 W:Let the horn of the herdsman be heard up in heaven
@@ -161,5 +164,7 @@ W:Be drowned in the sound of the pipes of peace
 %%vskip 0.8cm
 %%begintext fill
 %%Harmony setting transcribed from "Nowell Sing We Clear: 
-%%Songs & Carols for Midwinter & Christmastide"
+%%Songs & Carols for Midwinter & Christmastide".
+%%We changed "hear how the lamb" to "learn how the lamb" in
+%%verse 3 to make it even more alliterative. 
 %%endtext
