@@ -2,26 +2,26 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:Sherburne C. M.
-T:While Shepherds Watched Their Flocks
-C:Music by Daniel Read, 1793
-C:Text by Nahum Tate & Nicholas Brady, Supplement to the New Version of the Psalms , Ireland, 1700
+X: 1
+T: Sherburne C. M.
+T: While Shepherds Watched Their Flocks
+C: Music by Daniel Read, 1793
+C: Text by Nahum Tate & Nicholas Brady, Supplement to the New Version of the Psalms, Ireland, 1700
+M: 4/4
+L: 1/4
+Q: 1/4=150
+V:1 clef=treble name="Soprano" sname="S"
+V:2 clef=treble name="Alto"    sname="A"
+V:3 clef=treble name="Tenor"   sname="T"
+V:4 clef=bass   name="Bass"    sname="B"
+%%score [1 2 3 4]
+K: C
 %
-V:1 clef=treble
-V:2 clef=treble
-V:3 clef=treble
-V:4 clef=bass
-%
-%%staves [1 | 2 | 3 | 4]
-%
-M:4/4
-L:1/4
-K:C
-Q:1/4=150
-%%vskip 1cm
-%%text Drumming: 4 beat lead in; quiet drumming throughout %%endtext
-%%vskip 1cm
+%%textfont Times-Italic 14
+%%begintext fill
+Drumming: 4 beat lead in; quiet drumming throughout
+%%endtext
+%%vskip 1.0cm
 %
 [V:1] G2  G  E  | F/G/ A/B/ c c | c3   c   | B     G  A  G  | G3   ||
 w: 1.~While shep- herds watched - their - flocks by night, All seat- ed on the ground.
