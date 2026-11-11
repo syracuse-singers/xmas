@@ -2,24 +2,25 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:Shepherds Arise
-C:The Copper family
-C:Rottingdean, Sussex (traditional)
-%
+X: 1
+T: Shepherds Arise
+C: The Copper family
+C: Rottingdean, Sussex (traditional)
+M: C
+L: 1/8
+Q: 130
 V:S clef=treble name="Alto"  sname="A"
 V:T clef=bass   name="Tenor" sname="T"
 V:B clef=bass   name="Bass"  sname="B"
 %%score [S T B]
-%
 U: H = fermata
+K: G
 %
-M:C
-L:1/8
-K:G
-Q:130
-%%text Drumming: 4 beat lead in; quiet drumming throughout %%endtext
-%%vskip 1cm
+%%textfont Times-Italic 14
+%%begintext fill
+Drumming: 4 beat lead in; quiet drumming throughout %%endtext
+%%endtext
+%%vskip 1.0cm
 %
 [V:S] G,4 A,2 A,2|D6  D2 |(B,2 D4)     (EG)  |F6   D2  |(B,2 D4)   (CB,)|
 w: 1.~~Shep- herds a- rise. Be   not_  a -  fraid. With has - ty_ 
@@ -140,7 +141,9 @@ w: To our Re- deem- er and our hea- v'n- ly_ king.
 [V:B] [M:6/4] D4 C2 B,2 A,2 A,2|[M:2/4]  C,2  A,,2|[M:4/4]  D,4     H D,4    |G,,8|]
 w: To our Re- deem- er and our heav'n- ly king.
 %
-%%sep 0.8cm 0.8cm
+%%vskip 1.0cm
+%%sep 0.2cm 0.2cm 7cm
+%%vskip 0.8cm
 %
 %%begintext fill
 %%A powerful carol from the Copper family of Rottingdean, Sussex.
