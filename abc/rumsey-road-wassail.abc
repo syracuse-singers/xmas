@@ -3,17 +3,20 @@ I:abc-charset utf-8
 %%abc-include _carols.abh
 
 X:1
-T:Rumsey Road Wassail
+T: Rumsey Road Wassail
+T: Old Apple Tree Wassail
+C: trad. English (Somerset)
+M: 6/8
+L: 1/8
+Q: 3/8=110
+U: H = fermata
+K: D
 %
-T:Old Apple Tree Wassail
-C:trad. English (Somerset)
-U:H = fermata
-M:6/8
-L:1/8
-K:D
-Q:3/8=110
-%%text Drumming: 4 beat lead in; drumming throughout %%endtext
-%%vskip 1cm
+%%textfont Times-Italic 14
+%%begintext fill
+Drumming: 4 beat lead in; drumming throughout
+%%endtext
+%%vskip 1.0cm
 %
 z A, | D2 D (CB,) A, | G2 G (EF) G | 
 w: 1.~~Old ap-ple tree,_we was-sail thee,_ And
@@ -54,7 +57,9 @@ W: Hatfuls, capfuls, three bushel bagfuls
 W: And a little heap under the stairs
 W: Hip! Hip! Hurray!
 %
-%%sep 1.0cm 0.8cm
+%%vskip 1.0cm
+%%sep 0.2cm 0.2cm 7cm
+%%vskip 0.8cm
 %
 %%begintext fill
 %%The tune and first verse and chorus, with minor changes, are traditional.
