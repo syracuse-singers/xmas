@@ -1,0 +1,75 @@
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
+
+X: 1
+T: Joy Shall Be Yours in the Morning
+T: Carol from "The Wind In The Willows"
+C: Music by: Diane Adams & James McDowell (c)1999
+C: Lyrics by: Kenneth Grahame
+M: 3/4
+L: 1/4
+Q: 1/4=100
+Z: Setting by Daniel Clark; revised for songbook
+V:S clef=treble name="Soprano" sname="S" stem=up 
+V:A clef=treble name="Alto"    sname="A" stem=down 
+V:T clef=bass   name="Tenor"   sname="T" stem=up 
+V:B clef=bass   name="Bass"    sname="B" stem=down 
+%%score [(S A) (T B)]
+%%measurenb 0
+% transpose -3 % intention is to get this into the key of C
+K:Eb
+%
+[V:S] |: e>ee | B2B | (cB)A | B3 | (A/B/c) A | (G/A/B)G | F2E | 
+[V:A] |: G>AG | F2E | A2E | G3 | (EA)E | E2E | D2E | 
+w: Vil-la-gers all, this fros -ty tide, let__ your doors --swing o-pen 
+w: Good--man Jos-eph toiled through the snow, saw -- the star --o'er~a sta-ble
+w: And then they heard the an -gels tell who_ were the first__ to cry No-
+[V:T] |: B,>B,B, | B,2B, | (ED)C | E3 | (C/D/E) C | B,2 B, |B,2C | 
+[V:B] !mp!|:E,>E,E, | G,2G, | A,2A, | B,3 | A,2A, | (E,/F,/G,) E, | B,2F, | 
+%
+[V:S] F2B |(ed)c | BBB | (cB)A |  G3 | FGA | GAB | 
+[V:A]  D2B |G2 G | =AGF | E2 (E/F/) | D3 |!crescendo(! FFF | FEE
+w: wide, though wind_ may fol-low and snow_ be-side, yet draw us in by your fire_ to
+w:  low;_ Ma-ry she might_ not fur -ther go. Wel -come thatch -and
+w: well? The an-i-mals all_ as it_ be-fell, In_ the sta-ble where
+[V:T]  B,2B, |(GF)E | DDD | (ED)C | =B,3 | z3 | z2D | 
+[V:B]  B,,2 B, |C2 C | G,G,G, | A,2 F, | G,3 | z3 | z3 |
+%
+[V:S] (AB)c |(Bcd) |[1,2 e>d c | BAG | F3 | E3 :|]
+[V:A]  E2 F !crescendo)!|!crescendo(!G3 !crescendo)!| A>G F | FEF | (ECD) | B,3 :||
+w: fire_ to  bide__ Joy shall be yours in the morn-ing!
+w: !lit-ter be-low__ Joy_ was hers in the morn-ing!
+w: they_ did dwell__
+[V:T] (CD)E | D3 | C>E D | EB,B, | (B,2A,) | G,3 :||
+[V:B]  z2 A, | (G,=A,B,) | A,>A,A, | G,F,E, | B,,3 | [E,3 | E,,3 :|] 
+%
+[V:S] [3 e>d c | B3 | e d c//d//c//B// | B3 | e>d c | BAG | F3 | !fermata!E3]|
+[V:A] A>G F | F3 | z3 | z3 | A>G F | F E F | (ECD) | B,3 ||
+w: Joy shall be theirs, Joy shall be___ hers, Joy shall be yours in the morn-ing!
+[V:T] C>ED | E3 | z3 | z3 | C>ED | EB,B, | (B,2A,) | !fermata!G,3 ||
+[V:B] A,>A,A, | G,3 | z3 | z3 | A,>A,A, | G, F, E, | B,,3 | [E,3 E,,3] ||
+%
+%%vskip 1.0cm
+%%sep 0.2cm 0.2cm 7cm
+%%vskip 0.8cm
+%
+W: 1. Villagers all, this frosty tide,
+W: Let your doors swing open wide,
+W: Though wind may follow and snow beside, 
+W: Yet draw us in by your fire to bide,
+W: Joy shall be yours in the morning!
+W: 
+W: 2. Goodman Joseph toiled through the snow,
+W: Saw the star o'er a stable low;
+W: Mary she might not further go.
+W: Welcome thatch, and litter below!
+W: Joy was hers in the morning!
+W: 
+W: And then they heard the angels tell
+W: Who were the first to cry Nowell?
+W: The animals all, as it befell,
+W: In the stable where they did dwell
+W: Joy shall be theirs,
+W: Joy shall be hers,
+W: Joy shall be yours in the morning!
