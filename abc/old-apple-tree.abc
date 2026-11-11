@@ -21,10 +21,6 @@ w: hop-ing thou wilt bear._ The Lord does know_ where
 c2 c A B c | B B G A2 F | G3-G ||
 w:we shall be, To be mer-ry an-o-ther year._ To_
 %
-%%vskip 1.0cm
-%%sep 0.2cm 0.2cm 7cm
-%%vskip 0.8cm
-%
 P:CHORUS
 |: (Bc) | d3 d c B | c3 c B A | B2 c d2 B | 
 w: To_ blow well and to bear well, And so mer-ry let us
@@ -35,7 +31,9 @@ w: be;_ Let ev-'ry-one_ drink up his cup:_ Here's
 B G G A F F | G3-G :|
 w: health to the old ap-ple tree!_
 %
-%%sep 0.8cm 0.8cm
+%%vskip 1.0cm
+%%sep 0.2cm 0.2cm 7cm
+%%vskip 0.8cm
 %
 W: Old apple tree, we'll wassail thee,
 W: And hoping thou wilt bear.
