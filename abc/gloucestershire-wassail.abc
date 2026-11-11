@@ -2,23 +2,25 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:Gloucestershire Wassail
-C:Traditional
-C:arr. Ralph Vaughn-Williams
-%
+X: 1
+T: Gloucestershire Wassail
+C: Traditional
+C: arr. Ralph Vaughn-Williams
+M: 3/4
+L: 1/4
+Q: 175
 V:1 clef=treble name="Soprano" sname="S"
 V:2 clef=treble name="Alto"    sname="A"
 V:3 clef=bass   name="Tenor"   sname="T"
 V:4 clef=bass   name="Bass"    sname="B"
+%%score [(1 2) (3 4)]
+K: E
 %
-%%staves [(1 2) | (3 4)]
-M:3/4
-L:1/4
-K:E
-Q:175
-%%text Drumming: 5 beat lead in; drumming throughout %%endtext
-%%vskip 1cm
+%%textfont Times-Italic 14
+%%begintext fill
+Drumming: 5 beat lead in; drumming throughout
+%%endtext
+%%vskip 1.0cm
 %
 [V:1] B,  | E2    E  | E  F  G  | A   G   F   | G B B  | A  F  F  |
 [V:2] B,  | B,2   C  | B, B, E  | E   E   F   | E2  E  | C  C  C  |
