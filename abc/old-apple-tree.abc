@@ -2,15 +2,15 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:Old Apple Tree
-T:Apple Tree Wassail
-C:trad. English (Somerset)
+X: 1
+T: Old Apple Tree
+T: Apple Tree Wassail
+C: trad. English (Somerset)
+M: 6/8
+L: 1/8
+Q: "with a swing   " 3/8=96
 U: H = fermata
-Q:"with a swing   " 3/8=96
-M:6/8
-L:1/8
-K:G
+K: G
 %
 z D | G2 G (FE) D | c2 c (AB) c | 
 w: Old ap-ple tree,_we'll was-sail thee,_ And 
