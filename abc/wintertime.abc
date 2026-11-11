@@ -2,14 +2,14 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:Wintertime
-C:Music: George Gershwin
-C:Words: Susan Galbraith and an angel throng
-C: - with apologies to Du Bose Heyward
-M:C|
-L:1/4
-K:A
+X: 1
+T: Wintertime
+C: Music: George Gershwin
+C: Words: Susan Galbraith and an angel throng
+C:  - with apologies to Du Bose Heyward
+M: C|
+L: 1/4
+K: A
 %
 "swing it"c A | c4- | c z B/>A/ B/>c/ A | F2 C2- | C z c A |
 w: 1.~~Win- ter- time_ and a star is a-blaz- ing_ An- gels
@@ -23,7 +23,9 @@ z B/>A/ B/>c/ A | F2 C2- | C2 z C | E C/E/ F A | (c/ B3/2) A2 | (A F3) | z2 |]
 w: and your mom- ma's a vir- gin_ So hush lit- tle ba- by, don't_ you cry._
 w: you bet- ter get some dis- ci- ples, But watch out for Ju- das, that_ one's sly._
 %
-%%sep 0.8cm 0.8cm
+%%vskip 1.0cm
+%%sep 0.2cm 0.2cm 7cm
+%%vskip 0.8cm
 %
 W: 1. Wintertime and a star is a-blazing,
 W:    Angels singing as the shepherds draw nigh.
