@@ -2,23 +2,25 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:In the Bleak Midwinter
-C:Words by Christina Rossetti
-C:Music by Gustav Holst
-%
+X: 1
+T: In the Bleak Midwinter
+C: Words by Christina Rossetti
+C: Music by Gustav Holst
+M: C
+L: 1/4
+Q: 1/4=100
 V:1 clef=treble name="Soprano" sname="S"
 V:2 clef=treble name="Alto"    sname="A"
 V:3 clef=bass   name="Tenor"   sname="T"
 V:4 clef=bass   name="Bass"    sname="B"
+%%score [(1 2) (3 4)]
+K: G dorian
 %
-%%staves [(1 2) | (3 4)]
-M:C
-L:1/4
-Q:1/4=100
-K:G dorian
-%%text Drumming: 4 beat lead in; then no drum %%endtext
-%%vskip 1cm
+%%textfont Times-Italic 14
+%%begintext fill
+Drumming: 4 beat lead in; then no drum
+%%endtext
+%%vskip 1.0cm
 %
 [V:1] z  | A>B   c A   | G>-G   F z  | G>A    G   D   | G3        z |
 [V:2] z  | F>F   F C   | D>-D   D z  | D>D    D   C   | B,3       z |
