@@ -1,21 +1,19 @@
 %abc
 I:abc-charset utf-8
 %%abc-include _carols.abh
-%abc-include _wide.abh
+% abc-include _wide.abh
 
-X:1
-T:Liverpool
-C:lyrics: Nahum Tate, music attributed to John Hall of Sheffield Park c. 1790s
-%
+X: 1
+T: Liverpool
+C: lyrics: Nahum Tate, music attributed to John Hall of Sheffield Park c. 1790s
+L: 1/4
+M: 4/4
 V:1 clef=treble name="Soprano" sname="S"
 V:2 clef=treble name="Alto"    sname="A"
 V:3 clef=treble name="Tenor"   sname="T"
 V:4 clef=bass   name="Bass"    sname="B"
-%%staves [1 | 2 | 3 | 4]
-%
-L:1/4
-M:4/4
-K:G
+%%score [1 2 3 4]
+K: G
 %
 [V:1] G2 B G | E E F F | G3 G | A2 B2 | (A G) (F E) | D3 D |
 w: 1.~~While shep-herds watched their flocks by night, all sea-ted on_ the_ ground. The
