@@ -2,16 +2,20 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:Orientis Partibus
-C:anon. medieval carol
-C:English words, Susan Cooper
-M:2/4
-L:1/4
-Q:90
-K:D
-%%text Drumming: 4 beat lead in; drumming throughout %%endtext
-%%vskip 1cm
+X: 1
+T: Orientis Partibus
+C: anon. medieval carol
+C: English words, Susan Cooper
+M: 2/4
+L: 1/4
+Q: 90
+K: D
+%
+%%textfont Times-Italic 14
+%%begintext fill
+Drumming: 4 beat lead in; drumming throughout
+%%endtext
+%%vskip 1.0cm
 %
 D/E/ F/D/ | E/=C/ D | A/A/ B/G/ | A/A/ F |
 w: O- ri- en- tis par- ti- bus ad- ven- ta- vit a- si- nus,
@@ -22,7 +26,9 @@ w: pul- cher et for- tis- si- mus, Sar- ci- nis ap- tis- si- mus.
 D/E/ F/E/ | D z |]
 w: Hez, Sir As- nes, hez!
 %
-%%sep 0.8cm 0.8cm
+%%vskip 1.0cm
+%%sep 0.2cm 0.2cm 7cm
+%%vskip 0.8cm
 %
 W: 1. Orientis partibus,
 W:    Adventavit asinus,
