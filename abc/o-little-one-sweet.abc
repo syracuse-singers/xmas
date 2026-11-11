@@ -2,20 +2,18 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:O Little One Sweet
-C:Old German melody
-C:harmonized by J.S. Bach
-%
+X: 1
+T: O Little One Sweet
+C: Old German melody
+C: harmonized by J.S. Bach
+M: 3/4
+L: 1/4
 V:1 clef=treble name="Soprano" sname="S"
 V:2 clef=treble name="Alto"    sname="A"
 V:3 clef=bass   name="Tenor"   sname="T"
 V:4 clef=bass   name="Bass"    sname="B"
-%
-%%staves [(1 2) | (3 4)]
-M:3/4
-L:1/4
-K:Bb
+%%score [(1 2) (3 4)]
+K: Bb
 %
 [V:1]  B       |  B3/ A/    B | c2         A | B A  G | F2 d | c2     c      |
 [V:2]  D       | (D/=E/) ^F G | (G/=F/ =E) F | F>D =E | C2 F | (F>_E) (D/A/) |
@@ -54,7 +52,7 @@ w: ty!_ O lit_ tle one sweet, O lit_ tle one mild.
 [V:4] E,2 C, | D,      (E,/D,/) (E,/C,/) | D, (E,/D,/C,/B,,/) | E,  C,    F, | B,,2 |]
 w: *** *** ** O___ lit- tle one mild.
 %
-%%vskip 0.8cm
+%%newpage
 %
 W: 1. O little one sweet, O little one mild,
 W:    Thy Father's purpose thou hast fulfilled;
