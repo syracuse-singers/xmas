@@ -2,19 +2,17 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:Macaronic Carol
-C:Words and music by Ajemian and Newcomb
-%
+X: 1
+T: Macaronic Carol
+C: Words and music by Ajemian and Newcomb
+M: 3/4
+L: 1/4
 V:1 clef=treble name="Soprano" sname="S"
 V:2 clef=treble name="Alto"    sname="A"
 V:3 clef=bass   name="Tenor"   sname="T"
 V:4 clef=bass   name="Bass"    sname="B"
-%
-%%staves [(1 2) | (3 4)]
-M:3/4
-L:1/4
-K:C
+%%score [(1 2) (3 4)]
+K: C
 %
 [V:1] "SPRITELY" (c B) A | (G E) G | (A c) B | (A2  G)  | "NUMBLY"E E D  | 
 [V:2] (E B)  F | (E C) E | (F A) G | (F2  E)  | C C B, | 
@@ -56,7 +54,9 @@ w: year_ while car_ ol- ling. *   *   *   * *   * *
 [V:3] (F, G,) G, | G,2 G, | B,3 | A,2 E, | F, E, E, | E,3- | E,3 | 
 [V:4] (C, D,) E, | (C, B,,) C, | (D,2 E,) | E,2 A,, | D, E, B,, | A,,3- | A,,3 |
 %
-%%sep 0.8cm 0.8cm
+%%vskip 1.0cm
+%%sep 0.2cm 0.2cm 7cm
+%%vskip 0.8cm
 %
 W: 1. Hear us come through fields of snow.
 W:       Pedes frigidi sunt. [My feet are cold]
