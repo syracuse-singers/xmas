@@ -2,16 +2,20 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:Rolling Downward
-T:Angel Song, The
-C:Robert Lowry
-M:12/8
-L:1/8
-Q:3/8=100
-K:F
-%%text Drumming: 3 beat lead in; drumming throughout %%endtext
-%%vskip 1cm
+X: 1
+T: Rolling Downward
+T: Angel Song, The
+C: Robert Lowry
+M: 12/8
+L: 1/8
+Q: 3/8=100
+K: F
+%
+%%textfont Times-Italic 14
+%%begintext fill
+Drumming: 3 beat lead in; drumming throughout
+%%endtext
+%%vskip 1.0cm
 %
 (CD) E | F3 F6 A2 F | A3 A6 F2 G |
 w: 1.~Roll_ ing down- ward, through the mid- night, Comes a
@@ -38,7 +42,9 @@ w: earth good- will and peace to men_ Down_ the a- ges sound_ the
 B3 B6 (Bc) d | c3 A3 A3- A2 G | F6 - F3 |]
 w: e- cho: Let_ the glad earth shout_ a- gain._
 %
-%%sep 0.8cm 0.8cm
+%%vskip 1.0cm
+%%sep 0.2cm 0.2cm 7cm
+%%vskip 0.8cm
 %
 W: 1. Rolling downward, through the midnight,
 W:    Comes a glorious burst of heavenly song;
