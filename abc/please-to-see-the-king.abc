@@ -2,24 +2,26 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:Please to See the King
-T:Our King
-C:Traditional Welsh
-C:arr. John Bromka, 1991
-%
+X: 1
+T: Please to See the King
+T: Our King
+C: Traditional Welsh
+C: arr. John Bromka, 1991
+M: 3/4
+L: 1/4
+Q: 1/4=120
 V:1 clef=treble name="Soprano" sname="S"
 V:2 clef=treble name="Alto"    sname="A"
 V:3 clef=bass   name="Tenor"   sname="T"
 V:4 clef=bass   name="Bass"    sname="B"
+%%score [(1 2) (3 4)]
+K: Ab maj
 %
-%%staves [(1 2) | (3 4)]
-M:3/4
-L:1/4
-Q:1/4=120
-K:Ab maj
-%%text Drumming: 5 beat lead in; drumming throughout %%endtext
-%%vskip 1cm
+%%textfont Times-Italic 14
+%%begintext fill
+Drumming: 5 beat lead in; drumming throughout
+%%endtext
+%%vskip 1.0cm
 %
 [V:1] (A/2F/2) | E A B | A2 A/2 F/2 | E (A/2B/2) (c/2A/2) | B2 A/2 B/2 |
 [V:2] (C/2B,/2) | C (C/2D/2) E | E2 E/2 D/2 | C E F | B,2 C/2 D/2 |
@@ -35,7 +37,9 @@ w:leave_ we will sing_ con- cern_ ing our_ King.
 [V:4] (E,>D,) F, | [M:4/4] [L:1/4] D, A,- A, (A,/2C,/2) | [M:3/4] [L:1/4] (B,,/2E,/2) D, E, | A,,2 |]
 w:leave_ we will sing_ con_ cern_ ing our King.
 %
-%%sep 0.8cm 0.8cm
+%%vskip 1.0cm
+%%sep 0.2cm 0.2cm 7cm
+%%vskip 0.8cm
 %
 W: 1. Joy, health, love and peace be all here in this place.
 W:    By your leave we will sing concerning our King.
