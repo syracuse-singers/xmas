@@ -2,15 +2,19 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:Wren Song, The
-C:traditional Irish
-M:6/8
-L:1/8
-K:F
-Q:110
-%%text Drumming: 3 beat lead in; drumming throughout %%endtext
-%%vskip 1cm
+X: 1
+T: Wren Song, The
+C: traditional Irish
+M: 6/8
+L: 1/8
+K: F
+Q: 110
+% 
+%%textfont Times-Italic 14
+%%begintext fill
+Drumming: 3 beat lead in; drumming throughout
+%%endtext
+%%vskip 1.0cm
 %
 C | F2 F F2 F | F F F F2 F |
 w: The wren, the wren, the king of all birds, Saint
@@ -37,7 +41,9 @@ w: Sing- ing so well, Sing- ing so well,
 C3 F2 E | D3 G2 F | E3 A2 G | F3 z3 |]
 w: Give us a cop- per for sing- ing so well.
 %
-%%sep 0.8cm 0.8cm
+%%vskip 1.0cm
+%%sep 0.2cm 0.2cm 7cm
+%%vskip 0.8cm
 %
 W: 1. The wren, the wren, the king of all birds,
 W:    Saint Stephen's Day was caught in the furze,
