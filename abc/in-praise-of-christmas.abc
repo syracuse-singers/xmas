@@ -2,21 +2,19 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:In Praise of Christmas
-T:To Drive the Cold Winter Away
-C:Words: Tom Durfey (1653-1723)
-C:Tune: 18th Century
-H:Martin Shaw and Percy Dearmer, The English Carol Book, First Series
-S:A. H. Bullen, A Christmas Garland
-S:  (London: John C. Nimmo, 1885), pp. 157-161
-Z:http://www.hymnsandcarolsofchristmas.com/Hymns_and_Carols/drive_the_cold_winter_away.htm
-%
+X: 1
+T: In Praise of Christmas
+T: To Drive the Cold Winter Away
+C: Words: Tom Durfey (1653-1723)
+C: Tune: 18th Century
+M: 6/8
+L: 1/8
+H: Martin Shaw and Percy Dearmer, The English Carol Book, First Series
+S: A. H. Bullen, A Christmas Garland
+S:   (London: John C. Nimmo, 1885), pp. 157-161
+Z: http://www.hymnsandcarolsofchristmas.com/Hymns_and_Carols/drive_the_cold_winter_away.htm
 %%barsperstaff 3            % number of measures per staff
-%
-M:6/8
-L:1/8
-K:Am
+K: Am
 %
 A, | C3/ B,/ A, E2 A | G3/ F/ E c2 C | D3/ D/ E F3/ G/ F | E3- E2 A, | 
 w: 1.~All hail to the days that mer- it more praise, Than all of the rest of the year,_ And 
