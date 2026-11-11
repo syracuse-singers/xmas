@@ -2,13 +2,13 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:Lo, How a Rose E'er Blooming
-O:Cologne, 1599
-C:Setting by Michael Praetorius, 1609
-M:C
-L:1/4
-Q:125
+X: 1
+T: Lo, How a Rose E'er Blooming
+O: Cologne, 1599
+C: Setting by Michael Praetorius, 1609
+M: C
+L: 1/4
+Q: 125
 V:1 clef=treble name="Soprano" sname="S"
 V:2 clef=treble name="Alto"    sname="A"
 V:3 clef=bass   name="Tenor"   sname="T"
