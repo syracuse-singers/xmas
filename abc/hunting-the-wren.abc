@@ -2,11 +2,11 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:Hunting the Wren
-M:6/8
-L:1/8
-K:G
+X: 1
+T: Hunting the Wren
+M: 6/8
+L: 1/8
+K: G
 %
 d d d d3 | B  G G  G z2 | 
 w: "What- 'll we do?" says Ris- ky Rob.
@@ -20,7 +20,9 @@ w: "What- 'll we do?" says Jack-all-a- lone.
 c c c B3 | G  A A  G z2 |]
 w: "What- 'll we do?" says ev- 'ry- one. 
 %
-%%sep 0.8cm 0.8cm
+%%vskip 1.0cm
+%%sep 0.2cm 0.2cm 7cm
+%%vskip 0.8cm
 %
 W: "What'll we do?" says Risky Rob.
 W: "What'll we do?" says Robin to Bob.
