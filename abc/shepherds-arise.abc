@@ -13,6 +13,7 @@ V:S clef=treble name="Alto"  sname="A"
 V:T clef=bass   name="Tenor" sname="T"
 V:B clef=bass   name="Bass"  sname="B"
 %%score [S T B]
+%%staffsep 1.3cm
 U: H = fermata
 K: G
 %
