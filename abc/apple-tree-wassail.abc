@@ -2,13 +2,13 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:Apple Tree Wassail
-C:trad. English (Devonshire)
-M:6/8
-L:1/8
-Q:1/4=96
-K:Cmaj
+X: 1
+T: Apple Tree Wassail
+C: trad. English (Devonshire)
+M: 6/8
+L: 1/8
+Q: 1/4=96
+K: Cmaj
 %
 E | E<DE F<GF | E<DE D3 | E>DC (CG)F | EFD C2 E|
 w:1.~~O li-ly white li-ly, o li-ly white pin, Please to come down_ and let us come in! O
