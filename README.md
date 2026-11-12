@@ -10,6 +10,10 @@ These are not the carols you generally hear on the radio or in shopping malls. W
 
 The previous versions of the songbook, timestamped "Dec 8, 2021" in the footer, are being revised for 2026. Some songs will be retired and a few new ones added in. We are hoping that the book will be available before Sunday, November 15, in time for our next practice date. Even then, there will likely be few tweaks before everything is finalized. 
 
+### The 2021 edition will be replaced
+
+Don't bother printing these out if you are practicing with us. The whole thing will be replaced for 2026. This is just a placeholder until that happens.
+
 There are two versions of the songbook PDFs – the only difference being how they are paginated. The "print version" includes a [table of contents](https://docs.google.com/document/d/1S-5Jqz2rdc5soY4zLDcV7AOISRcnfWTUR-uOklLoB7U/edit?usp=sharing) and the occasional extra blank page so multi-page songs lay out nicely when you print double-sided. The "tablet version" includes bookmarks in the PDF, arranged in song title order, to help with navigation.
 
 - [2021 Caroling Songbook](tunebooks/xmas-2021-12-08_print.pdf) [print version] [Dec 8, 2021 11:48]
