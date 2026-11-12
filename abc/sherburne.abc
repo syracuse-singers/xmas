@@ -5,8 +5,7 @@ I:abc-charset utf-8
 X: 1
 T: Sherburne C. M.
 T: While Shepherds Watched Their Flocks
-C: Music by Daniel Read, 1793
-C: Text by Nahum Tate & Nicholas Brady, Supplement to the New Version of the Psalms, Ireland, 1700
+C: Text by Nahum Tate & Nicholas Brady, 1700; Music by Daniel Read, 1793
 M: 4/4
 L: 1/4
 Q: 1/4=150
@@ -15,13 +14,14 @@ V:2 clef=treble name="Alto"    sname="A"
 V:3 clef=treble name="Tenor"   sname="T"
 V:4 clef=bass   name="Bass"    sname="B"
 %%score [1 2 3 4]
+%%pagescale 0.8
 K: C
 %
 %%textfont Times-Italic 14
 %%begintext fill
 Drumming: 4 beat lead in; quiet drumming throughout
 %%endtext
-%%vskip 1.0cm
+%%vskip 0.5cm
 %
 [V:1] G2  G  E  | F/G/ A/B/ c c | c3   c   | B     G  A  G  | G3   ||
 w: 1.~While shep- herds watched - their - flocks by night, All seat- ed on the ground.
