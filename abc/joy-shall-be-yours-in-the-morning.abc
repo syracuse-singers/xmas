@@ -5,51 +5,51 @@ I:abc-charset utf-8
 X: 1
 T: Joy Shall Be Yours in the Morning
 T: Carol from "The Wind In The Willows"
-C: Music by: Diane Adams & James McDowell (c)1999
+C: Music by: Diane Adams & James McDowell ©1999
 C: Lyrics by: Kenneth Grahame
 M: 3/4
 L: 1/4
 Q: 1/4=100
 Z: Setting by Daniel Clark; revised for songbook
-V:S clef=treble name="Soprano" sname="S" stem=up 
-V:A clef=treble name="Alto"    sname="A" stem=down 
-V:T clef=bass   name="Tenor"   sname="T" stem=up 
-V:B clef=bass   name="Bass"    sname="B" stem=down 
-%%score [(S A) (T B)]
+V:S clef=treble name="Soprano" sname="S" stem=up
+V:A clef=treble name="Alto"    sname="A" stem=down
+V:T clef=bass   name="Tenor"   sname="T" stem=up
+V:B clef=bass   name="Bass"    sname="B" stem=down
+%%score [(S A) |(T B)]
 %%measurenb 0
 % transpose -3 % intention is to get this into the key of C
 U: H = fermata
 K: Eb
 %
-[V:S] |: e>e   e  | B2  B  | (c B) A   | B3  | (A/B/ c) A  | (G/A/ B)    G | F2   E  | 
-[V:A] |: G>A   G  | F2  E  |  A2   E   | G3  | (EA)     E  |  E2         E | D2   E  | 
-w: Vil-la-gers all, this fros-ty tide, let__ your doors -- swing o-pen 
-w: Good_man Jos-eph toiled through the snow, saw -- the star --o'er~a sta-ble
-w: And then they heard the an-gels tell who_ were the first__ to cry No-
-[V:T] |: B,>B, B, | B, 2B, | (E D) C   | E3  | (C/D/ E) C  |  B,2        B, | B,2 C  | 
-[V:B] |: E,>E, E, | G, 2G, |  A,   2A, | B,3 |  A,2     A, | (E,/F,/ G,) E, | B,2 F, | 
+[V:S] |: e>e   e  | B2  B  | (c B) A   | B3  | (A/B/ c) A  | (G/A/ B)    G | F2   E  |
+w: Vil-la-gers all, this fros_ty tide, let__ your doors__ swing o-pen
+w: Good_man Jos-eph toiled through the snow, saw__ the star__ o'er~a sta-ble
+w: And then they heard the an_gels tell who_ were the first__ to cry No-
+[V:A] |: G>A   G  | F2  E  |  A2   E   | G3  | (EA)     E  |  E2         E | D2   E  |
+[V:T] |: B,>B, B, | B,2 B, | (E D) C   | E3  | (C/D/ E) C  |  B,2        B, | B,2 C  |
+[V:B] |: E,>E, E, | G,2 G, |  A,2  A,  | B,3 |  A,2     A, | (E,/F,/ G,) E, | B,2 F, |
 %
-[V:S] F2   B  | (e d) c |  B  B  B | (c B) A     | G3  | F G A | G A B | 
-[V:A] D2   B  |  G2   G | =A  G  F |  E2  (E/F/) | D3  | F F F | F E E |
+[V:S] F2   B  | (e d) c |  B  B  B | (c B) A     | G3  | F G A | G A B |
 w: wide, though wind_ may fol-low and snow_ be-side, yet draw us in by your fire_ to
-w: low;_ Ma-ry she might_ not fur -ther go. Wel -come thatch -and
+w: low;_ Ma-ry she might_ not fur -ther go. Wel_come thatch_ and
 w: well. The an-i-mals all_ as it_ be-fell, In_ the sta-ble where
-[V:T] B,2  B, | (G F) E | D  D  D  | (E D) C     | =B,3 | z3   | z2  D | 
+[V:A] D2   B  |  G2   G | =A  G  F |  E2  (E/F/) | D3  | F F F | F E E |
+[V:T] B,2  B, | (G F) E | D  D  D  | (E D) C     | =B,3 | z3   | z2  D |
 [V:B] B,,2 B, |  C2   C | G, G, G, |  A,2  F,    |  G,3 | z3   | z3    |
 %
-[V:S] (A B) c  | (B   c  d)  |[1,2 e>d   c  | B  A  G  |  F3      | E3  :|
-[V:A]  E2   F  |  G3         |[1,2 A>G   F  | F  E  F  | (E C  D) | B,3 :|
+[V:S] (A B) c  | (B   c  d)  |[1,2 e>d   c  | B  A  G  |  F3       | E3         :|
 w: fire_ to  bide__ Joy shall be yours in the morn-ing!
 w: lit-ter be-low__ Joy_ was hers in the morn-ing!
 w: they_ did dwell__
+[V:A]  E2   F  |  G3         |[1,2 A>G   F  | F  E  F  | (E C  D)  | B,3        :|
 [V:T] (C D) E  |  D3         |[1,2 C>E   D  | E  B, B, | (B,2  A,) |  G,3       :|
 [V:B]  z2   A, | (G, =A, B,) |[1,2 A,>A, A, | G, F, E, |  B,,3     | [E,3 E,,3] :|
 %
 [V:S] [3 e>d   c  | B3  | e d c//d//c//B// | B3 | e>d   c  | B  A  G  |  F3      | H  E3        |]
-[V:A] [3 A>G   F  | F3  | z3               | z3 | A>G   F  | F  E  F  | (E C D)  | H  B,3       |]
 w: Joy shall be theirs, Joy shall be___ hers, Joy shall be yours in the morn-ing!
+[V:A] [3 A>G   F  | F3  | z3               | z3 | A>G   F  | F  E  F  | (E C D)  |    B,3       |]
 [V:T] [3 C>E   D  | E3  | z3               | z3 | C>E   D  | E  B, B, | (B,2 A,) | H  G,3       |]
-[V:B] [3 A,>A, A, | G,3 | z3               | z3 | A,>A, A, | G, F, E, |  B,,3    | H [E,3 E,,3] |]
+[V:B] [3 A,>A, A, | G,3 | z3               | z3 | A,>A, A, | G, F, E, |  B,,3    |   [E,3 E,,3] |]
 %
 %%vskip 1.0cm
 %%sep 0.2cm 0.2cm 7cm
@@ -57,16 +57,16 @@ w: Joy shall be theirs, Joy shall be___ hers, Joy shall be yours in the morn-ing
 %
 W: 1. Villagers all, this frosty tide,
 W:    Let your doors swing open wide,
-W:    Though wind may follow and snow beside, 
+W:    Though wind may follow and snow beside,
 W:    Yet draw us in by your fire to bide,
 W:    Joy shall be yours in the morning!
-W: 
+W:
 W: 2. Goodman Joseph toiled through the snow,
 W:    Saw the star o'er a stable low;
 W:    Mary she might not further go.
 W:    Welcome thatch, and litter below!
 W:    Joy was hers in the morning!
-W: 
+W:
 W: 3. And then they heard the angels tell
 W:    Who were the first to cry Nowell?
 W:    The animals all, as it befell,
