@@ -53,9 +53,7 @@ w: let us be mer- ry this long win- ter's night.
 [V:3] G,  G,  G,  D,  D, D, | D,  D,  D,  D,3  |]
 [V:4] G,, G,, G,, D,  D, D, | D,  D,  D,  G,,3 |]
 %
-%%vskip 1.0cm
-%%sep 0.2cm 0.2cm 7cm
-%%vskip 0.8cm
+%%newpage
 %
 W: 1. Down in yon forest a-growing so tall
 W:    There prosper in winter as so shall we all
