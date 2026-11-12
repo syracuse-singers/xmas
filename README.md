@@ -35,7 +35,7 @@ This list of songs was prepared for the 2021 caroling season. All of the songs l
 1. [Good King Wenceslaus](pdf/good-king-wenceslaus.pdf)
 1. [Gower Wassail](pdf/gower-wassail.pdf)
 1. [The Holly And The Ivy](pdf/holly-and-ivy-karpeles.pdf) (Karpeles tune)
-1. [The Holly And The Ivy](pdf/holly-and-ivy-secular.pdf) (Secular words) <img src="img/new.svg" alt="New">
+1. [The Holly And The Ivy](pdf/holly-and-ivy_secular.pdf) (Secular words) <img src="img/new.svg" alt="New">
 1. [Hunting The Cutty Wren](pdf/hunting-the-cutty-wren.pdf)
 1. [Hunting The Wren](pdf/hunting-the-wren.pdf)
 1. [In Praise Of Christmas](pdf/in-praise-of-christmas.pdf)
