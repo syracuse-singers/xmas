@@ -6,7 +6,9 @@ These are not the carols you generally hear on the radio or in shopping malls. W
 
 ## Complete Songbook Files
 
-We ask members of the local caroling group to print out a complete new songbook using one of the files below to, literally, get us all on the same page. The pages are timestamped "Dec 8, 2021" in the footer – the last time these files were updated – so you can easily tell what version you are using.
+### Under revision for 2026
+
+The previous versions of the songbook, timestamped "Dec 8, 2021" in the footer, are being revised for 2026. Some songs will be retired and a few new ones added in. We are hoping that the book will be available before Sunday, November 15, in time for our next practice date. Even then, there will likely be few tweaks before everything is finalized. 
 
 There are two versions of the songbook PDFs – the only difference being how they are paginated. The "print version" includes a [table of contents](https://docs.google.com/document/d/1S-5Jqz2rdc5soY4zLDcV7AOISRcnfWTUR-uOklLoB7U/edit?usp=sharing) and the occasional extra blank page so multi-page songs lay out nicely when you print double-sided. The "tablet version" includes bookmarks in the PDF, arranged in song title order, to help with navigation.
 
@@ -21,32 +23,27 @@ This list of songs was prepared for the 2021 caroling season. All of the songs l
 
 1. [Apple Tree Wassail](pdf/apple-tree-wassail.pdf)
 1. [Arise And Hail The Joyful Day](pdf/arise-hail-joyful-day.pdf)
-1. [Back Lane](pdf/back-lane.pdf) <img src="img/new.svg" alt="New">
 1. [The Boar's Head](pdf/boars-head.pdf)
 1. [The Boys Carol](pdf/boys-carol.pdf)
 1. [Chanukah / Solstice](pdf/chanukah-solstice.pdf)
-1. [Chariots](pdf/chariots__harmony.pdf) <img src="img/new.svg" alt="New">
-1. [Come, See the Boys Go Round](pdf/come-see-the-boys-go-round.pdf) <img src="img/new.svg" alt="New">
-1. [Copper's Christmas Song](pdf/coppers-christmas-song__harmony.pdf) <img src="img/new.svg" alt="New">
+1. [Chariots](pdf/chariots__harmony.pdf)
+1. [Come, See the Boys Go Round](pdf/come-see-the-boys-go-round.pdf)
 1. [The Cutty Wren](pdf/cutty-wren.pdf)
-1. [Death Or Glory Wassail](pdf/death-or-glory-wassail.pdf) <img src="img/new.svg" alt="New">
+1. [Death Or Glory Wassail](pdf/death-or-glory-wassail.pdf)
 1. [Down In Yon Forest](pdf/down-in-yon-forest.pdf)
-1. [Gaudete](pdf/gaudete.pdf) <img src="img/new.svg" alt="New">
 1. [Gloucestershire Wassail](pdf/gloucestershire-wassail.pdf)
 1. [Good King Wenceslaus](pdf/good-king-wenceslaus.pdf)
 1. [Gower Wassail](pdf/gower-wassail.pdf)
 1. [The Holly And The Ivy](pdf/holly-and-ivy-karpeles.pdf) (Karpeles tune)
-1. [Horsham Tipteerers Carol](pdf/horsham-tipteerers-carol.pdf) (Sussex Mummers Carol) <img src="img/new.svg" alt="New">
+1. [The Holly And The Ivy](pdf/holly-and-ivy-secular.pdf) (Secular words) <img src="img/new.svg" alt="New">
 1. [Hunting The Cutty Wren](pdf/hunting-the-cutty-wren.pdf)
 1. [Hunting The Wren](pdf/hunting-the-wren.pdf)
-1. [I Am Christmas](pdf/i-am-christmas__harmony.pdf) <img src="img/new.svg" alt="New">
 1. [In Praise Of Christmas](pdf/in-praise-of-christmas.pdf)
 1. [In The Bleak Midwinter](pdf/in-the-bleak-midwinter.pdf)
 1. [Liverpool](pdf/liverpool.pdf) <img src="img/new.svg" alt="New">
 1. [Lo, How A Rose E'er Blooming](pdf/lo-how-a-rose.pdf)
 1. [Macaronic Carol](pdf/macaronic-carol.pdf)
 1. [O Little One Sweet](pdf/o-little-one-sweet.pdf)
-1. [O Little Town of Bethlehem](pdf/o-little-town-of-bethlehem.pdf) (Forest Green tune) <img src="img/new.svg" alt="New">
 1. [Orientus Partibus](pdf/orientus-partibus.pdf)
 1. [Over The Hill Over The Dale](pdf/over-the-hill.pdf)
 1. [Please To See The King](pdf/please-to-see-the-king.pdf)
