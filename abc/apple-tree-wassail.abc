@@ -19,7 +19,7 @@ w:li-ly white li-ly, o li-ly white smock, Please to come down_ and pull back the
 %%vskip 0.5cm
 %
 P:Chorus
-C/D/ | (E<D)E (FG2) | GEC D3 | (E>D)C (CG)F | EFD C2E | 
+C/D/ | (E<D)E (FG2) | GEC D3 | (E>D)C (CG)F | EFD C2E |
 w:For it's our_ was-sail_ jol-ly was-sail! Joy_ come to_ our jol-ly was-sail! How
 %
 E>DE F2G | GEC D2E | EDC CGF | EFD C2 ||
@@ -28,33 +28,15 @@ w: well may they bloom, How well may they bear, So we may have ap-ples and ci-de
 %%vskip 0.5cm
 %
 P:Last time
-[M:4/4][L:1/8] C2 | D2EE EEFF | FFGG GGA2 | 
+[M:4/4][L:1/8] C2 | D2EE EEFF | FFGG GGA2 |
 w:O the ring-les and the jing-les and the te-nor of the song
 %
-G2 E4 D2 | C6 (E2 | D2 E2) F2 G2- | G2 (G2 E2) C2 | 
+G2 E4 D2 | C6 (E2 | D2 E2) F2 G2- | G2 (G2 E2) C2 |
 w:goes Mer-ri-ly, mer__ri-ly,_ mer_ri-
 %
 D4 C2 D2 | EEEE F2 (GA | G4) E4 | D2 C4 |]
 w:ly. O the te-nor of the song goes__ Mer-ri-ly.
 %
-%%vskip 0.8cm
-%
-%%begintext fill
-%%A luck charm for the Devon and Somerset cider country. To be sung either at the orchardman's door or in front of his trees. 
-%%Epiphany (12 days after Christmas) was reckoned a good time for the ceremony. 
-%%Roy Palmer prints the Apple Tree Wassail in his Everyman's Book of English Country Songs, and quotes the 
-%%Illustrated London News of January 11, 1851: "On Twelfth Eve, in Devonshire, it is customary for the farmer to leave his 
-%%warm fireside, accompanied by a band of rustics, with guns, blunderbusses, etc., 
-%%presenting an appearance which at other times would be somewhat alarming. 
-%%Thus armed, the band proceed to an adjoining orchard, where is selected one of 
-%%the most fruitful and aged of the apple trees, grouping round which they stand 
-%%and offer up their invocations in the following doggerel rhyme: 
-%%'Here's to thee/ Old apple tree!/ Whence thou mayst bud,/ And whence thou mayst 
-%%blow,/ And whence thou mayst bear,/ Apples enow:/ Hats full,/ Caps full,/ 
-%%Bushels,/ bushels, sacks full,/ And my pockets full, too!/ Huzza! huzza!' 
-%%The cider-jug is then passed around, and with many a hearty shout, the party 
-%%fire off their guns, charged with powder only, amidst the branches."
-%%endtext
 %%newpage
 %
 W:Apple Tree Wassail
@@ -99,3 +81,22 @@ W:Shouted:
 W:Hatfulls, capfulls, three-bushel bagfulls,
 W:Little heaps under the stairs.
 W:Hip hip hooray!
+%
+%%vskip 0.8cm
+%
+%%begintext fill
+%%A luck charm for the Devon and Somerset cider country. To be sung either at the orchardman's door or in front of his trees.
+%%Epiphany (12 days after Christmas) was reckoned a good time for the ceremony.
+%%Roy Palmer prints the Apple Tree Wassail in his Everyman's Book of English Country Songs, and quotes the
+%%Illustrated London News of January 11, 1851: "On Twelfth Eve, in Devonshire, it is customary for the farmer to leave his
+%%warm fireside, accompanied by a band of rustics, with guns, blunderbusses, etc.,
+%%presenting an appearance which at other times would be somewhat alarming.
+%%Thus armed, the band proceed to an adjoining orchard, where is selected one of
+%%the most fruitful and aged of the apple trees, grouping round which they stand
+%%and offer up their invocations in the following doggerel rhyme:
+%%'Here's to thee/ Old apple tree!/ Whence thou mayst bud,/ And whence thou mayst
+%%blow,/ And whence thou mayst bear,/ Apples enow:/ Hats full,/ Caps full,/
+%%Bushels,/ bushels, sacks full,/ And my pockets full, too!/ Huzza! huzza!'
+%%The cider-jug is then passed around, and with many a hearty shout, the party
+%%fire off their guns, charged with powder only, amidst the branches."
+%%endtext
