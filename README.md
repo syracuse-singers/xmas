@@ -40,6 +40,7 @@ This list of songs was prepared for the 2021 caroling season. All of the songs l
 1. [Hunting The Wren](pdf/hunting-the-wren.pdf)
 1. [In Praise Of Christmas](pdf/in-praise-of-christmas.pdf)
 1. [In The Bleak Midwinter](pdf/in-the-bleak-midwinter.pdf)
+1. [Joy Shall Be Yours in the Morning](pdf/joy-shall-be-yours-in-the-morning.pdf) <img src="img/new.svg" alt="New">
 1. [Liverpool](pdf/liverpool.pdf) <img src="img/new.svg" alt="New">
 1. [Lo, How A Rose E'er Blooming](pdf/lo-how-a-rose.pdf)
 1. [Macaronic Carol](pdf/macaronic-carol.pdf)
