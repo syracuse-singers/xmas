@@ -57,6 +57,7 @@ This list of songs was prepared for the 2021 caroling season. All of the songs l
 1. [Shepherds Arise](pdf/shepherds-arise.pdf)
 1. [Sherburne C.M.](pdf/sherburne.pdf)
 1. [Somerset Wassail](pdf/somerset-wassail.pdf)
+1. [The Trees Are All Bare](pdf/trees-are-all-bare.pdf)
 1. [Wintertime](pdf/wintertime.pdf)
 1. [The Wren Song](pdf/wren-song.pdf)
 
