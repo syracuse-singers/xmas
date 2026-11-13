@@ -1,0 +1,98 @@
+%abc
+I:abc-charset utf-8
+%%abc-include _carols.abh
+
+X:1
+T:The Trees Are All Bare
+C:Sussex (traditional)
+L:1/4
+M:C
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=bass
+V:4 clef=bass
+K:F
+%
+%%staves [(1 2) | 4]
+%
+[V:1] C  | F2  C  C  | F-F  (F/G/) A         | (G F)    (F/G/) A       | (G/A/     B2)  (A/B/)  |
+[V:2] C  | F2  C  C  | F F  (F/G/) A         | (D C)    (D/E/) F       | (G/^F/    G2)  (=F/E/) | 
+w: 1.~~The trees are all bare,_ not_ one green leaf to_ be seen,__ And the
+w: 2.~~'Twas down in the farm-yard where_ the ox-en feed_ on straw,__ They_
+w: 3.~~'Tis now all the small birds to_ the barn-door fly_ for food,__ And_
+w: 4.~~Now Christ-mas is come_ and_ our song is al_most done,__ For_
+[V:4] C, | F,2 E, F, | D,-D, D,    A,,/-A,,/ | (B,, A,,) D,   (D,/C,/) | (B,,/A,,/ G,,2) C,/-C,/ |  
+%
+[V:1]  c2  (G/A/) B  | (A  B)   G>F    | F2        z (F/G/) | A2  (G/A/) B  | A2 (G/A/) =B  |
+[V:2]  F2  (E/F/) G  | (F  F)   E>C    | A,2       z (F/E/) | F2   E     E  | F2  E     E  | 
+w: mea- dows_ their beau_ ty have lost. Now_ win- ter has come and 'tis
+w: send forth_ their breath_ like the steam. Sweet_ Bet-sy the milk-maid now
+w: gent-ly_ they rest_ on the spray. The_ in-no-cent hares run from  
+w: soon shall come the turn_ of the year. So_ fill up your glass-es and 
+[V:4]  A,,2 B,,   F, | (F, A,,) B,,>C, | [F,2F,,2] z  F,    | F,2 _E,    E, | F,2 C,    C, | 
+%
+[V:1] c  c (d/c/) =B | c2  C  C  | [M:6/4] D   E   (F>E   D)   z |
+[V:2] F  F  F     F  | E2  C  C  | [M:6/4] D  ^C   (D>A,  D)   z | 
+w: cold for man and beast, And the streams they are fro-zen,
+w: quick-ly she must go, For the flakes of ice she finds, 
+w: dens to search for food, Lest their foot-steps should be-tray,
+w: drink health all a-round, For we wish you all,__
+[V:4] F, F, D,    G, | C,2 C, C, | [M:6/4] B,, A,, (D,>C, B,,) z | 
+%
+[V:1] [M:4/4] B  A  B  c  | d-d   c  B  | A  B  G>F    |  F2       z |]
+[V:2] [M:4/4] F ^F  G =F  | F-F   F  G  | F  E  D>C    |  C2       z |]
+w: And the streams they are_ fro-zen fast_ by the frost.
+w: For the flakes of ice she finds a-float-ing on her cream.
+w: Lest their foot-steps should_ their_ where-a-bouts be-tray.
+w: For we wish you all a bright and joy_ful New Year.
+[V:4] [M:4/4] G, D, G, A, | B,-B, D, E, | F, G, B,,>C, | [F,2F,,2] z |]
+%
+%%vskip 1.0cm
+%%sep 0.2cm 0.2cm 7cm
+%%vskip 0.8cm
+%
+W: 1. The trees all are bare, not one green leaf to be seen,
+W:    And the meadows their beauty have lost.
+W:    Now winter has come and 'tis cold for man and beast,
+W:    And the streams they are frozen,
+W:    The streams they are frozen fast by the frost.
+W:
+W: 2. 'Twas down in the farmyard where the oxen feed on straw,
+W:    They send forth their breath like the steam.
+W:    Sweet Betsy the milkmaid now quickly she must go,
+W:    For the flakes of ice she finds,
+W:    For the flakes of ice she finds a-floating on her cream.
+W:
+W: 3. 'Tis now all the small birds to the barn-door fly for food,
+W:    And gently they rest on the spray.
+W:    The innocent hares run from dens to search for food,
+W:    Lest their footsteps should betray
+W:    Lest their footsteps should their whereabouts betray
+W:
+W: 4. Now Christmas is come and our song is almost done,
+W:    For soon shall come the turn of the year.
+W:    So fill up your glasses and drink health all around,
+W:    For we wish you all
+W:    For we wish you all a bright and joyful New Year
+%
+%%vskip 1.0cm
+%%sep 0.2cm 0.2cm 7cm
+%%vskip 0.8cm
+%
+%%textfont Times-Italic 14
+%%begintext fill
+%%Unknown outside of Sussex until recent times, this song appears to derive from 'Winter', a poem written
+%%by Thomas Brerewood of Horton, Cheshire (d. 1748). Known traditional singers include
+%%the Downs shepherd, Michael Blann from Upper Beeding, whose MS songbook is in the
+%%Sussex Library; George Townshend of Lewes, Sussex who was recorded in the 1960s; and
+%%the Copper Family from Rottingdean, Sussex. Roud Index 1170.
+%%endtext
+%
+%%vskip 0.3cm
+%%textfont Times-Italic 14
+%%begintext fill
+%%Our lyrics are an amalgam of the words sung by Bob Copper on the Copper Family's
+%%1971 recording, "A Song For Every Season" with a version recorded on Jackie Oates
+%%& John Spiers 2024 recording, "A Midwinter's Night". The tune hews close to the 
+%%Copper Family's version.
+%%endtext
