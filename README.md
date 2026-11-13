@@ -68,9 +68,7 @@ Songs we have dropped from our repertoire are are no longer indexed on this webp
 
 The songs in this archive are written in [abc music notation](http://abcnotation.com/) and then converted to staff notation, first as a PostScript file using Jef Moine's [abcm2ps](https://formulae.brew.sh/formula/abcm2ps) music program and then, using [Ghostview](https://formulae.brew.sh/formula/ghostscript), converted to PDF format.
 
-Each year, as we meet to practice, we make additions, corrections, key changes, and other alterations to a song's setting. In addition, new carols &ndash; marked by the <img src="img/new.svg" alt="New"> icon &ndash; may be uploaded to the website before a final setting is approved by the group. The result is that some of the carols end up in a state of flux as we work on them. 
-
-To help mitigate this, individual tunes have a date and timestamp in the footer as a way to reference the most recent version. You can track changes (beginning in 2017) in the repository's [issues](https://github.com/syracuse-singers/xmas/issues) page or via the repository's [commit history](https://github.com/syracuse-singers/xmas/commits/master). We also maintain a kanban style [project board](https://github.com/syracuse-singers/xmas/projects/1) where you can follow the progress on songs we're working on or considering. 
+Each year, as we meet to practice, we make additions, corrections, key changes, and other alterations to a song's setting. The result is that some of the carols end up in a state of flux as we work on them. To help mitigate this, individual tunes have a date and timestamp in the footer as a way to reference the most recent version. You can track changes (beginning in 2017) in the repository's [issues](https://github.com/syracuse-singers/xmas/issues) page or via the repository's [commit history](https://github.com/syracuse-singers/xmas/commits/master). We also maintain a kanban style [project board](https://github.com/syracuse-singers/xmas/projects/1) where you can follow the progress on songs we're working on or considering. 
 
 ## Copyright
 
