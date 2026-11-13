@@ -2,51 +2,57 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X: 1
+X:1
 T:Good King Wenceslaus
 C:J.M. Neale, 1818-1866
 M:C
 L:1/4
-K:G
-Q:160
-%%text Drumming: 4 beat lead in; drumming throughout %%endtext
-%%vskip 1cm
+K:Fmaj
+Q:1/4=160
 %
-GG GA|GG D2|ED EF|G2 G2|
-w: Good King Wen- ces- laus looked out on the feast of Ste- phen.
+%%textfont Times-Italic 14
+%%begintext fill
+%%Drumming: 4 beat lead in; drumming throughout
+%%endtext
+%%vskip 1.0cm
 %
-GG GA|GG D2|ED EF|G2 G2|
-w: When the snow lay round a- bout, deep and crisp and ev- en.
+FF FG|FF C2|DC DE|F2 F2|
+w:Good King Wen- ces- laus looked out on the feast of Ste- phen.
 %
-dc BA|BA G2|ED EF|G2 G2|
-w: Bright- ly shone the moon that night, though the frost was cru- el,
+FF FG|FF C2|DC DE|F2 F2|
+w:When the snow lay round a- bout, deep and crisp and ev- en.
 %
-DD EF|GG A-A|dc BA|G2 c2|G4|]
-w: When a poor man came in sight_ ga-ther-ing win-ter fu-el.
+cB AG|AG F2|DC DE|F2 F2|
+w:Bright- ly shone the moon that night, though the frost was cru- el,
 %
-%%sep 0.8cm 0.8cm
+CC DE|FF G-G|cB AG|F2 B2|F4|]
+w:When a poor man came in sight_ ga-ther-ing win-ter fu-el.
 %
-W: 1. Good King Wenceslaus looked out on the feast of Stephen.
-W:    When the snow lay round about, deep and crisp and even.
-W:    Brightly shone the moon that night, though the frost was cruel,
-W:    When a poor man came in sight, gathering winter fuel.
+%%vskip 1.0cm
+%%sep 0.2cm 0.2cm 7cm
+%%vskip 0.8cm
+%
+W:1. Good King Wenceslaus looked out on the feast of Stephen.
+W:When the snow lay round about, deep and crisp and even.
+W:Brightly shone the moon that night, though the frost was cruel,
+W:When a poor man came in sight, gathering winter fuel.
 W:
-W: 2. Hither page and stand by me, if thou knowst it telling,
-W:    Yonder peasant, who is he, where and what his dwelling?
-W:    Sire, he lives a good league hence, underneath the mountain,
-W:    Right against the forest fence, by Saint Agnes' fountain.
+W:2. Hither page and stand by me, if thou knowst it telling,
+W:Yonder peasant, who is he, where and what his dwelling?
+W:Sire, he lives a good league hence, underneath the mountain,
+W:Right against the forest fence, by Saint Agnes' fountain.
 W:
-W: 3. Bring me flesh and bring me wine, bring me pinelogs hither
-W:    Thou and I will see him dine, when we bear them thither
-W:    Page and monarch forth they went, forth they went together;
-W:    Through the rude winds wild lament and the bitter weather.
+W:3. Bring me flesh and bring me wine, bring me pinelogs hither
+W:Thou and I will see him dine, when we bear them thither
+W:Page and monarch forth they went, forth they went together;
+W:Through the rude winds wild lament and the bitter weather.
 W:
-W: 4. Sire, the night is darker now, and the wind blows stronger
-W:    Fails my heart, I know now how; I can go no longer.
-W:    Mark my footsteps, my good page, tread thou in them boldly;
-W:    Thou shalt find the winter's rage freeze thy blood less coldly.
+W:4. Sire, the night is darker now, and the wind blows stronger
+W:Fails my heart, I know now how; I can go no longer.
+W:Mark my footsteps, my good page, tread thou in them boldly;
+W:Thou shalt find the winter's rage freeze thy blood less coldly.
 W:
-W: 5. In his master's steps he trod, where the snow lay dinted;
-W:    Heat was in the very sod which the saint had printed.
-W:    Therefore, Christian men be sure, wealth or rank possessing,
-W:    Ye who now will bless the poor, shall yourselves find blessing.
+W:5. In his master's steps he trod, where the snow lay dinted;
+W:Heat was in the very sod which the saint had printed.
+W:Therefore, Christian men be sure, wealth or rank possessing,
+W:Ye who now will bless the poor, shall yourselves find blessing.
