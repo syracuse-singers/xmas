@@ -2,13 +2,13 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:Good King Wenceslaus
-C:J.M. Neale, 1818-1866
-M:C
-L:1/4
-Q:1/4=160
-K:Fmaj
+X: 1
+T: Good King Wenceslaus
+C: J.M. Neale, 1818-1866
+M: C
+L: 1/4
+Q: 1/4=160
+K: Fmaj
 %
 %%textfont Times-Italic 14
 %%begintext fill
