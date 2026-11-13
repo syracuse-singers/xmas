@@ -2,78 +2,65 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:Come, See the Boys Go Round
-C:Paul Davenport
-Q:1/4=90
-M:4/4
-L:1/8
-K:D
-%%text Drumming: 4 beat lead in; drumming throughout %%endtext
-%%vskip 1cm
+X: 1
+T: Come, See the Boys Go Round
+C: Paul Davenport
+M: 4/4
+L: 1/8
+Q: 1/4=90
+K: Bbmaj
 %
-A | FA DA FA DA | GG GA E3 (A/G/) |
-w: 1.~~When Christ-mas-tide is gone and past, When fields lie stark and bare, Then_
-w: 2.~~Now first of all comes Be-som Bess A-sweep-ing with her broom, To_
-w: 3.~~Let Lord and La-dy start the game, Let Tom Fool sing the song, That_
-w: 4.~~Now en-ter in those he-roes bold, Those he-roes of great fame, Their_
+%%textfont Times-Italic 14
+%%begintext fill
+%%Drumming: 4 beat lead in; drumming throughout
+%%endtext
+%%vskip 1.0cm
 %
-FA DA FA DA | GG E>D D3 A |
-w: let us brave the win-ter's blast With-out a fear or care. With-
-w: drive out win-ter's cold dis-tress, To clear and make the room. To
-w: wakes those he-roes of great fame, Who roll the year a-long. Who
-w: fore-fa-thers in days of old, Each bore a glor-ious name. Each
+F | DF B,F DF B,F | EE EF C3 (F/2E/2) |
+w:1.~~When Christ-mas-tide is gone and past, When fields lie stark and bare, Then_
+w:2.~~Now first of all comes Be-som Bess A-sweep-ing with her broom, To_
+w:3.~~Let Lord and La-dy start the game, Let Tom Fool sing the song, That_
+w:4.~~Now en-ter in those he-roes bold, Those he-roes of great fame, Their_
 %
-Ad dA FA DA | GG GA E3 A |
-w: out a fear or care, me boys. Let each with one ac-cord, Come
-w: clear and make the room, me boys. That we may sport and play, With
-w: roll the year a-long, me boys. For on-ly they know how. The
-w: bore a glor-ious name, me boys. Like-wise a shin-ing blade. They
+DF B,F DF B,F | EE C>B, B,3 F |
+w:let us brave the win-ter's blast With-out a fear or care. With-
+w:drive out win-ter's cold dis-tress, To clear and make the room. To
+w:wakes those he-roes of great fame, Who roll the year a-long. Who
+w:fore-fa-thers in days of old, Each bore a glor-ious name. Each
 %
-Ad dA FA DA | GG E>D D3 ||
-w: dance the round on fro-zen ground With rib-bon, drum, and sword.
-w: swords that clash and bright-ly flash, Up-on this hol-i-day.
-w: plough be-comes the shin-ing sword, The sword be-comes the plough.
-w: leap and spin, the swords go in, And thus the Rose is made!
+FB BF DF B,F | EE EF C3 F |
+w:out a fear or care, me boys. Let each with one ac-cord, Come
+w:clear and make the room, me boys. That we may sport and play, With
+w:roll the year a-long, me boys. For on-ly they know how. The
+w:bore a glor-ious name, me boys. Like-wise a shin-ing blade. They
+%
+FB BF DF B,F | EE C>B, B,3 ||
+w:dance the round on fro-zen ground With rib-bon, drum, and sword.
+w:swords that clash and bright-ly flash, Up-on this hol-i-day.
+w:plough be-comes the shin-ing sword, The sword be-comes the plough.
+w:leap and spin, the swords go in, And thus the Rose is made!
 %
 %%vskip 0
-P:Chorus
-A | Ad dc d3 A | A>G GA E3 A |
-w: Come, see the boys go round, How sweet the mu-sic flows. Bring
-Ad dA FA DA | GG E>D D3 |]
-w: forth the plough to break the ground, Raise up the shi-ning rose.
 %
+P:Chorus
+F | FB BA B3 F | F>E EF C3 F |
+w:Come, see the boys go round, How sweet the mu-sic flows. Bring
+FB BF DF B,F | EE C>B, B,3 |]
+w:forth the plough to break the ground, Raise up the shi-ning rose.
+%
+%%vskip 1.0cm
+%%sep 0.2cm 0.2cm 7cm
 %%vskip 0.8cm
 %
 %%textfont Times-Italic 14
 %%begintext fill
-Written in 2012 by Yorkshire songwriter, Paul Davenport, to describe the
-longsword dance performance of the Goathland Plough Stots. The Plough
-Stots are one of the remaining traditional longsword teams in England.
-The Stots were originally more of a mumming group who went around with a
-plough on Plough Monday soliciting money for Epiphany candles for the
-church and for seeds for crops. According to an article (reproduced
-on their website), written in the 1920s by Frank Dowson to describe the
-team's revival in 1922:
-
-They shouted and sang as they went on their rounds, and gradually a sort
-of rude pageant or play came into being. In time a "Lord" and "Lady" or
-"Gentleman" and "Lady" appeared at the head of the company, with
-collectors (known locally as "Toms"), and an old couple, "Isaac" and
-"Betty" ("T'awd man", and "T'awd woman") brought up the rear. It is not
-known when teams of Sword Dancers joined the Plough Stot companies, but
-such would almost naturally follow in the course of time. The Sword
-Dancers had quite distinct origin however, and such ritual dances have
-been in existence from time immemorial. ... Most villages or districts
-in North Yorkshire formerly had Sword Dance teams accompanying the Stots
-or the Mummers. These teams have all died out in course of time with the
-exception of those of Goathland and Sleights, and the last named company
-has not gone out in recent years.
-
-The dances are described in Ivor Allsop's "Longsword Dances from Traditional
-and Manuscript Sources". Goathland, or at least its train station, is also
-famous as the movie set for Hogsmeade in "Harry Potter and the Philosopher's
-Stone".
+%%Written in 2012 by Yorkshire songwriter, Paul Davenport, to describe the
+%%longsword dance performance of the Goathland Plough Stots. The Plough
+%%Stots are one of the remaining traditional longsword teams in England.
+%%The Stots were originally more of a mumming group who went around with a
+%%plough on Plough Monday soliciting money for Epiphany candles for the
+%%church and for seeds for crops. The dances are described in Ivor Allsop's
+%%"Longsword Dances from Traditional and Manuscript Sources".
 %%endtext
 %
 %%newpage
@@ -86,6 +73,12 @@ W:    Without a fear or care, me boys
 W:    Let each with one accord
 W:    Now dance the round on frozen ground
 W:    With ribbon, drum and sword
+W:
+W:    CHORUS
+W:    Come, see the boys go round
+W:    How sweet the music flows
+W:    Bring forth the plough to break the ground
+W:    Raise up the shining Rose
 W:
 W: 2. Now first of all comes Besom Bess
 W:    A-sweeping with her broom
@@ -114,15 +107,4 @@ W:    Likewise a shining blade
 W:    They leap and spin, the swords go in
 W:    And thus the Rose is made!
 W:
-W: Chorus
-W:    Come, see the boys go round
-W:    How sweet the music flows
-W:    Bring forth the plough to break the ground
-W:    Raise up the shining Rose
-%
-%%vskip 1.8cm
-%
-%%textfont Times-Italic 14
-%%begintext fill
-The chorus is repeated twice after the last verse.
-%%endtext
+W: The chorus is sung two times after the last verse.
