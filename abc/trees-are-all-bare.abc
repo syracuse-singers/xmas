@@ -2,17 +2,16 @@
 I:abc-charset utf-8
 %%abc-include _carols.abh
 
-X:1
-T:The Trees Are All Bare
-C:Sussex (traditional)
-L:1/4
-M:C
-V:1 clef=treble
-V:2 clef=treble
-V:3 clef=bass
-K:F
-%
+X: 1
+T: The Trees Are All Bare
+C: Sussex (traditional)
+L: 1/4
+M: C
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=bass
 %%score [(1 2) 3]
+K: F
 %
 [V:1] C  | F2  C  C  | F-F  (F/G/) A         | (G F)    (F/G/) A       | (G/A/     B2)  (A/B/)  |
 [V:2] C  | F2  C  C  | F F  (F/G/) A         | (D C)    (D/E/) F       | (G/^F/    G2)  (=F/E/) | 
