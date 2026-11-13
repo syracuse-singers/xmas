@@ -8,7 +8,7 @@ These are not the carols you generally hear on the radio or in shopping malls. W
 
 ### Under revision for 2026
 
-The previous versions of the songbook, timestamped "Dec 8, 2021" in the footer, are being revised for 2026. Some songs will be retired and a few new ones added in. We are hoping that the book will be available before Sunday, November 15, in time for our next practice date. Even then, there will likely be few tweaks before everything is finalized. 
+The previous versions of the songbook, timestamped "Dec 8, 2021" in the footer, are being revised for 2026. Some songs will be retired and a few new ones added. We are hoping that the first draft of the PDF songbook will be available before our next practice on Sunday, November 15. Since it is a draft, there will likely be few tweaks before everything is finalized. 
 
 ### The 2021 edition will be replaced
 
@@ -23,7 +23,7 @@ We all should be using one of these two versions for now. If you have a page wit
 
 ## Index
 
-This list of songs was prepared for the 2021 caroling season. All of the songs listed here are also found in the complete songbook linked above, so there's no need to print them a second time if you have the songbook. Carols marked by the <img src="img/new.svg" alt="New"> icon are provisional. Some are carols we have never sung as a group and a few are updated settings. As such, they haven't all been vetted by the group and are likely not to be in their final form.
+This list of songs is for the 2026 caroling season. All of the songs listed here are also found in the complete songbook linked above, so there's no need to print them a second time if you have the songbook. Carols marked by the <img src="img/new.svg" alt="New"> icon are being tried out for the first time this year and haven't been vetted by the group. 
 
 1. [Arise And Hail The Joyful Day](pdf/arise-hail-joyful-day.pdf)
 1. [The Boar's Head](pdf/boars-head.pdf)
@@ -62,15 +62,15 @@ This list of songs was prepared for the 2021 caroling season. All of the songs l
 
 ## Complete Carol Repository
 
-See the [master carol repository](https://github.com/syracuse-singers/xmas) for the complete list of song files. Via the repository, can download the abc song masters individually or [download the entire repository in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip). You can find [past versions of tunes](https://github.com/syracuse-singers/xmas/releases). The repository includes songs we have dropped from our repertoire and which are no longer indexed on the webpage.
+Songs we have dropped from our repertoire are are no longer indexed on this webpage. See the [master carol repository](https://github.com/syracuse-singers/xmas) for the complete list of song files, both current and past. You can download both the PDF and the abc song masters individually or [download the entire repository in one largish zip file](https://github.com/syracuse-singers/xmas/archive/master.zip). 
 
 ## Information About This Collection
 
-The songs in this archive are written in [abc music notation](http://abcnotation.com/) and then converted to staff notation, first as a PostScript file using Jef Moine's [abcm2ps](https://formulae.brew.sh/formula/abcm2ps) music program and then, using the MacOS Preview program, to PDF format.
+The songs in this archive are written in [abc music notation](http://abcnotation.com/) and then converted to staff notation, first as a PostScript file using Jef Moine's [abcm2ps](https://formulae.brew.sh/formula/abcm2ps) music program and then, using [Ghostview](https://formulae.brew.sh/formula/ghostscript), converted to PDF format.
 
-Each year, as we meet to practice, we make additions, corrections, key changes, and other alterations to a song's setting. In addition, new carols &ndash; marked by the <img src="img/new.svg" alt="New"> icon &ndash; may be uploaded to the website before a final setting is approved by the group. The result is that some of the carols end up in a state of flux as we work on them. We actually find this situation to be slightly maddening, especially when we find ourselves working from different versions of the same carol because not everybody keeps their songbook up to date.
+Each year, as we meet to practice, we make additions, corrections, key changes, and other alterations to a song's setting. In addition, new carols &ndash; marked by the <img src="img/new.svg" alt="New"> icon &ndash; may be uploaded to the website before a final setting is approved by the group. The result is that some of the carols end up in a state of flux as we work on them. 
 
-To help mitigate this, individual tunes have a date and timestamp in the footer as a way to reference the most recent version. You can track changes (beginning in 2017) in the repository's [issues](https://github.com/syracuse-singers/xmas/issues) page or via the repository's [commit history](https://github.com/syracuse-singers/xmas/commits/master). We also maintain a kanban style [project board](https://github.com/syracuse-singers/xmas/projects/1) where you can follow the progress on songs we're working on or considering.
+To help mitigate this, individual tunes have a date and timestamp in the footer as a way to reference the most recent version. You can track changes (beginning in 2017) in the repository's [issues](https://github.com/syracuse-singers/xmas/issues) page or via the repository's [commit history](https://github.com/syracuse-singers/xmas/commits/master). We also maintain a kanban style [project board](https://github.com/syracuse-singers/xmas/projects/1) where you can follow the progress on songs we're working on or considering. 
 
 ## Copyright
 
