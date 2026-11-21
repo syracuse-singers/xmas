@@ -4,7 +4,7 @@ These are not the carols you generally hear on the radio or in shopping malls. W
 
 ## 2026 Songbook
 
-There are two versions of the songbook PDFs – the only difference being how they are paginated. The "print version" includes a [table of contents](https://docs.google.com/document/d/1GabiZ_fLQxImBtX4AoFAZ3AhC9SBNgzddFVF-PY2FQY/edit) and the occasional extra blank page so multi-page songs lay out nicely when you print double-sided. The "tablet version" is the same but without the extra black pages. 
+There are two versions of the songbook PDFs – the main difference being how they are paginated. The "print version" includes a [table of contents](https://docs.google.com/document/d/1GabiZ_fLQxImBtX4AoFAZ3AhC9SBNgzddFVF-PY2FQY/edit) and the occasional extra blank page so multi-page songs lay out nicely when you print double-sided. The "tablet version" is the same but without the extra black pages and bookmarks have been added to the document outline to make navigation easier. 
 
 ⚠️ This version is still a draft. 
 
